@@ -1,0 +1,6488 @@
+{
+  "video_name": "LSTM",
+  "total_frames": 60,
+  "languages": [
+    "en"
+  ],
+  "confidence_threshold": 0.5,
+  "results": [
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0001.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "frame_id": 0,
+      "frame_number": 1
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0002.jpg",
+      "full_text": "Leng Short-Term",
+      "text_blocks": [
+        {
+          "text": "Leng Short-Term",
+          "confidence": 0.8675107267634516,
+          "bbox": [
+            [
+              190.0,
+              477.0
+            ],
+            [
+              676.0,
+              477.0
+            ],
+            [
+              676.0,
+              556.0
+            ],
+            [
+              190.0,
+              556.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 1,
+      "frame_id": 1,
+      "frame_number": 2
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0003.jpg",
+      "full_text": "Long Short-Term Memory Recurrent neurgli",
+      "text_blocks": [
+        {
+          "text": "Long Short-Term Memory",
+          "confidence": 0.7578829621419767,
+          "bbox": [
+            [
+              188.0,
+              469.0
+            ],
+            [
+              924.0,
+              469.0
+            ],
+            [
+              924.0,
+              558.0
+            ],
+            [
+              188.0,
+              558.0
+            ]
+          ]
+        },
+        {
+          "text": "Recurrent neurgli",
+          "confidence": 0.855594497293209,
+          "bbox": [
+            [
+              187.0,
+              809.0
+            ],
+            [
+              671.0,
+              809.0
+            ],
+            [
+              671.0,
+              893.0
+            ],
+            [
+              187.0,
+              893.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 2,
+      "frame_id": 2,
+      "frame_number": 3
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0004.jpg",
+      "full_text": "Long Short-Term Memory Recurrentneurallnetwork (RNN)",
+      "text_blocks": [
+        {
+          "text": "Long Short-Term Memory",
+          "confidence": 0.7603962374794927,
+          "bbox": [
+            [
+              188.0,
+              469.0
+            ],
+            [
+              924.0,
+              469.0
+            ],
+            [
+              924.0,
+              558.0
+            ],
+            [
+              188.0,
+              558.0
+            ]
+          ]
+        },
+        {
+          "text": "Recurrentneurallnetwork",
+          "confidence": 0.9578586313648306,
+          "bbox": [
+            [
+              189.0,
+              802.0
+            ],
+            [
+              917.0,
+              802.0
+            ],
+            [
+              917.0,
+              882.0
+            ],
+            [
+              189.0,
+              882.0
+            ]
+          ]
+        },
+        {
+          "text": "(RNN)",
+          "confidence": 0.9321472236899077,
+          "bbox": [
+            [
+              463.0,
+              877.0
+            ],
+            [
+              639.0,
+              877.0
+            ],
+            [
+              639.0,
+              945.0
+            ],
+            [
+              463.0,
+              945.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 3,
+      "frame_id": 3,
+      "frame_number": 4
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0005.jpg",
+      "full_text": "Long Short-Term Memory Recurrentneurallnetwork (RNN)",
+      "text_blocks": [
+        {
+          "text": "Long Short-Term Memory",
+          "confidence": 0.7493172083796386,
+          "bbox": [
+            [
+              188.0,
+              469.0
+            ],
+            [
+              924.0,
+              469.0
+            ],
+            [
+              924.0,
+              558.0
+            ],
+            [
+              188.0,
+              558.0
+            ]
+          ]
+        },
+        {
+          "text": "Recurrentneurallnetwork",
+          "confidence": 0.9588064341165929,
+          "bbox": [
+            [
+              189.0,
+              802.0
+            ],
+            [
+              917.0,
+              802.0
+            ],
+            [
+              917.0,
+              882.0
+            ],
+            [
+              189.0,
+              882.0
+            ]
+          ]
+        },
+        {
+          "text": "(RNN)",
+          "confidence": 0.7084593862103221,
+          "bbox": [
+            [
+              462.0,
+              874.0
+            ],
+            [
+              644.0,
+              874.0
+            ],
+            [
+              644.0,
+              946.0
+            ],
+            [
+              462.0,
+              946.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 3,
+      "frame_id": 4,
+      "frame_number": 5
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0006.jpg",
+      "full_text": "Leng Shont-Term Memory Recurrent neurallinetwork; (RNNJ",
+      "text_blocks": [
+        {
+          "text": "Leng Shont-Term Memory",
+          "confidence": 0.6161311267450337,
+          "bbox": [
+            [
+              199.0,
+              471.0
+            ],
+            [
+              921.0,
+              471.0
+            ],
+            [
+              921.0,
+              551.0
+            ],
+            [
+              199.0,
+              551.0
+            ]
+          ]
+        },
+        {
+          "text": "Recurrent neurallinetwork;",
+          "confidence": 0.6202949156800155,
+          "bbox": [
+            [
+              187.0,
+              803.0
+            ],
+            [
+              916.0,
+              803.0
+            ],
+            [
+              916.0,
+              876.0
+            ],
+            [
+              187.0,
+              876.0
+            ]
+          ]
+        },
+        {
+          "text": "(RNNJ",
+          "confidence": 0.5875836806256188,
+          "bbox": [
+            [
+              457.0,
+              873.0
+            ],
+            [
+              652.0,
+              873.0
+            ],
+            [
+              652.0,
+              950.0
+            ],
+            [
+              457.0,
+              950.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 3,
+      "frame_id": 5,
+      "frame_number": 6
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0007.jpg",
+      "full_text": "Leng Shont-Term Memory Recurrent neurallnetwork ( Em",
+      "text_blocks": [
+        {
+          "text": "Leng Shont-Term Memory",
+          "confidence": 0.6161311267450337,
+          "bbox": [
+            [
+              199.0,
+              471.0
+            ],
+            [
+              921.0,
+              471.0
+            ],
+            [
+              921.0,
+              551.0
+            ],
+            [
+              199.0,
+              551.0
+            ]
+          ]
+        },
+        {
+          "text": "Recurrent neurallnetwork",
+          "confidence": 0.7877166415460221,
+          "bbox": [
+            [
+              187.0,
+              803.0
+            ],
+            [
+              916.0,
+              803.0
+            ],
+            [
+              916.0,
+              878.0
+            ],
+            [
+              187.0,
+              878.0
+            ]
+          ]
+        },
+        {
+          "text": "(",
+          "confidence": 0.9131927069639723,
+          "bbox": [
+            [
+              708.0,
+              1118.0
+            ],
+            [
+              758.0,
+              1118.0
+            ],
+            [
+              758.0,
+              1192.0
+            ],
+            [
+              708.0,
+              1192.0
+            ]
+          ]
+        },
+        {
+          "text": "Em",
+          "confidence": 0.5402886775599595,
+          "bbox": [
+            [
+              790.0,
+              1118.0
+            ],
+            [
+              952.0,
+              1118.0
+            ],
+            [
+              952.0,
+              1198.0
+            ],
+            [
+              790.0,
+              1198.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 4,
+      "frame_id": 6,
+      "frame_number": 7
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0008.jpg",
+      "full_text": "Leng Shont-Term Memory Recurrent neurallinetwork;",
+      "text_blocks": [
+        {
+          "text": "Leng Shont-Term Memory",
+          "confidence": 0.6161311267450337,
+          "bbox": [
+            [
+              199.0,
+              471.0
+            ],
+            [
+              921.0,
+              471.0
+            ],
+            [
+              921.0,
+              551.0
+            ],
+            [
+              199.0,
+              551.0
+            ]
+          ]
+        },
+        {
+          "text": "Recurrent neurallinetwork;",
+          "confidence": 0.610095335822973,
+          "bbox": [
+            [
+              187.0,
+              803.0
+            ],
+            [
+              916.0,
+              803.0
+            ],
+            [
+              916.0,
+              876.0
+            ],
+            [
+              187.0,
+              876.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 2,
+      "frame_id": 7,
+      "frame_number": 8
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0009.jpg",
+      "full_text": "Leng Shont-Term Memory Recurrent neurallinetwork; (RNN)",
+      "text_blocks": [
+        {
+          "text": "Leng Shont-Term Memory",
+          "confidence": 0.6161311267450337,
+          "bbox": [
+            [
+              199.0,
+              471.0
+            ],
+            [
+              921.0,
+              471.0
+            ],
+            [
+              921.0,
+              551.0
+            ],
+            [
+              199.0,
+              551.0
+            ]
+          ]
+        },
+        {
+          "text": "Recurrent neurallinetwork;",
+          "confidence": 0.5471419856614014,
+          "bbox": [
+            [
+              187.0,
+              803.0
+            ],
+            [
+              916.0,
+              803.0
+            ],
+            [
+              916.0,
+              876.0
+            ],
+            [
+              187.0,
+              876.0
+            ]
+          ]
+        },
+        {
+          "text": "(RNN)",
+          "confidence": 0.9053348371875114,
+          "bbox": [
+            [
+              457.0,
+              873.0
+            ],
+            [
+              652.0,
+              873.0
+            ],
+            [
+              652.0,
+              950.0
+            ],
+            [
+              457.0,
+              950.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 3,
+      "frame_id": 8,
+      "frame_number": 9
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0010.jpg",
+      "full_text": "Leng Shont-Term Memory Recurrent neurallinetwork; (RNN)",
+      "text_blocks": [
+        {
+          "text": "Leng Shont-Term Memory",
+          "confidence": 0.6161311267450337,
+          "bbox": [
+            [
+              199.0,
+              471.0
+            ],
+            [
+              921.0,
+              471.0
+            ],
+            [
+              921.0,
+              551.0
+            ],
+            [
+              199.0,
+              551.0
+            ]
+          ]
+        },
+        {
+          "text": "Recurrent neurallinetwork;",
+          "confidence": 0.5152362352776496,
+          "bbox": [
+            [
+              187.0,
+              803.0
+            ],
+            [
+              916.0,
+              803.0
+            ],
+            [
+              916.0,
+              876.0
+            ],
+            [
+              187.0,
+              876.0
+            ]
+          ]
+        },
+        {
+          "text": "(RNN)",
+          "confidence": 0.8682211755239828,
+          "bbox": [
+            [
+              457.0,
+              873.0
+            ],
+            [
+              652.0,
+              873.0
+            ],
+            [
+              652.0,
+              950.0
+            ],
+            [
+              457.0,
+              950.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 3,
+      "frame_id": 9,
+      "frame_number": 10
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0011.jpg",
+      "full_text": "Short-Term Memory Recurrent neuranetwork (RNN) 24 Long",
+      "text_blocks": [
+        {
+          "text": "Short-Term Memory",
+          "confidence": 0.8273856297756357,
+          "bbox": [
+            [
+              338.0,
+              471.0
+            ],
+            [
+              919.0,
+              471.0
+            ],
+            [
+              919.0,
+              551.0
+            ],
+            [
+              338.0,
+              551.0
+            ]
+          ]
+        },
+        {
+          "text": "Recurrent neuranetwork",
+          "confidence": 0.7763674083112915,
+          "bbox": [
+            [
+              189.0,
+              806.0
+            ],
+            [
+              916.0,
+              806.0
+            ],
+            [
+              916.0,
+              880.0
+            ],
+            [
+              189.0,
+              880.0
+            ]
+          ]
+        },
+        {
+          "text": "(RNN)",
+          "confidence": 0.5084276882098351,
+          "bbox": [
+            [
+              460.0,
+              874.0
+            ],
+            [
+              642.0,
+              874.0
+            ],
+            [
+              642.0,
+              946.0
+            ],
+            [
+              460.0,
+              946.0
+            ]
+          ]
+        },
+        {
+          "text": "24",
+          "confidence": 0.5000335220291451,
+          "bbox": [
+            [
+              574.0,
+              1342.0
+            ],
+            [
+              632.0,
+              1342.0
+            ],
+            [
+              632.0,
+              1396.0
+            ],
+            [
+              574.0,
+              1396.0
+            ]
+          ]
+        },
+        {
+          "text": "Long",
+          "confidence": 0.6587832126183223,
+          "bbox": [
+            [
+              198.02372034707875,
+              470.06841446425915
+            ],
+            [
+              348.7718707063859,
+              491.227496929201
+            ],
+            [
+              336.9762796529212,
+              554.9315855357409
+            ],
+            [
+              186.22812929361405,
+              533.772503070799
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 5,
+      "frame_id": 10,
+      "frame_number": 11
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0012.jpg",
+      "full_text": "Short-Verm Memory Recurrent neuranetwork 24 Long",
+      "text_blocks": [
+        {
+          "text": "Short-Verm Memory",
+          "confidence": 0.610584316300895,
+          "bbox": [
+            [
+              338.0,
+              471.0
+            ],
+            [
+              919.0,
+              471.0
+            ],
+            [
+              919.0,
+              551.0
+            ],
+            [
+              338.0,
+              551.0
+            ]
+          ]
+        },
+        {
+          "text": "Recurrent neuranetwork",
+          "confidence": 0.8021640791928545,
+          "bbox": [
+            [
+              189.0,
+              806.0
+            ],
+            [
+              916.0,
+              806.0
+            ],
+            [
+              916.0,
+              880.0
+            ],
+            [
+              189.0,
+              880.0
+            ]
+          ]
+        },
+        {
+          "text": "24",
+          "confidence": 0.5000335220291451,
+          "bbox": [
+            [
+              574.0,
+              1342.0
+            ],
+            [
+              632.0,
+              1342.0
+            ],
+            [
+              632.0,
+              1396.0
+            ],
+            [
+              574.0,
+              1396.0
+            ]
+          ]
+        },
+        {
+          "text": "Long",
+          "confidence": 0.6587832126183223,
+          "bbox": [
+            [
+              198.02372034707875,
+              470.06841446425915
+            ],
+            [
+              348.7718707063859,
+              491.227496929201
+            ],
+            [
+              336.9762796529212,
+              554.9315855357409
+            ],
+            [
+              186.22812929361405,
+              533.772503070799
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 4,
+      "frame_id": 11,
+      "frame_number": 12
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0013.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "frame_id": 12,
+      "frame_number": 13
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0014.jpg",
+      "full_text": "Short-Term Memory Long",
+      "text_blocks": [
+        {
+          "text": "Short-Term Memory",
+          "confidence": 0.8379729187092261,
+          "bbox": [
+            [
+              327.0,
+              266.0
+            ],
+            [
+              909.0,
+              266.0
+            ],
+            [
+              909.0,
+              350.0
+            ],
+            [
+              327.0,
+              350.0
+            ]
+          ]
+        },
+        {
+          "text": "Long",
+          "confidence": 0.5142592191696167,
+          "bbox": [
+            [
+              182.98154206653618,
+              263.07448605244605
+            ],
+            [
+              334.79629445605497,
+              284.3235807008398
+            ],
+            [
+              323.0184579334638,
+              344.92551394755395
+            ],
+            [
+              171.20370554394506,
+              324.6764192991602
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 2,
+      "frame_id": 13,
+      "frame_number": 14
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0015.jpg",
+      "full_text": "Long Short-TermMemory",
+      "text_blocks": [
+        {
+          "text": "Long Short-TermMemory",
+          "confidence": 0.766892251256903,
+          "bbox": [
+            [
+              171.0,
+              262.0
+            ],
+            [
+              907.0,
+              262.0
+            ],
+            [
+              907.0,
+              350.0
+            ],
+            [
+              171.0,
+              350.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 1,
+      "frame_id": 14,
+      "frame_number": 15
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0016.jpg",
+      "full_text": "#Forget Gate",
+      "text_blocks": [
+        {
+          "text": "#Forget Gate",
+          "confidence": 0.8852431522248233,
+          "bbox": [
+            [
+              362.0,
+              400.0
+            ],
+            [
+              764.0,
+              400.0
+            ],
+            [
+              764.0,
+              479.0
+            ],
+            [
+              362.0,
+              479.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 1,
+      "frame_id": 15,
+      "frame_number": 16
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0017.jpg",
+      "full_text": "#Forget Gate 2 Input Gate 3 Ouput Gate",
+      "text_blocks": [
+        {
+          "text": "#Forget Gate",
+          "confidence": 0.5354501794155588,
+          "bbox": [
+            [
+              360.0,
+              402.0
+            ],
+            [
+              764.0,
+              402.0
+            ],
+            [
+              764.0,
+              478.0
+            ],
+            [
+              360.0,
+              478.0
+            ]
+          ]
+        },
+        {
+          "text": "2 Input Gate",
+          "confidence": 0.7206648696627026,
+          "bbox": [
+            [
+              344.0,
+              473.0
+            ],
+            [
+              727.0,
+              473.0
+            ],
+            [
+              727.0,
+              558.0
+            ],
+            [
+              344.0,
+              558.0
+            ]
+          ]
+        },
+        {
+          "text": "3 Ouput Gate",
+          "confidence": 0.7355613367160649,
+          "bbox": [
+            [
+              350.0,
+              550.0
+            ],
+            [
+              781.0,
+              550.0
+            ],
+            [
+              781.0,
+              631.0
+            ],
+            [
+              350.0,
+              631.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 3,
+      "frame_id": 16,
+      "frame_number": 17
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0018.jpg",
+      "full_text": "#Forget Gate 2 Input Gate 3 Output Gate",
+      "text_blocks": [
+        {
+          "text": "#Forget Gate",
+          "confidence": 0.7078258614603847,
+          "bbox": [
+            [
+              360.0,
+              402.0
+            ],
+            [
+              765.0,
+              402.0
+            ],
+            [
+              765.0,
+              478.0
+            ],
+            [
+              360.0,
+              478.0
+            ]
+          ]
+        },
+        {
+          "text": "2 Input Gate",
+          "confidence": 0.722183393038913,
+          "bbox": [
+            [
+              344.0,
+              473.0
+            ],
+            [
+              727.0,
+              473.0
+            ],
+            [
+              727.0,
+              558.0
+            ],
+            [
+              344.0,
+              558.0
+            ]
+          ]
+        },
+        {
+          "text": "3 Output Gate",
+          "confidence": 0.7866529857305289,
+          "bbox": [
+            [
+              350.0,
+              550.0
+            ],
+            [
+              781.0,
+              550.0
+            ],
+            [
+              781.0,
+              631.0
+            ],
+            [
+              350.0,
+              631.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 3,
+      "frame_id": 17,
+      "frame_number": 18
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0019.jpg",
+      "full_text": "Forget Gete 2 Input Gate 3 Output Gate Forget gate Quiputigate:",
+      "text_blocks": [
+        {
+          "text": "Forget Gete",
+          "confidence": 0.6992197358044475,
+          "bbox": [
+            [
+              408.0,
+              402.0
+            ],
+            [
+              765.0,
+              402.0
+            ],
+            [
+              765.0,
+              478.0
+            ],
+            [
+              408.0,
+              478.0
+            ]
+          ]
+        },
+        {
+          "text": "2 Input Gate",
+          "confidence": 0.8521019564835598,
+          "bbox": [
+            [
+              345.0,
+              473.0
+            ],
+            [
+              727.0,
+              473.0
+            ],
+            [
+              727.0,
+              559.0
+            ],
+            [
+              345.0,
+              559.0
+            ]
+          ]
+        },
+        {
+          "text": "3 Output Gate",
+          "confidence": 0.6257989164994057,
+          "bbox": [
+            [
+              350.0,
+              550.0
+            ],
+            [
+              782.0,
+              550.0
+            ],
+            [
+              782.0,
+              631.0
+            ],
+            [
+              350.0,
+              631.0
+            ]
+          ]
+        },
+        {
+          "text": "Forget gate",
+          "confidence": 0.9024645342194045,
+          "bbox": [
+            [
+              176.0,
+              736.0
+            ],
+            [
+              395.0,
+              736.0
+            ],
+            [
+              395.0,
+              796.0
+            ],
+            [
+              176.0,
+              796.0
+            ]
+          ]
+        },
+        {
+          "text": "Quiputigate:",
+          "confidence": 0.5282990685988961,
+          "bbox": [
+            [
+              535.0,
+              1457.0
+            ],
+            [
+              775.0,
+              1457.0
+            ],
+            [
+              775.0,
+              1517.0
+            ],
+            [
+              535.0,
+              1517.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 5,
+      "frame_id": 18,
+      "frame_number": 19
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0020.jpg",
+      "full_text": "Forget Gete 2 Input Gate Forget gate Quiputigate:",
+      "text_blocks": [
+        {
+          "text": "Forget Gete",
+          "confidence": 0.6992197358044475,
+          "bbox": [
+            [
+              408.0,
+              402.0
+            ],
+            [
+              765.0,
+              402.0
+            ],
+            [
+              765.0,
+              478.0
+            ],
+            [
+              408.0,
+              478.0
+            ]
+          ]
+        },
+        {
+          "text": "2 Input Gate",
+          "confidence": 0.8521019564835598,
+          "bbox": [
+            [
+              345.0,
+              473.0
+            ],
+            [
+              727.0,
+              473.0
+            ],
+            [
+              727.0,
+              559.0
+            ],
+            [
+              345.0,
+              559.0
+            ]
+          ]
+        },
+        {
+          "text": "Forget gate",
+          "confidence": 0.9228719369496788,
+          "bbox": [
+            [
+              176.0,
+              736.0
+            ],
+            [
+              395.0,
+              736.0
+            ],
+            [
+              395.0,
+              796.0
+            ],
+            [
+              176.0,
+              796.0
+            ]
+          ]
+        },
+        {
+          "text": "Quiputigate:",
+          "confidence": 0.5519654439965271,
+          "bbox": [
+            [
+              535.0,
+              1457.0
+            ],
+            [
+              775.0,
+              1457.0
+            ],
+            [
+              775.0,
+              1517.0
+            ],
+            [
+              535.0,
+              1517.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 4,
+      "frame_id": 19,
+      "frame_number": 20
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0021.jpg",
+      "full_text": "1Forgef Gate 2input Gate; 3 Output Gate Forgetigate be",
+      "text_blocks": [
+        {
+          "text": "1Forgef Gate",
+          "confidence": 0.8408308458441031,
+          "bbox": [
+            [
+              359.0,
+              401.0
+            ],
+            [
+              766.0,
+              401.0
+            ],
+            [
+              766.0,
+              485.0
+            ],
+            [
+              359.0,
+              485.0
+            ]
+          ]
+        },
+        {
+          "text": "2input Gate;",
+          "confidence": 0.7175805504601915,
+          "bbox": [
+            [
+              341.0,
+              469.0
+            ],
+            [
+              733.0,
+              469.0
+            ],
+            [
+              733.0,
+              561.0
+            ],
+            [
+              341.0,
+              561.0
+            ]
+          ]
+        },
+        {
+          "text": "3 Output Gate",
+          "confidence": 0.7107552550531983,
+          "bbox": [
+            [
+              345.0,
+              550.0
+            ],
+            [
+              783.0,
+              550.0
+            ],
+            [
+              783.0,
+              631.0
+            ],
+            [
+              345.0,
+              631.0
+            ]
+          ]
+        },
+        {
+          "text": "Forgetigate",
+          "confidence": 0.7704004081036611,
+          "bbox": [
+            [
+              170.0,
+              736.0
+            ],
+            [
+              393.0,
+              736.0
+            ],
+            [
+              393.0,
+              796.0
+            ],
+            [
+              170.0,
+              796.0
+            ]
+          ]
+        },
+        {
+          "text": "be",
+          "confidence": 0.6637448230089643,
+          "bbox": [
+            [
+              860.0,
+              730.0
+            ],
+            [
+              910.0,
+              730.0
+            ],
+            [
+              910.0,
+              780.0
+            ],
+            [
+              860.0,
+              780.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 5,
+      "frame_id": 20,
+      "frame_number": 21
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0022.jpg",
+      "full_text": "1Forgef Gate 2input Gate; 3 Output Gate Fongetigate be tanh",
+      "text_blocks": [
+        {
+          "text": "1Forgef Gate",
+          "confidence": 0.8408308458441031,
+          "bbox": [
+            [
+              359.0,
+              401.0
+            ],
+            [
+              766.0,
+              401.0
+            ],
+            [
+              766.0,
+              485.0
+            ],
+            [
+              359.0,
+              485.0
+            ]
+          ]
+        },
+        {
+          "text": "2input Gate;",
+          "confidence": 0.5558042552776911,
+          "bbox": [
+            [
+              341.0,
+              469.0
+            ],
+            [
+              733.0,
+              469.0
+            ],
+            [
+              733.0,
+              561.0
+            ],
+            [
+              341.0,
+              561.0
+            ]
+          ]
+        },
+        {
+          "text": "3 Output Gate",
+          "confidence": 0.7107552550531983,
+          "bbox": [
+            [
+              345.0,
+              550.0
+            ],
+            [
+              783.0,
+              550.0
+            ],
+            [
+              783.0,
+              631.0
+            ],
+            [
+              345.0,
+              631.0
+            ]
+          ]
+        },
+        {
+          "text": "Fongetigate",
+          "confidence": 0.7180736528942921,
+          "bbox": [
+            [
+              172.0,
+              736.0
+            ],
+            [
+              393.0,
+              736.0
+            ],
+            [
+              393.0,
+              796.0
+            ],
+            [
+              172.0,
+              796.0
+            ]
+          ]
+        },
+        {
+          "text": "be",
+          "confidence": 0.6637448230089643,
+          "bbox": [
+            [
+              860.0,
+              730.0
+            ],
+            [
+              910.0,
+              730.0
+            ],
+            [
+              910.0,
+              780.0
+            ],
+            [
+              860.0,
+              780.0
+            ]
+          ]
+        },
+        {
+          "text": "tanh",
+          "confidence": 0.7325140833854675,
+          "bbox": [
+            [
+              451.0,
+              1197.0
+            ],
+            [
+              568.0,
+              1197.0
+            ],
+            [
+              568.0,
+              1248.0
+            ],
+            [
+              451.0,
+              1248.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 6,
+      "frame_id": 21,
+      "frame_number": 22
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0023.jpg",
+      "full_text": "1Forgef Gate 2input Gate; 3 Output Gate Fongetigate be",
+      "text_blocks": [
+        {
+          "text": "1Forgef Gate",
+          "confidence": 0.8408308458441031,
+          "bbox": [
+            [
+              359.0,
+              401.0
+            ],
+            [
+              766.0,
+              401.0
+            ],
+            [
+              766.0,
+              485.0
+            ],
+            [
+              359.0,
+              485.0
+            ]
+          ]
+        },
+        {
+          "text": "2input Gate;",
+          "confidence": 0.5558042552776911,
+          "bbox": [
+            [
+              341.0,
+              469.0
+            ],
+            [
+              733.0,
+              469.0
+            ],
+            [
+              733.0,
+              561.0
+            ],
+            [
+              341.0,
+              561.0
+            ]
+          ]
+        },
+        {
+          "text": "3 Output Gate",
+          "confidence": 0.7107552550531983,
+          "bbox": [
+            [
+              345.0,
+              550.0
+            ],
+            [
+              783.0,
+              550.0
+            ],
+            [
+              783.0,
+              631.0
+            ],
+            [
+              345.0,
+              631.0
+            ]
+          ]
+        },
+        {
+          "text": "Fongetigate",
+          "confidence": 0.729096830413794,
+          "bbox": [
+            [
+              172.0,
+              736.0
+            ],
+            [
+              393.0,
+              736.0
+            ],
+            [
+              393.0,
+              796.0
+            ],
+            [
+              172.0,
+              796.0
+            ]
+          ]
+        },
+        {
+          "text": "be",
+          "confidence": 0.6637448230089643,
+          "bbox": [
+            [
+              860.0,
+              730.0
+            ],
+            [
+              910.0,
+              730.0
+            ],
+            [
+              910.0,
+              780.0
+            ],
+            [
+              860.0,
+              780.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 5,
+      "frame_id": 22,
+      "frame_number": 23
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0024.jpg",
+      "full_text": "1Forgef Gate 2input Gate; 3 Output Gate Forgetigate be iputgate \"@utput gate",
+      "text_blocks": [
+        {
+          "text": "1Forgef Gate",
+          "confidence": 0.8408308458441031,
+          "bbox": [
+            [
+              359.0,
+              401.0
+            ],
+            [
+              766.0,
+              401.0
+            ],
+            [
+              766.0,
+              485.0
+            ],
+            [
+              359.0,
+              485.0
+            ]
+          ]
+        },
+        {
+          "text": "2input Gate;",
+          "confidence": 0.5558042552776911,
+          "bbox": [
+            [
+              341.0,
+              469.0
+            ],
+            [
+              733.0,
+              469.0
+            ],
+            [
+              733.0,
+              561.0
+            ],
+            [
+              341.0,
+              561.0
+            ]
+          ]
+        },
+        {
+          "text": "3 Output Gate",
+          "confidence": 0.7107552550531983,
+          "bbox": [
+            [
+              345.0,
+              550.0
+            ],
+            [
+              783.0,
+              550.0
+            ],
+            [
+              783.0,
+              631.0
+            ],
+            [
+              345.0,
+              631.0
+            ]
+          ]
+        },
+        {
+          "text": "Forgetigate",
+          "confidence": 0.7920873839012285,
+          "bbox": [
+            [
+              172.0,
+              736.0
+            ],
+            [
+              393.0,
+              736.0
+            ],
+            [
+              393.0,
+              796.0
+            ],
+            [
+              172.0,
+              796.0
+            ]
+          ]
+        },
+        {
+          "text": "be",
+          "confidence": 0.6637448230089643,
+          "bbox": [
+            [
+              860.0,
+              730.0
+            ],
+            [
+              910.0,
+              730.0
+            ],
+            [
+              910.0,
+              780.0
+            ],
+            [
+              860.0,
+              780.0
+            ]
+          ]
+        },
+        {
+          "text": "iputgate",
+          "confidence": 0.5931919293073048,
+          "bbox": [
+            [
+              270.0,
+              1456.0
+            ],
+            [
+              474.0,
+              1456.0
+            ],
+            [
+              474.0,
+              1512.0
+            ],
+            [
+              270.0,
+              1512.0
+            ]
+          ]
+        },
+        {
+          "text": "\"@utput gate",
+          "confidence": 0.6614131015917398,
+          "bbox": [
+            [
+              536.0,
+              1454.0
+            ],
+            [
+              771.0,
+              1454.0
+            ],
+            [
+              771.0,
+              1515.0
+            ],
+            [
+              536.0,
+              1515.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 7,
+      "frame_id": 23,
+      "frame_number": 24
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0025.jpg",
+      "full_text": "1Forgef Gate 2input Gate; 3 Output Gate Folgetigate be iputgate",
+      "text_blocks": [
+        {
+          "text": "1Forgef Gate",
+          "confidence": 0.8408308458441031,
+          "bbox": [
+            [
+              359.0,
+              401.0
+            ],
+            [
+              766.0,
+              401.0
+            ],
+            [
+              766.0,
+              485.0
+            ],
+            [
+              359.0,
+              485.0
+            ]
+          ]
+        },
+        {
+          "text": "2input Gate;",
+          "confidence": 0.5558042552776911,
+          "bbox": [
+            [
+              341.0,
+              469.0
+            ],
+            [
+              733.0,
+              469.0
+            ],
+            [
+              733.0,
+              561.0
+            ],
+            [
+              341.0,
+              561.0
+            ]
+          ]
+        },
+        {
+          "text": "3 Output Gate",
+          "confidence": 0.7107552550531983,
+          "bbox": [
+            [
+              345.0,
+              550.0
+            ],
+            [
+              783.0,
+              550.0
+            ],
+            [
+              783.0,
+              631.0
+            ],
+            [
+              345.0,
+              631.0
+            ]
+          ]
+        },
+        {
+          "text": "Folgetigate",
+          "confidence": 0.5481262542190622,
+          "bbox": [
+            [
+              180.0,
+              740.0
+            ],
+            [
+              392.0,
+              740.0
+            ],
+            [
+              392.0,
+              794.0
+            ],
+            [
+              180.0,
+              794.0
+            ]
+          ]
+        },
+        {
+          "text": "be",
+          "confidence": 0.6637448230089643,
+          "bbox": [
+            [
+              860.0,
+              730.0
+            ],
+            [
+              910.0,
+              730.0
+            ],
+            [
+              910.0,
+              780.0
+            ],
+            [
+              860.0,
+              780.0
+            ]
+          ]
+        },
+        {
+          "text": "iputgate",
+          "confidence": 0.5931919293073048,
+          "bbox": [
+            [
+              270.0,
+              1456.0
+            ],
+            [
+              474.0,
+              1456.0
+            ],
+            [
+              474.0,
+              1512.0
+            ],
+            [
+              270.0,
+              1512.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 6,
+      "frame_id": 24,
+      "frame_number": 25
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0026.jpg",
+      "full_text": "Long Short-TermMemory 1Forget Gate 2 Input Gate 3 Output Gate Forgetigate lputigate: bscribe",
+      "text_blocks": [
+        {
+          "text": "Long Short-TermMemory",
+          "confidence": 0.7110579195228529,
+          "bbox": [
+            [
+              176.0,
+              262.0
+            ],
+            [
+              909.0,
+              262.0
+            ],
+            [
+              909.0,
+              348.0
+            ],
+            [
+              176.0,
+              348.0
+            ]
+          ]
+        },
+        {
+          "text": "1Forget Gate",
+          "confidence": 0.5485930988724588,
+          "bbox": [
+            [
+              359.0,
+              396.0
+            ],
+            [
+              767.0,
+              396.0
+            ],
+            [
+              767.0,
+              482.0
+            ],
+            [
+              359.0,
+              482.0
+            ]
+          ]
+        },
+        {
+          "text": "2 Input Gate",
+          "confidence": 0.7390411178123157,
+          "bbox": [
+            [
+              343.0,
+              475.0
+            ],
+            [
+              724.0,
+              475.0
+            ],
+            [
+              724.0,
+              555.0
+            ],
+            [
+              343.0,
+              555.0
+            ]
+          ]
+        },
+        {
+          "text": "3 Output Gate",
+          "confidence": 0.6967535147624789,
+          "bbox": [
+            [
+              349.0,
+              551.0
+            ],
+            [
+              782.0,
+              551.0
+            ],
+            [
+              782.0,
+              635.0
+            ],
+            [
+              349.0,
+              635.0
+            ]
+          ]
+        },
+        {
+          "text": "Forgetigate",
+          "confidence": 0.9952702317234992,
+          "bbox": [
+            [
+              177.0,
+              737.0
+            ],
+            [
+              391.0,
+              737.0
+            ],
+            [
+              391.0,
+              793.0
+            ],
+            [
+              177.0,
+              793.0
+            ]
+          ]
+        },
+        {
+          "text": "lputigate:",
+          "confidence": 0.7887056496152132,
+          "bbox": [
+            [
+              264.0,
+              1456.0
+            ],
+            [
+              474.0,
+              1456.0
+            ],
+            [
+              474.0,
+              1512.0
+            ],
+            [
+              264.0,
+              1512.0
+            ]
+          ]
+        },
+        {
+          "text": "bscribe",
+          "confidence": 0.9226525031639234,
+          "bbox": [
+            [
+              548.0,
+              1773.0
+            ],
+            [
+              665.0,
+              1773.0
+            ],
+            [
+              665.0,
+              1821.0
+            ],
+            [
+              548.0,
+              1821.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 7,
+      "frame_id": 25,
+      "frame_number": 26
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0027.jpg",
+      "full_text": "Long Short-TermMemory 2 Input Gate 3 Output Gate Forgetigate Output gatel",
+      "text_blocks": [
+        {
+          "text": "Long Short-TermMemory",
+          "confidence": 0.6450007276938089,
+          "bbox": [
+            [
+              176.0,
+              262.0
+            ],
+            [
+              909.0,
+              262.0
+            ],
+            [
+              909.0,
+              348.0
+            ],
+            [
+              176.0,
+              348.0
+            ]
+          ]
+        },
+        {
+          "text": "2 Input Gate",
+          "confidence": 0.7384961786031565,
+          "bbox": [
+            [
+              343.0,
+              475.0
+            ],
+            [
+              724.0,
+              475.0
+            ],
+            [
+              724.0,
+              555.0
+            ],
+            [
+              343.0,
+              555.0
+            ]
+          ]
+        },
+        {
+          "text": "3 Output Gate",
+          "confidence": 0.6959345204357225,
+          "bbox": [
+            [
+              350.0,
+              553.0
+            ],
+            [
+              781.0,
+              553.0
+            ],
+            [
+              781.0,
+              634.0
+            ],
+            [
+              350.0,
+              634.0
+            ]
+          ]
+        },
+        {
+          "text": "Forgetigate",
+          "confidence": 0.9949034326305608,
+          "bbox": [
+            [
+              176.0,
+              736.0
+            ],
+            [
+              395.0,
+              736.0
+            ],
+            [
+              395.0,
+              798.0
+            ],
+            [
+              176.0,
+              798.0
+            ]
+          ]
+        },
+        {
+          "text": "Output gatel",
+          "confidence": 0.687682750564897,
+          "bbox": [
+            [
+              536.0,
+              1452.0
+            ],
+            [
+              775.0,
+              1452.0
+            ],
+            [
+              775.0,
+              1519.0
+            ],
+            [
+              536.0,
+              1519.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 5,
+      "frame_id": 26,
+      "frame_number": 27
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0028.jpg",
+      "full_text": "Long Short-TermMemory 2 Input Gate 3 Output Gate Forgetigate",
+      "text_blocks": [
+        {
+          "text": "Long Short-TermMemory",
+          "confidence": 0.6450007276938089,
+          "bbox": [
+            [
+              176.0,
+              262.0
+            ],
+            [
+              909.0,
+              262.0
+            ],
+            [
+              909.0,
+              348.0
+            ],
+            [
+              176.0,
+              348.0
+            ]
+          ]
+        },
+        {
+          "text": "2 Input Gate",
+          "confidence": 0.7384961786031565,
+          "bbox": [
+            [
+              343.0,
+              475.0
+            ],
+            [
+              724.0,
+              475.0
+            ],
+            [
+              724.0,
+              555.0
+            ],
+            [
+              343.0,
+              555.0
+            ]
+          ]
+        },
+        {
+          "text": "3 Output Gate",
+          "confidence": 0.6959345204357225,
+          "bbox": [
+            [
+              350.0,
+              553.0
+            ],
+            [
+              781.0,
+              553.0
+            ],
+            [
+              781.0,
+              634.0
+            ],
+            [
+              350.0,
+              634.0
+            ]
+          ]
+        },
+        {
+          "text": "Forgetigate",
+          "confidence": 0.9949034326305608,
+          "bbox": [
+            [
+              176.0,
+              736.0
+            ],
+            [
+              395.0,
+              736.0
+            ],
+            [
+              395.0,
+              798.0
+            ],
+            [
+              176.0,
+              798.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 4,
+      "frame_id": 27,
+      "frame_number": 28
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0029.jpg",
+      "full_text": "Long Short-TermMemory 2 Input Gate 3 Output Gate Forgetigate (Qutputigatel",
+      "text_blocks": [
+        {
+          "text": "Long Short-TermMemory",
+          "confidence": 0.6450007276938089,
+          "bbox": [
+            [
+              176.0,
+              262.0
+            ],
+            [
+              909.0,
+              262.0
+            ],
+            [
+              909.0,
+              348.0
+            ],
+            [
+              176.0,
+              348.0
+            ]
+          ]
+        },
+        {
+          "text": "2 Input Gate",
+          "confidence": 0.7384961786031565,
+          "bbox": [
+            [
+              343.0,
+              475.0
+            ],
+            [
+              724.0,
+              475.0
+            ],
+            [
+              724.0,
+              555.0
+            ],
+            [
+              343.0,
+              555.0
+            ]
+          ]
+        },
+        {
+          "text": "3 Output Gate",
+          "confidence": 0.6959345204357225,
+          "bbox": [
+            [
+              350.0,
+              553.0
+            ],
+            [
+              781.0,
+              553.0
+            ],
+            [
+              781.0,
+              634.0
+            ],
+            [
+              350.0,
+              634.0
+            ]
+          ]
+        },
+        {
+          "text": "Forgetigate",
+          "confidence": 0.9949034326305608,
+          "bbox": [
+            [
+              176.0,
+              736.0
+            ],
+            [
+              395.0,
+              736.0
+            ],
+            [
+              395.0,
+              798.0
+            ],
+            [
+              176.0,
+              798.0
+            ]
+          ]
+        },
+        {
+          "text": "(Qutputigatel",
+          "confidence": 0.7228074533663238,
+          "bbox": [
+            [
+              534.0,
+              1453.0
+            ],
+            [
+              775.0,
+              1453.0
+            ],
+            [
+              775.0,
+              1518.0
+            ],
+            [
+              534.0,
+              1518.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 5,
+      "frame_id": 28,
+      "frame_number": 29
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0030.jpg",
+      "full_text": "Long Short-TermMemory 2 Input Gate 3 Output Gate Forgetigate (Qutputigatel bscribe",
+      "text_blocks": [
+        {
+          "text": "Long Short-TermMemory",
+          "confidence": 0.6450007276938089,
+          "bbox": [
+            [
+              176.0,
+              262.0
+            ],
+            [
+              909.0,
+              262.0
+            ],
+            [
+              909.0,
+              348.0
+            ],
+            [
+              176.0,
+              348.0
+            ]
+          ]
+        },
+        {
+          "text": "2 Input Gate",
+          "confidence": 0.7384961786031565,
+          "bbox": [
+            [
+              343.0,
+              475.0
+            ],
+            [
+              724.0,
+              475.0
+            ],
+            [
+              724.0,
+              555.0
+            ],
+            [
+              343.0,
+              555.0
+            ]
+          ]
+        },
+        {
+          "text": "3 Output Gate",
+          "confidence": 0.6959345204357225,
+          "bbox": [
+            [
+              350.0,
+              553.0
+            ],
+            [
+              781.0,
+              553.0
+            ],
+            [
+              781.0,
+              634.0
+            ],
+            [
+              350.0,
+              634.0
+            ]
+          ]
+        },
+        {
+          "text": "Forgetigate",
+          "confidence": 0.9949034326305608,
+          "bbox": [
+            [
+              176.0,
+              736.0
+            ],
+            [
+              395.0,
+              736.0
+            ],
+            [
+              395.0,
+              798.0
+            ],
+            [
+              176.0,
+              798.0
+            ]
+          ]
+        },
+        {
+          "text": "(Qutputigatel",
+          "confidence": 0.7228074533663238,
+          "bbox": [
+            [
+              534.0,
+              1453.0
+            ],
+            [
+              775.0,
+              1453.0
+            ],
+            [
+              775.0,
+              1518.0
+            ],
+            [
+              534.0,
+              1518.0
+            ]
+          ]
+        },
+        {
+          "text": "bscribe",
+          "confidence": 0.7234958795936886,
+          "bbox": [
+            [
+              548.0,
+              1773.0
+            ],
+            [
+              663.0,
+              1773.0
+            ],
+            [
+              663.0,
+              1821.0
+            ],
+            [
+              548.0,
+              1821.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 6,
+      "frame_id": 29,
+      "frame_number": 30
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0031.jpg",
+      "full_text": "1Ferget Gate 2 Input Gate utput Gate Forget-gate Stbscribe)",
+      "text_blocks": [
+        {
+          "text": "1Ferget Gate",
+          "confidence": 0.5133546626553399,
+          "bbox": [
+            [
+              360.0,
+              404.0
+            ],
+            [
+              763.0,
+              404.0
+            ],
+            [
+              763.0,
+              481.0
+            ],
+            [
+              360.0,
+              481.0
+            ]
+          ]
+        },
+        {
+          "text": "2 Input Gate",
+          "confidence": 0.8633886674185088,
+          "bbox": [
+            [
+              346.0,
+              476.0
+            ],
+            [
+              725.0,
+              476.0
+            ],
+            [
+              725.0,
+              556.0
+            ],
+            [
+              346.0,
+              556.0
+            ]
+          ]
+        },
+        {
+          "text": "utput Gate",
+          "confidence": 0.7733199008763233,
+          "bbox": [
+            [
+              460.0,
+              554.0
+            ],
+            [
+              780.0,
+              554.0
+            ],
+            [
+              780.0,
+              628.0
+            ],
+            [
+              460.0,
+              628.0
+            ]
+          ]
+        },
+        {
+          "text": "Forget-gate",
+          "confidence": 0.5262469986189913,
+          "bbox": [
+            [
+              174.0,
+              736.0
+            ],
+            [
+              393.0,
+              736.0
+            ],
+            [
+              393.0,
+              796.0
+            ],
+            [
+              174.0,
+              796.0
+            ]
+          ]
+        },
+        {
+          "text": "Stbscribe)",
+          "confidence": 0.5582034033664175,
+          "bbox": [
+            [
+              509.0,
+              1769.0
+            ],
+            [
+              666.0,
+              1769.0
+            ],
+            [
+              666.0,
+              1822.0
+            ],
+            [
+              509.0,
+              1822.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 5,
+      "frame_id": 30,
+      "frame_number": 31
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0032.jpg",
+      "full_text": "1Ferget Gate 2 Input Gate utput Gate Forget-gate Illmput gate @uiputigate, Subscribet",
+      "text_blocks": [
+        {
+          "text": "1Ferget Gate",
+          "confidence": 0.5133546626553399,
+          "bbox": [
+            [
+              360.0,
+              404.0
+            ],
+            [
+              763.0,
+              404.0
+            ],
+            [
+              763.0,
+              481.0
+            ],
+            [
+              360.0,
+              481.0
+            ]
+          ]
+        },
+        {
+          "text": "2 Input Gate",
+          "confidence": 0.8633886674185088,
+          "bbox": [
+            [
+              346.0,
+              476.0
+            ],
+            [
+              725.0,
+              476.0
+            ],
+            [
+              725.0,
+              556.0
+            ],
+            [
+              346.0,
+              556.0
+            ]
+          ]
+        },
+        {
+          "text": "utput Gate",
+          "confidence": 0.7733199008763233,
+          "bbox": [
+            [
+              460.0,
+              554.0
+            ],
+            [
+              780.0,
+              554.0
+            ],
+            [
+              780.0,
+              628.0
+            ],
+            [
+              460.0,
+              628.0
+            ]
+          ]
+        },
+        {
+          "text": "Forget-gate",
+          "confidence": 0.5262469986189913,
+          "bbox": [
+            [
+              174.0,
+              736.0
+            ],
+            [
+              393.0,
+              736.0
+            ],
+            [
+              393.0,
+              796.0
+            ],
+            [
+              174.0,
+              796.0
+            ]
+          ]
+        },
+        {
+          "text": "Illmput gate",
+          "confidence": 0.5827381844871476,
+          "bbox": [
+            [
+              267.0,
+              1452.0
+            ],
+            [
+              473.0,
+              1452.0
+            ],
+            [
+              473.0,
+              1512.0
+            ],
+            [
+              267.0,
+              1512.0
+            ]
+          ]
+        },
+        {
+          "text": "@uiputigate,",
+          "confidence": 0.6239142041959556,
+          "bbox": [
+            [
+              535.0,
+              1455.0
+            ],
+            [
+              770.0,
+              1455.0
+            ],
+            [
+              770.0,
+              1512.0
+            ],
+            [
+              535.0,
+              1512.0
+            ]
+          ]
+        },
+        {
+          "text": "Subscribet",
+          "confidence": 0.5347152769385901,
+          "bbox": [
+            [
+              510.0,
+              1769.0
+            ],
+            [
+              665.0,
+              1769.0
+            ],
+            [
+              665.0,
+              1822.0
+            ],
+            [
+              510.0,
+              1822.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 7,
+      "frame_id": 31,
+      "frame_number": 32
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0033.jpg",
+      "full_text": "Long Short-TermMemory 1Ferget Gate 2 Input Gate utput Gate Forget-gate @uiputigate,",
+      "text_blocks": [
+        {
+          "text": "Long Short-TermMemory",
+          "confidence": 0.7523597047596814,
+          "bbox": [
+            [
+              172.0,
+              262.0
+            ],
+            [
+              908.0,
+              262.0
+            ],
+            [
+              908.0,
+              350.0
+            ],
+            [
+              172.0,
+              350.0
+            ]
+          ]
+        },
+        {
+          "text": "1Ferget Gate",
+          "confidence": 0.5133546626553399,
+          "bbox": [
+            [
+              360.0,
+              404.0
+            ],
+            [
+              763.0,
+              404.0
+            ],
+            [
+              763.0,
+              481.0
+            ],
+            [
+              360.0,
+              481.0
+            ]
+          ]
+        },
+        {
+          "text": "2 Input Gate",
+          "confidence": 0.8633886674185088,
+          "bbox": [
+            [
+              346.0,
+              476.0
+            ],
+            [
+              725.0,
+              476.0
+            ],
+            [
+              725.0,
+              556.0
+            ],
+            [
+              346.0,
+              556.0
+            ]
+          ]
+        },
+        {
+          "text": "utput Gate",
+          "confidence": 0.7733199008763233,
+          "bbox": [
+            [
+              460.0,
+              554.0
+            ],
+            [
+              780.0,
+              554.0
+            ],
+            [
+              780.0,
+              628.0
+            ],
+            [
+              460.0,
+              628.0
+            ]
+          ]
+        },
+        {
+          "text": "Forget-gate",
+          "confidence": 0.5262469986189913,
+          "bbox": [
+            [
+              174.0,
+              736.0
+            ],
+            [
+              393.0,
+              736.0
+            ],
+            [
+              393.0,
+              796.0
+            ],
+            [
+              174.0,
+              796.0
+            ]
+          ]
+        },
+        {
+          "text": "@uiputigate,",
+          "confidence": 0.5821174214827503,
+          "bbox": [
+            [
+              535.0,
+              1455.0
+            ],
+            [
+              770.0,
+              1455.0
+            ],
+            [
+              770.0,
+              1512.0
+            ],
+            [
+              535.0,
+              1512.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 6,
+      "frame_id": 32,
+      "frame_number": 33
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0034.jpg",
+      "full_text": "Long Short-TermMemory 1Ferget Gate 2 Input Gate utput Gate Forget-gate @uipuiigate",
+      "text_blocks": [
+        {
+          "text": "Long Short-TermMemory",
+          "confidence": 0.7677719078878721,
+          "bbox": [
+            [
+              172.0,
+              262.0
+            ],
+            [
+              907.0,
+              262.0
+            ],
+            [
+              907.0,
+              350.0
+            ],
+            [
+              172.0,
+              350.0
+            ]
+          ]
+        },
+        {
+          "text": "1Ferget Gate",
+          "confidence": 0.5133546626553399,
+          "bbox": [
+            [
+              360.0,
+              404.0
+            ],
+            [
+              763.0,
+              404.0
+            ],
+            [
+              763.0,
+              481.0
+            ],
+            [
+              360.0,
+              481.0
+            ]
+          ]
+        },
+        {
+          "text": "2 Input Gate",
+          "confidence": 0.8633886674185088,
+          "bbox": [
+            [
+              346.0,
+              476.0
+            ],
+            [
+              725.0,
+              476.0
+            ],
+            [
+              725.0,
+              556.0
+            ],
+            [
+              346.0,
+              556.0
+            ]
+          ]
+        },
+        {
+          "text": "utput Gate",
+          "confidence": 0.7733199008763233,
+          "bbox": [
+            [
+              460.0,
+              554.0
+            ],
+            [
+              780.0,
+              554.0
+            ],
+            [
+              780.0,
+              628.0
+            ],
+            [
+              460.0,
+              628.0
+            ]
+          ]
+        },
+        {
+          "text": "Forget-gate",
+          "confidence": 0.5262469986189913,
+          "bbox": [
+            [
+              174.0,
+              736.0
+            ],
+            [
+              393.0,
+              736.0
+            ],
+            [
+              393.0,
+              796.0
+            ],
+            [
+              174.0,
+              796.0
+            ]
+          ]
+        },
+        {
+          "text": "@uipuiigate",
+          "confidence": 0.7303397344791022,
+          "bbox": [
+            [
+              535.0,
+              1455.0
+            ],
+            [
+              772.0,
+              1455.0
+            ],
+            [
+              772.0,
+              1512.0
+            ],
+            [
+              535.0,
+              1512.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 6,
+      "frame_id": 33,
+      "frame_number": 34
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0035.jpg",
+      "full_text": "Long Short-TermMemory 1Ferget Gate 2 Input Gate utput Gate Forget-gate ipubgate: @uipuiigate",
+      "text_blocks": [
+        {
+          "text": "Long Short-TermMemory",
+          "confidence": 0.7436504095508023,
+          "bbox": [
+            [
+              172.0,
+              262.0
+            ],
+            [
+              908.0,
+              262.0
+            ],
+            [
+              908.0,
+              350.0
+            ],
+            [
+              172.0,
+              350.0
+            ]
+          ]
+        },
+        {
+          "text": "1Ferget Gate",
+          "confidence": 0.5133546626553399,
+          "bbox": [
+            [
+              360.0,
+              404.0
+            ],
+            [
+              763.0,
+              404.0
+            ],
+            [
+              763.0,
+              481.0
+            ],
+            [
+              360.0,
+              481.0
+            ]
+          ]
+        },
+        {
+          "text": "2 Input Gate",
+          "confidence": 0.8633886674185088,
+          "bbox": [
+            [
+              346.0,
+              476.0
+            ],
+            [
+              725.0,
+              476.0
+            ],
+            [
+              725.0,
+              556.0
+            ],
+            [
+              346.0,
+              556.0
+            ]
+          ]
+        },
+        {
+          "text": "utput Gate",
+          "confidence": 0.7733199008763233,
+          "bbox": [
+            [
+              460.0,
+              554.0
+            ],
+            [
+              780.0,
+              554.0
+            ],
+            [
+              780.0,
+              628.0
+            ],
+            [
+              460.0,
+              628.0
+            ]
+          ]
+        },
+        {
+          "text": "Forget-gate",
+          "confidence": 0.5733287945446175,
+          "bbox": [
+            [
+              174.0,
+              736.0
+            ],
+            [
+              393.0,
+              736.0
+            ],
+            [
+              393.0,
+              796.0
+            ],
+            [
+              174.0,
+              796.0
+            ]
+          ]
+        },
+        {
+          "text": "ipubgate:",
+          "confidence": 0.5210250063082433,
+          "bbox": [
+            [
+              269.0,
+              1453.0
+            ],
+            [
+              476.0,
+              1453.0
+            ],
+            [
+              476.0,
+              1513.0
+            ],
+            [
+              269.0,
+              1513.0
+            ]
+          ]
+        },
+        {
+          "text": "@uipuiigate",
+          "confidence": 0.6686792234570239,
+          "bbox": [
+            [
+              535.0,
+              1455.0
+            ],
+            [
+              772.0,
+              1455.0
+            ],
+            [
+              772.0,
+              1512.0
+            ],
+            [
+              535.0,
+              1512.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 7,
+      "frame_id": 34,
+      "frame_number": 35
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0036.jpg",
+      "full_text": "1 Forget Gate 3 Output Gate Forget gate (@utputgate",
+      "text_blocks": [
+        {
+          "text": "1 Forget Gate",
+          "confidence": 0.691313509165461,
+          "bbox": [
+            [
+              359.0,
+              399.0
+            ],
+            [
+              765.0,
+              399.0
+            ],
+            [
+              765.0,
+              483.0
+            ],
+            [
+              359.0,
+              483.0
+            ]
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.9998557619611717,
+          "bbox": [
+            [
+              357.0,
+              559.0
+            ],
+            [
+              401.0,
+              559.0
+            ],
+            [
+              401.0,
+              611.0
+            ],
+            [
+              357.0,
+              611.0
+            ]
+          ]
+        },
+        {
+          "text": "Output Gate",
+          "confidence": 0.983354960136541,
+          "bbox": [
+            [
+              407.0,
+              549.0
+            ],
+            [
+              785.0,
+              549.0
+            ],
+            [
+              785.0,
+              634.0
+            ],
+            [
+              407.0,
+              634.0
+            ]
+          ]
+        },
+        {
+          "text": "Forget gate",
+          "confidence": 0.7284533800396048,
+          "bbox": [
+            [
+              177.0,
+              737.0
+            ],
+            [
+              391.0,
+              737.0
+            ],
+            [
+              391.0,
+              793.0
+            ],
+            [
+              177.0,
+              793.0
+            ]
+          ]
+        },
+        {
+          "text": "(@utputgate",
+          "confidence": 0.8406645291159888,
+          "bbox": [
+            [
+              534.0,
+              1452.0
+            ],
+            [
+              772.0,
+              1452.0
+            ],
+            [
+              772.0,
+              1520.0
+            ],
+            [
+              534.0,
+              1520.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 5,
+      "frame_id": 35,
+      "frame_number": 36
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0037.jpg",
+      "full_text": "1 Forget Gate 2 lnput Gate 3 Output Gate Forget gate ilnpiitigate: (@utputgate",
+      "text_blocks": [
+        {
+          "text": "1 Forget Gate",
+          "confidence": 0.6915167942676677,
+          "bbox": [
+            [
+              359.0,
+              399.0
+            ],
+            [
+              765.0,
+              399.0
+            ],
+            [
+              765.0,
+              483.0
+            ],
+            [
+              359.0,
+              483.0
+            ]
+          ]
+        },
+        {
+          "text": "2 lnput Gate",
+          "confidence": 0.609119585715937,
+          "bbox": [
+            [
+              346.0,
+              465.0
+            ],
+            [
+              728.0,
+              465.0
+            ],
+            [
+              728.0,
+              558.0
+            ],
+            [
+              346.0,
+              558.0
+            ]
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.9998557619611717,
+          "bbox": [
+            [
+              357.0,
+              559.0
+            ],
+            [
+              401.0,
+              559.0
+            ],
+            [
+              401.0,
+              611.0
+            ],
+            [
+              357.0,
+              611.0
+            ]
+          ]
+        },
+        {
+          "text": "Output Gate",
+          "confidence": 0.9829287492834998,
+          "bbox": [
+            [
+              407.0,
+              549.0
+            ],
+            [
+              785.0,
+              549.0
+            ],
+            [
+              785.0,
+              634.0
+            ],
+            [
+              407.0,
+              634.0
+            ]
+          ]
+        },
+        {
+          "text": "Forget gate",
+          "confidence": 0.7284533800396048,
+          "bbox": [
+            [
+              177.0,
+              737.0
+            ],
+            [
+              391.0,
+              737.0
+            ],
+            [
+              391.0,
+              793.0
+            ],
+            [
+              177.0,
+              793.0
+            ]
+          ]
+        },
+        {
+          "text": "ilnpiitigate:",
+          "confidence": 0.5230243147372565,
+          "bbox": [
+            [
+              272.0,
+              1456.0
+            ],
+            [
+              474.0,
+              1456.0
+            ],
+            [
+              474.0,
+              1510.0
+            ],
+            [
+              272.0,
+              1510.0
+            ]
+          ]
+        },
+        {
+          "text": "(@utputgate",
+          "confidence": 0.8406645291159888,
+          "bbox": [
+            [
+              534.0,
+              1452.0
+            ],
+            [
+              772.0,
+              1452.0
+            ],
+            [
+              772.0,
+              1520.0
+            ],
+            [
+              534.0,
+              1520.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 7,
+      "frame_id": 36,
+      "frame_number": 37
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0038.jpg",
+      "full_text": "1 Forget Gate 2 lnput Gate 3 Output Gate Forget gate inpiitigate: (@utputgate",
+      "text_blocks": [
+        {
+          "text": "1 Forget Gate",
+          "confidence": 0.6880882954787645,
+          "bbox": [
+            [
+              359.0,
+              399.0
+            ],
+            [
+              765.0,
+              399.0
+            ],
+            [
+              765.0,
+              483.0
+            ],
+            [
+              359.0,
+              483.0
+            ]
+          ]
+        },
+        {
+          "text": "2 lnput Gate",
+          "confidence": 0.6057728440521479,
+          "bbox": [
+            [
+              346.0,
+              465.0
+            ],
+            [
+              728.0,
+              465.0
+            ],
+            [
+              728.0,
+              558.0
+            ],
+            [
+              346.0,
+              558.0
+            ]
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.9998557619611717,
+          "bbox": [
+            [
+              357.0,
+              559.0
+            ],
+            [
+              401.0,
+              559.0
+            ],
+            [
+              401.0,
+              611.0
+            ],
+            [
+              357.0,
+              611.0
+            ]
+          ]
+        },
+        {
+          "text": "Output Gate",
+          "confidence": 0.9829287492834998,
+          "bbox": [
+            [
+              407.0,
+              549.0
+            ],
+            [
+              785.0,
+              549.0
+            ],
+            [
+              785.0,
+              634.0
+            ],
+            [
+              407.0,
+              634.0
+            ]
+          ]
+        },
+        {
+          "text": "Forget gate",
+          "confidence": 0.7284533800396048,
+          "bbox": [
+            [
+              177.0,
+              737.0
+            ],
+            [
+              391.0,
+              737.0
+            ],
+            [
+              391.0,
+              793.0
+            ],
+            [
+              177.0,
+              793.0
+            ]
+          ]
+        },
+        {
+          "text": "inpiitigate:",
+          "confidence": 0.7295814572735992,
+          "bbox": [
+            [
+              268.0,
+              1452.0
+            ],
+            [
+              475.0,
+              1452.0
+            ],
+            [
+              475.0,
+              1517.0
+            ],
+            [
+              268.0,
+              1517.0
+            ]
+          ]
+        },
+        {
+          "text": "(@utputgate",
+          "confidence": 0.8406645291159888,
+          "bbox": [
+            [
+              534.0,
+              1452.0
+            ],
+            [
+              772.0,
+              1452.0
+            ],
+            [
+              772.0,
+              1520.0
+            ],
+            [
+              534.0,
+              1520.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 7,
+      "frame_id": 37,
+      "frame_number": 38
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0039.jpg",
+      "full_text": "1 Forget Gate 2 lnput Gate 3 Output Gate Forget gate ilnputigate: (@utputgate",
+      "text_blocks": [
+        {
+          "text": "1 Forget Gate",
+          "confidence": 0.6880882954787645,
+          "bbox": [
+            [
+              359.0,
+              399.0
+            ],
+            [
+              765.0,
+              399.0
+            ],
+            [
+              765.0,
+              483.0
+            ],
+            [
+              359.0,
+              483.0
+            ]
+          ]
+        },
+        {
+          "text": "2 lnput Gate",
+          "confidence": 0.6057728440521479,
+          "bbox": [
+            [
+              346.0,
+              465.0
+            ],
+            [
+              728.0,
+              465.0
+            ],
+            [
+              728.0,
+              558.0
+            ],
+            [
+              346.0,
+              558.0
+            ]
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.9998557619611717,
+          "bbox": [
+            [
+              357.0,
+              559.0
+            ],
+            [
+              401.0,
+              559.0
+            ],
+            [
+              401.0,
+              611.0
+            ],
+            [
+              357.0,
+              611.0
+            ]
+          ]
+        },
+        {
+          "text": "Output Gate",
+          "confidence": 0.9829287492834998,
+          "bbox": [
+            [
+              407.0,
+              549.0
+            ],
+            [
+              785.0,
+              549.0
+            ],
+            [
+              785.0,
+              634.0
+            ],
+            [
+              407.0,
+              634.0
+            ]
+          ]
+        },
+        {
+          "text": "Forget gate",
+          "confidence": 0.7284533800396048,
+          "bbox": [
+            [
+              177.0,
+              737.0
+            ],
+            [
+              391.0,
+              737.0
+            ],
+            [
+              391.0,
+              793.0
+            ],
+            [
+              177.0,
+              793.0
+            ]
+          ]
+        },
+        {
+          "text": "ilnputigate:",
+          "confidence": 0.6011197085772155,
+          "bbox": [
+            [
+              272.0,
+              1456.0
+            ],
+            [
+              474.0,
+              1456.0
+            ],
+            [
+              474.0,
+              1510.0
+            ],
+            [
+              272.0,
+              1510.0
+            ]
+          ]
+        },
+        {
+          "text": "(@utputgate",
+          "confidence": 0.8406645291159888,
+          "bbox": [
+            [
+              534.0,
+              1452.0
+            ],
+            [
+              772.0,
+              1452.0
+            ],
+            [
+              772.0,
+              1520.0
+            ],
+            [
+              534.0,
+              1520.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 7,
+      "frame_id": 38,
+      "frame_number": 39
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0040.jpg",
+      "full_text": "1 Forget Gate 2 lnput Gate 3 Output Gate Forget gate (@utputgate'",
+      "text_blocks": [
+        {
+          "text": "1 Forget Gate",
+          "confidence": 0.6880882954787645,
+          "bbox": [
+            [
+              359.0,
+              399.0
+            ],
+            [
+              765.0,
+              399.0
+            ],
+            [
+              765.0,
+              483.0
+            ],
+            [
+              359.0,
+              483.0
+            ]
+          ]
+        },
+        {
+          "text": "2 lnput Gate",
+          "confidence": 0.6057728440521479,
+          "bbox": [
+            [
+              346.0,
+              465.0
+            ],
+            [
+              728.0,
+              465.0
+            ],
+            [
+              728.0,
+              558.0
+            ],
+            [
+              346.0,
+              558.0
+            ]
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.9998557619611717,
+          "bbox": [
+            [
+              357.0,
+              559.0
+            ],
+            [
+              401.0,
+              559.0
+            ],
+            [
+              401.0,
+              611.0
+            ],
+            [
+              357.0,
+              611.0
+            ]
+          ]
+        },
+        {
+          "text": "Output Gate",
+          "confidence": 0.9829287492834998,
+          "bbox": [
+            [
+              407.0,
+              549.0
+            ],
+            [
+              785.0,
+              549.0
+            ],
+            [
+              785.0,
+              634.0
+            ],
+            [
+              407.0,
+              634.0
+            ]
+          ]
+        },
+        {
+          "text": "Forget gate",
+          "confidence": 0.7297058515133207,
+          "bbox": [
+            [
+              177.0,
+              737.0
+            ],
+            [
+              391.0,
+              737.0
+            ],
+            [
+              391.0,
+              793.0
+            ],
+            [
+              177.0,
+              793.0
+            ]
+          ]
+        },
+        {
+          "text": "(@utputgate'",
+          "confidence": 0.8624474453695659,
+          "bbox": [
+            [
+              534.0,
+              1452.0
+            ],
+            [
+              773.0,
+              1452.0
+            ],
+            [
+              773.0,
+              1520.0
+            ],
+            [
+              534.0,
+              1520.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 6,
+      "frame_id": 39,
+      "frame_number": 40
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0041.jpg",
+      "full_text": "Long Short-Term Memory 1Forget Gate Eorget gatel inputgate (@utputgatea",
+      "text_blocks": [
+        {
+          "text": "Long Short-Term Memory",
+          "confidence": 0.8613892484870548,
+          "bbox": [
+            [
+              178.0,
+              262.0
+            ],
+            [
+              907.0,
+              262.0
+            ],
+            [
+              907.0,
+              350.0
+            ],
+            [
+              178.0,
+              350.0
+            ]
+          ]
+        },
+        {
+          "text": "1Forget Gate",
+          "confidence": 0.9288605154836421,
+          "bbox": [
+            [
+              360.0,
+              399.0
+            ],
+            [
+              767.0,
+              399.0
+            ],
+            [
+              767.0,
+              480.0
+            ],
+            [
+              360.0,
+              480.0
+            ]
+          ]
+        },
+        {
+          "text": "Eorget gatel",
+          "confidence": 0.6731974150788069,
+          "bbox": [
+            [
+              172.0,
+              736.0
+            ],
+            [
+              393.0,
+              736.0
+            ],
+            [
+              393.0,
+              796.0
+            ],
+            [
+              172.0,
+              796.0
+            ]
+          ]
+        },
+        {
+          "text": "inputgate",
+          "confidence": 0.732878958649205,
+          "bbox": [
+            [
+              265.0,
+              1455.0
+            ],
+            [
+              473.0,
+              1455.0
+            ],
+            [
+              473.0,
+              1515.0
+            ],
+            [
+              265.0,
+              1515.0
+            ]
+          ]
+        },
+        {
+          "text": "(@utputgatea",
+          "confidence": 0.5667122007503765,
+          "bbox": [
+            [
+              535.0,
+              1457.0
+            ],
+            [
+              775.0,
+              1457.0
+            ],
+            [
+              775.0,
+              1511.0
+            ],
+            [
+              535.0,
+              1511.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 5,
+      "frame_id": 40,
+      "frame_number": 41
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0042.jpg",
+      "full_text": "Long Short-Term Memory 1Forget Gate 2 lnput Gate Eorget gatel inputigate",
+      "text_blocks": [
+        {
+          "text": "Long Short-Term Memory",
+          "confidence": 0.8084079074042763,
+          "bbox": [
+            [
+              178.0,
+              262.0
+            ],
+            [
+              907.0,
+              262.0
+            ],
+            [
+              907.0,
+              351.0
+            ],
+            [
+              178.0,
+              351.0
+            ]
+          ]
+        },
+        {
+          "text": "1Forget Gate",
+          "confidence": 0.9290639441247557,
+          "bbox": [
+            [
+              360.0,
+              399.0
+            ],
+            [
+              767.0,
+              399.0
+            ],
+            [
+              767.0,
+              480.0
+            ],
+            [
+              360.0,
+              480.0
+            ]
+          ]
+        },
+        {
+          "text": "2 lnput Gate",
+          "confidence": 0.503204790359036,
+          "bbox": [
+            [
+              343.0,
+              476.0
+            ],
+            [
+              725.0,
+              476.0
+            ],
+            [
+              725.0,
+              557.0
+            ],
+            [
+              343.0,
+              557.0
+            ]
+          ]
+        },
+        {
+          "text": "Eorget gatel",
+          "confidence": 0.6731974150788069,
+          "bbox": [
+            [
+              172.0,
+              736.0
+            ],
+            [
+              393.0,
+              736.0
+            ],
+            [
+              393.0,
+              796.0
+            ],
+            [
+              172.0,
+              796.0
+            ]
+          ]
+        },
+        {
+          "text": "inputigate",
+          "confidence": 0.6724754934187412,
+          "bbox": [
+            [
+              265.0,
+              1455.0
+            ],
+            [
+              473.0,
+              1455.0
+            ],
+            [
+              473.0,
+              1515.0
+            ],
+            [
+              265.0,
+              1515.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 5,
+      "frame_id": 41,
+      "frame_number": 42
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0043.jpg",
+      "full_text": "Long Short-Term Memory 1Forget Gate 2 lnput Gate Eorget gatel inputigate",
+      "text_blocks": [
+        {
+          "text": "Long Short-Term Memory",
+          "confidence": 0.8084079074042763,
+          "bbox": [
+            [
+              178.0,
+              262.0
+            ],
+            [
+              907.0,
+              262.0
+            ],
+            [
+              907.0,
+              351.0
+            ],
+            [
+              178.0,
+              351.0
+            ]
+          ]
+        },
+        {
+          "text": "1Forget Gate",
+          "confidence": 0.9290639441247557,
+          "bbox": [
+            [
+              360.0,
+              399.0
+            ],
+            [
+              767.0,
+              399.0
+            ],
+            [
+              767.0,
+              480.0
+            ],
+            [
+              360.0,
+              480.0
+            ]
+          ]
+        },
+        {
+          "text": "2 lnput Gate",
+          "confidence": 0.5040042959063784,
+          "bbox": [
+            [
+              343.0,
+              476.0
+            ],
+            [
+              725.0,
+              476.0
+            ],
+            [
+              725.0,
+              557.0
+            ],
+            [
+              343.0,
+              557.0
+            ]
+          ]
+        },
+        {
+          "text": "Eorget gatel",
+          "confidence": 0.6709145098311573,
+          "bbox": [
+            [
+              172.0,
+              736.0
+            ],
+            [
+              393.0,
+              736.0
+            ],
+            [
+              393.0,
+              796.0
+            ],
+            [
+              172.0,
+              796.0
+            ]
+          ]
+        },
+        {
+          "text": "inputigate",
+          "confidence": 0.6644891428450753,
+          "bbox": [
+            [
+              265.0,
+              1455.0
+            ],
+            [
+              473.0,
+              1455.0
+            ],
+            [
+              473.0,
+              1515.0
+            ],
+            [
+              265.0,
+              1515.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 5,
+      "frame_id": 42,
+      "frame_number": 43
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0044.jpg",
+      "full_text": "Long Short-Term Memory 1Forget Gate 2 lnput Gate Eorget gatel inputigate (Outputgate]",
+      "text_blocks": [
+        {
+          "text": "Long Short-Term Memory",
+          "confidence": 0.8084079074042763,
+          "bbox": [
+            [
+              178.0,
+              262.0
+            ],
+            [
+              907.0,
+              262.0
+            ],
+            [
+              907.0,
+              351.0
+            ],
+            [
+              178.0,
+              351.0
+            ]
+          ]
+        },
+        {
+          "text": "1Forget Gate",
+          "confidence": 0.9290639441247557,
+          "bbox": [
+            [
+              360.0,
+              399.0
+            ],
+            [
+              767.0,
+              399.0
+            ],
+            [
+              767.0,
+              480.0
+            ],
+            [
+              360.0,
+              480.0
+            ]
+          ]
+        },
+        {
+          "text": "2 lnput Gate",
+          "confidence": 0.503204790359036,
+          "bbox": [
+            [
+              343.0,
+              476.0
+            ],
+            [
+              725.0,
+              476.0
+            ],
+            [
+              725.0,
+              557.0
+            ],
+            [
+              343.0,
+              557.0
+            ]
+          ]
+        },
+        {
+          "text": "Eorget gatel",
+          "confidence": 0.6731974150788069,
+          "bbox": [
+            [
+              172.0,
+              736.0
+            ],
+            [
+              393.0,
+              736.0
+            ],
+            [
+              393.0,
+              796.0
+            ],
+            [
+              172.0,
+              796.0
+            ]
+          ]
+        },
+        {
+          "text": "inputigate",
+          "confidence": 0.6628454443050951,
+          "bbox": [
+            [
+              265.0,
+              1455.0
+            ],
+            [
+              473.0,
+              1455.0
+            ],
+            [
+              473.0,
+              1515.0
+            ],
+            [
+              265.0,
+              1515.0
+            ]
+          ]
+        },
+        {
+          "text": "(Outputgate]",
+          "confidence": 0.7015292918494456,
+          "bbox": [
+            [
+              536.0,
+              1456.0
+            ],
+            [
+              776.0,
+              1456.0
+            ],
+            [
+              776.0,
+              1512.0
+            ],
+            [
+              536.0,
+              1512.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 6,
+      "frame_id": 43,
+      "frame_number": 44
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0045.jpg",
+      "full_text": "Long Short-Term Memory 1Forget Gate Eorget gatel inputigate (@Outpuigatea",
+      "text_blocks": [
+        {
+          "text": "Long Short-Term Memory",
+          "confidence": 0.8092475653143377,
+          "bbox": [
+            [
+              178.0,
+              262.0
+            ],
+            [
+              907.0,
+              262.0
+            ],
+            [
+              907.0,
+              351.0
+            ],
+            [
+              178.0,
+              351.0
+            ]
+          ]
+        },
+        {
+          "text": "1Forget Gate",
+          "confidence": 0.9290639441247557,
+          "bbox": [
+            [
+              360.0,
+              399.0
+            ],
+            [
+              767.0,
+              399.0
+            ],
+            [
+              767.0,
+              480.0
+            ],
+            [
+              360.0,
+              480.0
+            ]
+          ]
+        },
+        {
+          "text": "Eorget gatel",
+          "confidence": 0.656523061081442,
+          "bbox": [
+            [
+              172.0,
+              736.0
+            ],
+            [
+              393.0,
+              736.0
+            ],
+            [
+              393.0,
+              796.0
+            ],
+            [
+              172.0,
+              796.0
+            ]
+          ]
+        },
+        {
+          "text": "inputigate",
+          "confidence": 0.547639833375281,
+          "bbox": [
+            [
+              265.0,
+              1455.0
+            ],
+            [
+              473.0,
+              1455.0
+            ],
+            [
+              473.0,
+              1515.0
+            ],
+            [
+              265.0,
+              1515.0
+            ]
+          ]
+        },
+        {
+          "text": "(@Outpuigatea",
+          "confidence": 0.6097024162157834,
+          "bbox": [
+            [
+              538.0,
+              1456.0
+            ],
+            [
+              776.0,
+              1456.0
+            ],
+            [
+              776.0,
+              1512.0
+            ],
+            [
+              538.0,
+              1512.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 5,
+      "frame_id": 44,
+      "frame_number": 45
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0046.jpg",
+      "full_text": "1Forget Gate 2 lnput Gate 3 Output Gate Forgetgate Input gate; (@utputgaten",
+      "text_blocks": [
+        {
+          "text": "1Forget Gate",
+          "confidence": 0.6845873788993768,
+          "bbox": [
+            [
+              360.0,
+              402.0
+            ],
+            [
+              764.0,
+              402.0
+            ],
+            [
+              764.0,
+              480.0
+            ],
+            [
+              360.0,
+              480.0
+            ]
+          ]
+        },
+        {
+          "text": "2 lnput Gate",
+          "confidence": 0.8082669738774516,
+          "bbox": [
+            [
+              343.0,
+              477.0
+            ],
+            [
+              724.0,
+              477.0
+            ],
+            [
+              724.0,
+              557.0
+            ],
+            [
+              343.0,
+              557.0
+            ]
+          ]
+        },
+        {
+          "text": "3 Output Gate",
+          "confidence": 0.538508835781151,
+          "bbox": [
+            [
+              353.0,
+              547.0
+            ],
+            [
+              784.0,
+              547.0
+            ],
+            [
+              784.0,
+              637.0
+            ],
+            [
+              353.0,
+              637.0
+            ]
+          ]
+        },
+        {
+          "text": "Forgetgate",
+          "confidence": 0.8015800991440616,
+          "bbox": [
+            [
+              170.0,
+              736.0
+            ],
+            [
+              395.0,
+              736.0
+            ],
+            [
+              395.0,
+              800.0
+            ],
+            [
+              170.0,
+              800.0
+            ]
+          ]
+        },
+        {
+          "text": "Input gate;",
+          "confidence": 0.6506216703516242,
+          "bbox": [
+            [
+              271.0,
+              1451.0
+            ],
+            [
+              475.0,
+              1451.0
+            ],
+            [
+              475.0,
+              1515.0
+            ],
+            [
+              271.0,
+              1515.0
+            ]
+          ]
+        },
+        {
+          "text": "(@utputgaten",
+          "confidence": 0.6485721599941456,
+          "bbox": [
+            [
+              536.0,
+              1454.0
+            ],
+            [
+              779.0,
+              1454.0
+            ],
+            [
+              779.0,
+              1520.0
+            ],
+            [
+              536.0,
+              1520.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 6,
+      "frame_id": 45,
+      "frame_number": 46
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0047.jpg",
+      "full_text": "Long Short-Term Memory 1Forget Gate 2 lnput Gate 3 Output Gate Forgetgate Input gate;",
+      "text_blocks": [
+        {
+          "text": "Long Short-Term Memory",
+          "confidence": 0.5560321523052052,
+          "bbox": [
+            [
+              174.0,
+              262.0
+            ],
+            [
+              907.0,
+              262.0
+            ],
+            [
+              907.0,
+              350.0
+            ],
+            [
+              174.0,
+              350.0
+            ]
+          ]
+        },
+        {
+          "text": "1Forget Gate",
+          "confidence": 0.8010957021643901,
+          "bbox": [
+            [
+              360.0,
+              402.0
+            ],
+            [
+              765.0,
+              402.0
+            ],
+            [
+              765.0,
+              480.0
+            ],
+            [
+              360.0,
+              480.0
+            ]
+          ]
+        },
+        {
+          "text": "2 lnput Gate",
+          "confidence": 0.8082669738774516,
+          "bbox": [
+            [
+              343.0,
+              477.0
+            ],
+            [
+              724.0,
+              477.0
+            ],
+            [
+              724.0,
+              557.0
+            ],
+            [
+              343.0,
+              557.0
+            ]
+          ]
+        },
+        {
+          "text": "3 Output Gate",
+          "confidence": 0.538508835781151,
+          "bbox": [
+            [
+              353.0,
+              547.0
+            ],
+            [
+              784.0,
+              547.0
+            ],
+            [
+              784.0,
+              637.0
+            ],
+            [
+              353.0,
+              637.0
+            ]
+          ]
+        },
+        {
+          "text": "Forgetgate",
+          "confidence": 0.8015800991440616,
+          "bbox": [
+            [
+              170.0,
+              736.0
+            ],
+            [
+              395.0,
+              736.0
+            ],
+            [
+              395.0,
+              800.0
+            ],
+            [
+              170.0,
+              800.0
+            ]
+          ]
+        },
+        {
+          "text": "Input gate;",
+          "confidence": 0.6506216703516242,
+          "bbox": [
+            [
+              271.0,
+              1451.0
+            ],
+            [
+              477.0,
+              1451.0
+            ],
+            [
+              477.0,
+              1515.0
+            ],
+            [
+              271.0,
+              1515.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 6,
+      "frame_id": 46,
+      "frame_number": 47
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0048.jpg",
+      "full_text": "Long Short-Term Memory 1Forget Gate 2 lnput Gate 3 Output Gate Forgetgate Input gate;",
+      "text_blocks": [
+        {
+          "text": "Long Short-Term Memory",
+          "confidence": 0.558421221075616,
+          "bbox": [
+            [
+              174.0,
+              262.0
+            ],
+            [
+              907.0,
+              262.0
+            ],
+            [
+              907.0,
+              350.0
+            ],
+            [
+              174.0,
+              350.0
+            ]
+          ]
+        },
+        {
+          "text": "1Forget Gate",
+          "confidence": 0.8010957021643901,
+          "bbox": [
+            [
+              360.0,
+              402.0
+            ],
+            [
+              765.0,
+              402.0
+            ],
+            [
+              765.0,
+              480.0
+            ],
+            [
+              360.0,
+              480.0
+            ]
+          ]
+        },
+        {
+          "text": "2 lnput Gate",
+          "confidence": 0.8082669738774516,
+          "bbox": [
+            [
+              343.0,
+              477.0
+            ],
+            [
+              724.0,
+              477.0
+            ],
+            [
+              724.0,
+              557.0
+            ],
+            [
+              343.0,
+              557.0
+            ]
+          ]
+        },
+        {
+          "text": "3 Output Gate",
+          "confidence": 0.538508835781151,
+          "bbox": [
+            [
+              353.0,
+              547.0
+            ],
+            [
+              784.0,
+              547.0
+            ],
+            [
+              784.0,
+              637.0
+            ],
+            [
+              353.0,
+              637.0
+            ]
+          ]
+        },
+        {
+          "text": "Forgetgate",
+          "confidence": 0.8015800991440616,
+          "bbox": [
+            [
+              170.0,
+              736.0
+            ],
+            [
+              395.0,
+              736.0
+            ],
+            [
+              395.0,
+              800.0
+            ],
+            [
+              170.0,
+              800.0
+            ]
+          ]
+        },
+        {
+          "text": "Input gate;",
+          "confidence": 0.6506216703516242,
+          "bbox": [
+            [
+              271.0,
+              1451.0
+            ],
+            [
+              475.0,
+              1451.0
+            ],
+            [
+              475.0,
+              1515.0
+            ],
+            [
+              271.0,
+              1515.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 6,
+      "frame_id": 47,
+      "frame_number": 48
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0049.jpg",
+      "full_text": "Long Short-Term Memory 1Forget Gate 2 lnput Gate 3 Output Gate Forgetgate Input gate;",
+      "text_blocks": [
+        {
+          "text": "Long Short-Term Memory",
+          "confidence": 0.5560321523052052,
+          "bbox": [
+            [
+              174.0,
+              262.0
+            ],
+            [
+              907.0,
+              262.0
+            ],
+            [
+              907.0,
+              350.0
+            ],
+            [
+              174.0,
+              350.0
+            ]
+          ]
+        },
+        {
+          "text": "1Forget Gate",
+          "confidence": 0.8010957021643901,
+          "bbox": [
+            [
+              360.0,
+              402.0
+            ],
+            [
+              765.0,
+              402.0
+            ],
+            [
+              765.0,
+              480.0
+            ],
+            [
+              360.0,
+              480.0
+            ]
+          ]
+        },
+        {
+          "text": "2 lnput Gate",
+          "confidence": 0.8082669738774516,
+          "bbox": [
+            [
+              343.0,
+              477.0
+            ],
+            [
+              724.0,
+              477.0
+            ],
+            [
+              724.0,
+              557.0
+            ],
+            [
+              343.0,
+              557.0
+            ]
+          ]
+        },
+        {
+          "text": "3 Output Gate",
+          "confidence": 0.538508835781151,
+          "bbox": [
+            [
+              353.0,
+              547.0
+            ],
+            [
+              784.0,
+              547.0
+            ],
+            [
+              784.0,
+              637.0
+            ],
+            [
+              353.0,
+              637.0
+            ]
+          ]
+        },
+        {
+          "text": "Forgetgate",
+          "confidence": 0.8015800991440616,
+          "bbox": [
+            [
+              170.0,
+              736.0
+            ],
+            [
+              395.0,
+              736.0
+            ],
+            [
+              395.0,
+              800.0
+            ],
+            [
+              170.0,
+              800.0
+            ]
+          ]
+        },
+        {
+          "text": "Input gate;",
+          "confidence": 0.6506216703516242,
+          "bbox": [
+            [
+              271.0,
+              1451.0
+            ],
+            [
+              475.0,
+              1451.0
+            ],
+            [
+              475.0,
+              1515.0
+            ],
+            [
+              271.0,
+              1515.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 6,
+      "frame_id": 48,
+      "frame_number": 49
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0050.jpg",
+      "full_text": "Long Short-Term Memory 1Forget Gate 2 lnput Gate 3 Output Gate Forgetgate Input gate;",
+      "text_blocks": [
+        {
+          "text": "Long Short-Term Memory",
+          "confidence": 0.5659828522638728,
+          "bbox": [
+            [
+              174.0,
+              262.0
+            ],
+            [
+              907.0,
+              262.0
+            ],
+            [
+              907.0,
+              350.0
+            ],
+            [
+              174.0,
+              350.0
+            ]
+          ]
+        },
+        {
+          "text": "1Forget Gate",
+          "confidence": 0.8010957021643901,
+          "bbox": [
+            [
+              360.0,
+              402.0
+            ],
+            [
+              765.0,
+              402.0
+            ],
+            [
+              765.0,
+              480.0
+            ],
+            [
+              360.0,
+              480.0
+            ]
+          ]
+        },
+        {
+          "text": "2 lnput Gate",
+          "confidence": 0.8082669738774516,
+          "bbox": [
+            [
+              343.0,
+              477.0
+            ],
+            [
+              724.0,
+              477.0
+            ],
+            [
+              724.0,
+              557.0
+            ],
+            [
+              343.0,
+              557.0
+            ]
+          ]
+        },
+        {
+          "text": "3 Output Gate",
+          "confidence": 0.538508835781151,
+          "bbox": [
+            [
+              353.0,
+              547.0
+            ],
+            [
+              784.0,
+              547.0
+            ],
+            [
+              784.0,
+              637.0
+            ],
+            [
+              353.0,
+              637.0
+            ]
+          ]
+        },
+        {
+          "text": "Forgetgate",
+          "confidence": 0.8015800991440616,
+          "bbox": [
+            [
+              170.0,
+              736.0
+            ],
+            [
+              395.0,
+              736.0
+            ],
+            [
+              395.0,
+              800.0
+            ],
+            [
+              170.0,
+              800.0
+            ]
+          ]
+        },
+        {
+          "text": "Input gate;",
+          "confidence": 0.6506216703516242,
+          "bbox": [
+            [
+              271.0,
+              1451.0
+            ],
+            [
+              475.0,
+              1451.0
+            ],
+            [
+              475.0,
+              1515.0
+            ],
+            [
+              271.0,
+              1515.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 6,
+      "frame_id": 49,
+      "frame_number": 50
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0051.jpg",
+      "full_text": "Shert-Term Memory Forget Gate 3.Output Gate Forget gate long",
+      "text_blocks": [
+        {
+          "text": "Shert-Term Memory",
+          "confidence": 0.6554056469698364,
+          "bbox": [
+            [
+              328.0,
+              262.0
+            ],
+            [
+              907.0,
+              262.0
+            ],
+            [
+              907.0,
+              348.0
+            ],
+            [
+              328.0,
+              348.0
+            ]
+          ]
+        },
+        {
+          "text": "Forget Gate",
+          "confidence": 0.7712206634250485,
+          "bbox": [
+            [
+              412.0,
+              402.0
+            ],
+            [
+              765.0,
+              402.0
+            ],
+            [
+              765.0,
+              480.0
+            ],
+            [
+              412.0,
+              480.0
+            ]
+          ]
+        },
+        {
+          "text": "3.Output Gate",
+          "confidence": 0.6255022891617928,
+          "bbox": [
+            [
+              354.0,
+              550.0
+            ],
+            [
+              781.0,
+              550.0
+            ],
+            [
+              781.0,
+              628.0
+            ],
+            [
+              354.0,
+              628.0
+            ]
+          ]
+        },
+        {
+          "text": "Forget gate",
+          "confidence": 0.9946446869245061,
+          "bbox": [
+            [
+              176.0,
+              736.0
+            ],
+            [
+              393.0,
+              736.0
+            ],
+            [
+              393.0,
+              796.0
+            ],
+            [
+              176.0,
+              796.0
+            ]
+          ]
+        },
+        {
+          "text": "long",
+          "confidence": 0.9667176008224487,
+          "bbox": [
+            [
+              181.99599649376776,
+              264.0723758069975
+            ],
+            [
+              331.79099750101733,
+              285.3022506247457
+            ],
+            [
+              321.00400350623227,
+              346.9276241930025
+            ],
+            [
+              170.20900249898267,
+              325.6977493752543
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 5,
+      "frame_id": 50,
+      "frame_number": 51
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0052.jpg",
+      "full_text": "Forget Gate 2 Input Gate 3.Output Gate Forget gate",
+      "text_blocks": [
+        {
+          "text": "Forget Gate",
+          "confidence": 0.7431204285721055,
+          "bbox": [
+            [
+              412.0,
+              402.0
+            ],
+            [
+              765.0,
+              402.0
+            ],
+            [
+              765.0,
+              480.0
+            ],
+            [
+              412.0,
+              480.0
+            ]
+          ]
+        },
+        {
+          "text": "2 Input Gate",
+          "confidence": 0.7630777099086183,
+          "bbox": [
+            [
+              345.0,
+              476.0
+            ],
+            [
+              724.0,
+              476.0
+            ],
+            [
+              724.0,
+              557.0
+            ],
+            [
+              345.0,
+              557.0
+            ]
+          ]
+        },
+        {
+          "text": "3.Output Gate",
+          "confidence": 0.9018680834426605,
+          "bbox": [
+            [
+              354.0,
+              552.0
+            ],
+            [
+              781.0,
+              552.0
+            ],
+            [
+              781.0,
+              628.0
+            ],
+            [
+              354.0,
+              628.0
+            ]
+          ]
+        },
+        {
+          "text": "Forget gate",
+          "confidence": 0.9933727478424282,
+          "bbox": [
+            [
+              176.0,
+              736.0
+            ],
+            [
+              393.0,
+              736.0
+            ],
+            [
+              393.0,
+              796.0
+            ],
+            [
+              176.0,
+              796.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 4,
+      "frame_id": 51,
+      "frame_number": 52
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0053.jpg",
+      "full_text": "Long Shert-Term Memory Forgef Gate 2 Input Gate 3.Output Gate Forget 1 gate'",
+      "text_blocks": [
+        {
+          "text": "Long Shert-Term Memory",
+          "confidence": 0.7492915708351866,
+          "bbox": [
+            [
+              171.0,
+              263.0
+            ],
+            [
+              905.0,
+              263.0
+            ],
+            [
+              905.0,
+              348.0
+            ],
+            [
+              171.0,
+              348.0
+            ]
+          ]
+        },
+        {
+          "text": "Forgef Gate",
+          "confidence": 0.605197955154039,
+          "bbox": [
+            [
+              412.0,
+              404.0
+            ],
+            [
+              765.0,
+              404.0
+            ],
+            [
+              765.0,
+              480.0
+            ],
+            [
+              412.0,
+              480.0
+            ]
+          ]
+        },
+        {
+          "text": "2 Input Gate",
+          "confidence": 0.9560513887017644,
+          "bbox": [
+            [
+              342.0,
+              473.0
+            ],
+            [
+              726.0,
+              473.0
+            ],
+            [
+              726.0,
+              558.0
+            ],
+            [
+              342.0,
+              558.0
+            ]
+          ]
+        },
+        {
+          "text": "3.Output Gate",
+          "confidence": 0.9018680834426605,
+          "bbox": [
+            [
+              354.0,
+              552.0
+            ],
+            [
+              781.0,
+              552.0
+            ],
+            [
+              781.0,
+              628.0
+            ],
+            [
+              354.0,
+              628.0
+            ]
+          ]
+        },
+        {
+          "text": "Forget",
+          "confidence": 0.9964499316579529,
+          "bbox": [
+            [
+              176.0,
+              736.0
+            ],
+            [
+              309.0,
+              736.0
+            ],
+            [
+              309.0,
+              796.0
+            ],
+            [
+              176.0,
+              796.0
+            ]
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.5420417451235018,
+          "bbox": [
+            [
+              884.0,
+              744.0
+            ],
+            [
+              910.0,
+              744.0
+            ],
+            [
+              910.0,
+              774.0
+            ],
+            [
+              884.0,
+              774.0
+            ]
+          ]
+        },
+        {
+          "text": "gate'",
+          "confidence": 0.7485424519342626,
+          "bbox": [
+            [
+              299.25995562830275,
+              743.2578535733992
+            ],
+            [
+              393.11206346151556,
+              736.8588525718399
+            ],
+            [
+              393.74004437169725,
+              787.7421464266008
+            ],
+            [
+              299.88793653848444,
+              794.1411474281601
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 7,
+      "frame_id": 52,
+      "frame_number": 53
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0054.jpg",
+      "full_text": "Long Shert-Term Memory Forgef Gate 2 Input Gate 3.Output Gate Forget 1 'gate",
+      "text_blocks": [
+        {
+          "text": "Long Shert-Term Memory",
+          "confidence": 0.7507356076399433,
+          "bbox": [
+            [
+              171.0,
+              263.0
+            ],
+            [
+              905.0,
+              263.0
+            ],
+            [
+              905.0,
+              348.0
+            ],
+            [
+              171.0,
+              348.0
+            ]
+          ]
+        },
+        {
+          "text": "Forgef Gate",
+          "confidence": 0.605197955154039,
+          "bbox": [
+            [
+              412.0,
+              404.0
+            ],
+            [
+              765.0,
+              404.0
+            ],
+            [
+              765.0,
+              480.0
+            ],
+            [
+              412.0,
+              480.0
+            ]
+          ]
+        },
+        {
+          "text": "2 Input Gate",
+          "confidence": 0.9560513887017644,
+          "bbox": [
+            [
+              342.0,
+              473.0
+            ],
+            [
+              726.0,
+              473.0
+            ],
+            [
+              726.0,
+              558.0
+            ],
+            [
+              342.0,
+              558.0
+            ]
+          ]
+        },
+        {
+          "text": "3.Output Gate",
+          "confidence": 0.9018680834426605,
+          "bbox": [
+            [
+              354.0,
+              552.0
+            ],
+            [
+              781.0,
+              552.0
+            ],
+            [
+              781.0,
+              628.0
+            ],
+            [
+              354.0,
+              628.0
+            ]
+          ]
+        },
+        {
+          "text": "Forget",
+          "confidence": 0.9950791355704508,
+          "bbox": [
+            [
+              176.0,
+              736.0
+            ],
+            [
+              307.0,
+              736.0
+            ],
+            [
+              307.0,
+              796.0
+            ],
+            [
+              176.0,
+              796.0
+            ]
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.5420417451235018,
+          "bbox": [
+            [
+              884.0,
+              744.0
+            ],
+            [
+              910.0,
+              744.0
+            ],
+            [
+              910.0,
+              774.0
+            ],
+            [
+              884.0,
+              774.0
+            ]
+          ]
+        },
+        {
+          "text": "'gate",
+          "confidence": 0.877994233889991,
+          "bbox": [
+            [
+              667.3941368172834,
+              1461.2188925422204
+            ],
+            [
+              769.1349728551614,
+              1453.8964449776497
+            ],
+            [
+              770.6058631827166,
+              1508.7811074577796
+            ],
+            [
+              667.8650271448386,
+              1515.1035550223503
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 7,
+      "frame_id": 53,
+      "frame_number": 54
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0055.jpg",
+      "full_text": "Long Shert-Term Memory Forgef Gate 2 Input Gate 3.Output Gate Forget 1 @@utputgatel",
+      "text_blocks": [
+        {
+          "text": "Long Shert-Term Memory",
+          "confidence": 0.7507356076399433,
+          "bbox": [
+            [
+              171.0,
+              263.0
+            ],
+            [
+              905.0,
+              263.0
+            ],
+            [
+              905.0,
+              348.0
+            ],
+            [
+              171.0,
+              348.0
+            ]
+          ]
+        },
+        {
+          "text": "Forgef Gate",
+          "confidence": 0.605197955154039,
+          "bbox": [
+            [
+              412.0,
+              404.0
+            ],
+            [
+              765.0,
+              404.0
+            ],
+            [
+              765.0,
+              480.0
+            ],
+            [
+              412.0,
+              480.0
+            ]
+          ]
+        },
+        {
+          "text": "2 Input Gate",
+          "confidence": 0.9560513887017644,
+          "bbox": [
+            [
+              342.0,
+              473.0
+            ],
+            [
+              726.0,
+              473.0
+            ],
+            [
+              726.0,
+              558.0
+            ],
+            [
+              342.0,
+              558.0
+            ]
+          ]
+        },
+        {
+          "text": "3.Output Gate",
+          "confidence": 0.9018680834426605,
+          "bbox": [
+            [
+              354.0,
+              552.0
+            ],
+            [
+              781.0,
+              552.0
+            ],
+            [
+              781.0,
+              628.0
+            ],
+            [
+              354.0,
+              628.0
+            ]
+          ]
+        },
+        {
+          "text": "Forget",
+          "confidence": 0.9950791355704508,
+          "bbox": [
+            [
+              176.0,
+              736.0
+            ],
+            [
+              307.0,
+              736.0
+            ],
+            [
+              307.0,
+              796.0
+            ],
+            [
+              176.0,
+              796.0
+            ]
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.5420417451235018,
+          "bbox": [
+            [
+              884.0,
+              744.0
+            ],
+            [
+              910.0,
+              744.0
+            ],
+            [
+              910.0,
+              774.0
+            ],
+            [
+              884.0,
+              774.0
+            ]
+          ]
+        },
+        {
+          "text": "@@utputgatel",
+          "confidence": 0.5929244381657973,
+          "bbox": [
+            [
+              534.0,
+              1454.0
+            ],
+            [
+              773.0,
+              1454.0
+            ],
+            [
+              773.0,
+              1516.0
+            ],
+            [
+              534.0,
+              1516.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 7,
+      "frame_id": 54,
+      "frame_number": 55
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0056.jpg",
+      "full_text": "Long Shert TermMemory 1Forget- Gate 3.Output Gate: Forget gate \"Oufputgate",
+      "text_blocks": [
+        {
+          "text": "Long Shert TermMemory",
+          "confidence": 0.7437246478072189,
+          "bbox": [
+            [
+              176.0,
+              264.0
+            ],
+            [
+              912.0,
+              264.0
+            ],
+            [
+              912.0,
+              353.0
+            ],
+            [
+              176.0,
+              353.0
+            ]
+          ]
+        },
+        {
+          "text": "1Forget- Gate",
+          "confidence": 0.6600221922432211,
+          "bbox": [
+            [
+              362.0,
+              405.0
+            ],
+            [
+              762.0,
+              405.0
+            ],
+            [
+              762.0,
+              481.0
+            ],
+            [
+              362.0,
+              481.0
+            ]
+          ]
+        },
+        {
+          "text": "3.Output Gate:",
+          "confidence": 0.554903686732345,
+          "bbox": [
+            [
+              352.0,
+              551.0
+            ],
+            [
+              782.0,
+              551.0
+            ],
+            [
+              782.0,
+              630.0
+            ],
+            [
+              352.0,
+              630.0
+            ]
+          ]
+        },
+        {
+          "text": "Forget gate",
+          "confidence": 0.5934755642093801,
+          "bbox": [
+            [
+              175.0,
+              736.0
+            ],
+            [
+              395.0,
+              736.0
+            ],
+            [
+              395.0,
+              800.0
+            ],
+            [
+              175.0,
+              800.0
+            ]
+          ]
+        },
+        {
+          "text": "\"Oufputgate",
+          "confidence": 0.5133085755731261,
+          "bbox": [
+            [
+              534.0,
+              1453.0
+            ],
+            [
+              773.0,
+              1453.0
+            ],
+            [
+              773.0,
+              1520.0
+            ],
+            [
+              534.0,
+              1520.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 5,
+      "frame_id": 55,
+      "frame_number": 56
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0057.jpg",
+      "full_text": "Long Short-Term Memory iQutputgate!",
+      "text_blocks": [
+        {
+          "text": "Long Short-Term Memory",
+          "confidence": 0.6410903225425757,
+          "bbox": [
+            [
+              174.0,
+              260.0
+            ],
+            [
+              914.0,
+              260.0
+            ],
+            [
+              914.0,
+              356.0
+            ],
+            [
+              174.0,
+              356.0
+            ]
+          ]
+        },
+        {
+          "text": "iQutputgate!",
+          "confidence": 0.5493628634230341,
+          "bbox": [
+            [
+              521.0,
+              1091.0
+            ],
+            [
+              705.0,
+              1091.0
+            ],
+            [
+              705.0,
+              1135.0
+            ],
+            [
+              521.0,
+              1135.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 2,
+      "frame_id": 56,
+      "frame_number": 57
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0058.jpg",
+      "full_text": "Long Shert- TermiMemory; Naturellanguage processing",
+      "text_blocks": [
+        {
+          "text": "Long Shert- TermiMemory;",
+          "confidence": 0.6611720669907197,
+          "bbox": [
+            [
+              173.0,
+              262.0
+            ],
+            [
+              909.0,
+              262.0
+            ],
+            [
+              909.0,
+              350.0
+            ],
+            [
+              173.0,
+              350.0
+            ]
+          ]
+        },
+        {
+          "text": "Naturellanguage processing",
+          "confidence": 0.7668403739983134,
+          "bbox": [
+            [
+              185.0,
+              1143.0
+            ],
+            [
+              975.0,
+              1143.0
+            ],
+            [
+              975.0,
+              1234.0
+            ],
+            [
+              185.0,
+              1234.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 2,
+      "frame_id": 57,
+      "frame_number": 58
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0059.jpg",
+      "full_text": "Naturd language processing Sequentid dataproblems",
+      "text_blocks": [
+        {
+          "text": "Naturd language processing",
+          "confidence": 0.6242926656478485,
+          "bbox": [
+            [
+              183.0,
+              1140.0
+            ],
+            [
+              978.0,
+              1140.0
+            ],
+            [
+              978.0,
+              1236.0
+            ],
+            [
+              183.0,
+              1236.0
+            ]
+          ]
+        },
+        {
+          "text": "Sequentid dataproblems",
+          "confidence": 0.7992479497906408,
+          "bbox": [
+            [
+              182.0,
+              1213.0
+            ],
+            [
+              902.0,
+              1213.0
+            ],
+            [
+              902.0,
+              1300.0
+            ],
+            [
+              182.0,
+              1300.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 2,
+      "frame_id": 58,
+      "frame_number": 59
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0060.jpg",
+      "full_text": "Naturdlanguage processing Sequentia data roblems",
+      "text_blocks": [
+        {
+          "text": "Naturdlanguage processing",
+          "confidence": 0.8723572544586948,
+          "bbox": [
+            [
+              184.0,
+              1140.0
+            ],
+            [
+              978.0,
+              1140.0
+            ],
+            [
+              978.0,
+              1236.0
+            ],
+            [
+              184.0,
+              1236.0
+            ]
+          ]
+        },
+        {
+          "text": "Sequentia data roblems",
+          "confidence": 0.510319962448635,
+          "bbox": [
+            [
+              183.0,
+              1215.0
+            ],
+            [
+              901.0,
+              1215.0
+            ],
+            [
+              901.0,
+              1296.0
+            ],
+            [
+              183.0,
+              1296.0
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 2,
+      "frame_id": 59,
+      "frame_number": 60
+    }
+  ]
+}

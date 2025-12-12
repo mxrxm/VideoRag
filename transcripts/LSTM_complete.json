@@ -1,0 +1,85 @@
+{
+  "video_name": "LSTM",
+  "video_source": "LSTM.mp4",
+  "language": "en",
+  "full_transcript": " Long short-term memory is a type of recurrent neural network architecture that is designed to overcome the vanishing gradient problem and effectively capture long-term dependencies in sequential data. LSTM networks achieve this by using specialized gates, which control the flow of information within the network. These gates are fundamental to understanding how LSTM's work. The forget gate decides which information from the previous cell state should be discarded or remembered. The sigmoid activation function squashes the values between 0 and 1, where 0 means completely forget and 1 means completely remember. The input gate decides which new information from the current input, x, t, should be added to the cell state. The tan H activation function creates a vector of new candidate values to add to the cell state, and the output gate decides what the next hidden state should be based on the updated cell state. Working together, these gates enable LSTM's to remember and forget information over long sequences, making them particularly effective for tasks",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.84,
+      "text": "Long short-term memory is a type of recurrent neural network architecture",
+      "id": 0,
+      "ocr_text": "Leng Short-Term Long Short-Term Memory Recurrent neurgli Long Short-Term Memory Recurrentneurallnetwork (RNN)"
+    },
+    {
+      "start": 3.84,
+      "end": 10.48,
+      "text": "that is designed to overcome the vanishing gradient problem and effectively capture long-term dependencies in sequential data.",
+      "id": 1,
+      "ocr_text": "Long Short-Term Memory Recurrentneurallnetwork (RNN) Leng Shont-Term Memory Recurrent neurallinetwork; (RNNJ Leng Shont-Term Memory Recurrent neurallnetwork ( Em Leng Shont-Term Memory Recurrent neurallinetwork; Leng Shont-Term Memory Recurrent neurallinetwork; (RNN) Short-Term Memory Recurrent neuranetwork (RNN) 24 Long"
+    },
+    {
+      "start": 10.48,
+      "end": 16.8,
+      "text": "LSTM networks achieve this by using specialized gates, which control the flow of information within the network.",
+      "id": 2,
+      "ocr_text": "Short-Verm Memory Recurrent neuranetwork 24 Long Short-Term Memory Long Long Short-TermMemory #Forget Gate #Forget Gate 2 Input Gate 3 Ouput Gate"
+    },
+    {
+      "start": 16.8,
+      "end": 20.48,
+      "text": "These gates are fundamental to understanding how LSTM's work.",
+      "id": 3,
+      "ocr_text": "#Forget Gate 2 Input Gate 3 Output Gate Forget Gete 2 Input Gate 3 Output Gate Forget gate Quiputigate: Forget Gete 2 Input Gate Forget gate Quiputigate: 1Forgef Gate 2input Gate; 3 Output Gate Forgetigate be"
+    },
+    {
+      "start": 20.48,
+      "end": 25.68,
+      "text": "The forget gate decides which information from the previous cell state should be discarded or remembered.",
+      "id": 4,
+      "ocr_text": "1Forgef Gate 2input Gate; 3 Output Gate Fongetigate be tanh 1Forgef Gate 2input Gate; 3 Output Gate Fongetigate be 1Forgef Gate 2input Gate; 3 Output Gate Forgetigate be iputgate \"@utput gate 1Forgef Gate 2input Gate; 3 Output Gate Folgetigate be iputgate Long Short-TermMemory 1Forget Gate 2 Input Gate 3 Output Gate Forgetigate lputigate: bscribe"
+    },
+    {
+      "start": 25.759999999999998,
+      "end": 30.8,
+      "text": "The sigmoid activation function squashes the values between 0 and 1, where 0 means",
+      "id": 5,
+      "ocr_text": "Long Short-TermMemory 2 Input Gate 3 Output Gate Forgetigate Output gatel Long Short-TermMemory 2 Input Gate 3 Output Gate Forgetigate Long Short-TermMemory 2 Input Gate 3 Output Gate Forgetigate (Qutputigatel Long Short-TermMemory 2 Input Gate 3 Output Gate Forgetigate (Qutputigatel bscribe 1Ferget Gate 2 Input Gate utput Gate Forget-gate Stbscribe)"
+    },
+    {
+      "start": 30.8,
+      "end": 36.56,
+      "text": "completely forget and 1 means completely remember. The input gate decides which new information from",
+      "id": 6,
+      "ocr_text": "1Ferget Gate 2 Input Gate utput Gate Forget-gate Illmput gate @uiputigate, Subscribet Long Short-TermMemory 1Ferget Gate 2 Input Gate utput Gate Forget-gate @uiputigate, Long Short-TermMemory 1Ferget Gate 2 Input Gate utput Gate Forget-gate @uipuiigate Long Short-TermMemory 1Ferget Gate 2 Input Gate utput Gate Forget-gate ipubgate: @uipuiigate 1 Forget Gate 3 Output Gate Forget gate (@utputgate 1 Forget Gate 2 lnput Gate 3 Output Gate Forget gate ilnpiitigate: (@utputgate"
+    },
+    {
+      "start": 36.56,
+      "end": 42.4,
+      "text": "the current input, x, t, should be added to the cell state. The tan H activation function creates",
+      "id": 7,
+      "ocr_text": "1 Forget Gate 2 lnput Gate 3 Output Gate Forget gate inpiitigate: (@utputgate 1 Forget Gate 2 lnput Gate 3 Output Gate Forget gate ilnputigate: (@utputgate 1 Forget Gate 2 lnput Gate 3 Output Gate Forget gate (@utputgate' Long Short-Term Memory 1Forget Gate Eorget gatel inputgate (@utputgatea Long Short-Term Memory 1Forget Gate 2 lnput Gate Eorget gatel inputigate"
+    },
+    {
+      "start": 42.4,
+      "end": 47.44,
+      "text": "a vector of new candidate values to add to the cell state, and the output gate decides what the",
+      "id": 8,
+      "ocr_text": "Long Short-Term Memory 1Forget Gate 2 lnput Gate Eorget gatel inputigate (Outputgate] Long Short-Term Memory 1Forget Gate Eorget gatel inputigate (@Outpuigatea 1Forget Gate 2 lnput Gate 3 Output Gate Forgetgate Input gate; (@utputgaten Long Short-Term Memory 1Forget Gate 2 lnput Gate 3 Output Gate Forgetgate Input gate;"
+    },
+    {
+      "start": 47.44,
+      "end": 53.28,
+      "text": "next hidden state should be based on the updated cell state. Working together, these gates enable LSTM's",
+      "id": 9,
+      "ocr_text": "Long Short-Term Memory 1Forget Gate 2 lnput Gate 3 Output Gate Forgetgate Input gate; Shert-Term Memory Forget Gate 3.Output Gate Forget gate long Forget Gate 2 Input Gate 3.Output Gate Forget gate Long Shert-Term Memory Forgef Gate 2 Input Gate 3.Output Gate Forget 1 gate' Long Shert-Term Memory Forgef Gate 2 Input Gate 3.Output Gate Forget 1 'gate"
+    },
+    {
+      "start": 53.28,
+      "end": 58.800000000000004,
+      "text": "to remember and forget information over long sequences, making them particularly effective for tasks",
+      "id": 10,
+      "ocr_text": "Long Shert-Term Memory Forgef Gate 2 Input Gate 3.Output Gate Forget 1 @@utputgatel Long Shert TermMemory 1Forget- Gate 3.Output Gate: Forget gate \"Oufputgate Long Short-Term Memory iQutputgate! Long Shert- TermiMemory; Naturellanguage processing Naturd language processing Sequentid dataproblems"
+    }
+  ]
+}

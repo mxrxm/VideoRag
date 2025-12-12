@@ -1,0 +1,11 @@
+numpy
+pandas
+PyMuPDF
+python-pptx
+nltk
+torch
+transformers
+sentence-transformers
+faiss-cpu
+chromadb
+accelerate

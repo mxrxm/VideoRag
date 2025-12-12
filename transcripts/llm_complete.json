@@ -1,0 +1,421 @@
+{
+  "video_name": "llm",
+  "video_source": "llm.mp4",
+  "language": "en",
+  "full_transcript": " GPT or generative pre-trained transformer is a large language model or an LLM that can generate human-like text. I've been using GPT in its various forms for years. In this video, we are going to number one, ask what is an LLM. Number two, we are going to describe how they work. And then number three, we're going to ask what are the business applications of LLMs. Let's start with number one, what is a large language model? Well, a large language model is an instance of something else called a foundation model. Now, foundation models are pre-trained on large amounts of unlabeled and self-supervised data, meaning the model learns from patterns in the data in a way that produces generalizable and adaptable output. And large language models are instances of foundation models applied specifically to text and text-like things. I'm talking about things like code. Now, large language models are trained on large data sets of text, such as books, articles and conversations. And look, when we say large, these models can be tens of gigabytes in size and trained on enormous amounts of text data. We're talking potentially petabytes of data here. So to put that into perspective, a text file that is, let's say, one gigabyte in size, that can store about 178 million words. A lot of words just in one GB. And how many gigabytes are in a petabyte? Well, it's about one million. Yeah, that's truly a lot of tech. Now, LLMs are also among the biggest models when it comes to parameter count. A parameter is a value the model can change independently as it learns. And the more parameters the model has, the more complex it can be. GTP3, for example, is pre-trained on a corpus of actually 45 terabytes of data. And it uses 175 billion ML parameters. All right, so how do they work? Well, we can think of it like this. LLM equals three things, data, architecture, and lastly, we can think of it as training. Those three things are really the components of an LLM. Now, we've already discussed the enormous amounts of text data that goes into these things. As for the architecture, this is a neural network. And for GPP, that is a transformer. And the transformer architecture enables the model to handle sequences of data like sentences or lines of code. And transformers have designed to understand the context of each word and a sentence by considering it in relation to every other word. This allows the model to build a comprehensive understanding of the sentence structure and the meaning of the words within it. And then this architecture is trained on all of this large amount of data. Now, during training, the model learns to predict the next word in a sentence. So the sky is, it starts off with a random guess. The sky is bugged. But with each iteration, the model adjusts its internal parameters to reduce the difference between its predictions and the actual outcomes. And the model keeps doing this gradually improving its word predictions until it can reliably generate coherent sentences. Forget about bug. You can figure out it's blue. Now, the model can be fine tuned on a smaller, more specific data set. Here, the model refines its understanding to be able to perform this specific task more accurately. Fine tuning is what allows a general language model to become an expert at a specific task. Okay, so how does this all fit into number three business applications? Well, for customer service applications, businesses can use LLMs to create intelligent chat bots that can handle a variety of customer queries, freeing up human agents for more complex issues. Another good field, content creation. That can benefit from LLMs, which can help generate articles, emails, social media posts and even YouTube video scripts. Hmm, there's an idea. Now, LLMs can even contribute to software development. And they can do that by helping to generate and review code. And look, that's just scratching the surface. Large language models continue to evolve with bound to discover more innovative applications. And that's what I'm so enamored with large language models. If you have any questions, please drop us a line below. And if you want to see more videos like this in the future, please like and subscribe. Thanks for watching.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.8,
+      "text": "GPT or generative pre-trained transformer is a large language model or an LLM that can generate human-like text.",
+      "id": 0,
+      "ocr_text": "Pp @BMTechnolagy Masterlnventor TBMTechnologv 55 Marti Keen @Mdud [BMTechnology MantiKeen Masterlnventor TBM Technology Masterlnventor Masterlvente [BMTechnology Mati Keen Masterlnventa [BMTechnologv Laucuac [BMiechnologv [BMTechnologv"
+    },
+    {
+      "start": 10.8,
+      "end": 15.0,
+      "text": "I've been using GPT in its various forms for years.",
+      "id": 1,
+      "ocr_text": ""
+    },
+    {
+      "start": 15.0,
+      "end": 22.0,
+      "text": "In this video, we are going to number one, ask what is an LLM.",
+      "id": 2,
+      "ocr_text": "1 Apu @ How ArGe 0 $ Uate BuSiess"
+    },
+    {
+      "start": 22.0,
+      "end": 26.5,
+      "text": "Number two, we are going to describe how they work.",
+      "id": 3,
+      "ocr_text": "Uate BuSiess Zezan? Busiess @arce {1"
+    },
+    {
+      "start": 26.5,
+      "end": 32.5,
+      "text": "And then number three, we're going to ask what are the business applications of LLMs.",
+      "id": 4,
+      "ocr_text": "How Business 3 eus] 5 Busiuess"
+    },
+    {
+      "start": 32.5,
+      "end": 36.5,
+      "text": "Let's start with number one, what is a large language model?",
+      "id": 5,
+      "ocr_text": "05 Business F& Busi"
+    },
+    {
+      "start": 36.5,
+      "end": 47.5,
+      "text": "Well, a large language model is an instance of something else called a foundation model.",
+      "id": 6,
+      "ocr_text": "RG @$ MODzcs E1 7 Larce; USines IC business"
+    },
+    {
+      "start": 48.5,
+      "end": 55.5,
+      "text": "Now, foundation models are pre-trained on large amounts of unlabeled and self-supervised data,",
+      "id": 7,
+      "ocr_text": "03 5 03 Howv Busivess 4 03 0309 How 50 Business 03 Busivess 0S_ DUCuacs Business"
+    },
+    {
+      "start": 55.5,
+      "end": 61.5,
+      "text": "meaning the model learns from patterns in the data in a way that produces generalizable and adaptable output.",
+      "id": 8,
+      "ocr_text": "Business 3 Business"
+    },
+    {
+      "start": 61.5,
+      "end": 69.5,
+      "text": "And large language models are instances of foundation models applied specifically to text and text-like things.",
+      "id": 9,
+      "ocr_text": "MZDec 3 Howu How Arce How USiness How 4 69 How Business Howv Wbey Howvi Hows"
+    },
+    {
+      "start": 69.5,
+      "end": 71.5,
+      "text": "I'm talking about things like code.",
+      "id": 10,
+      "ocr_text": "How Howu)"
+    },
+    {
+      "start": 71.5,
+      "end": 78.5,
+      "text": "Now, large language models are trained on large data sets of text, such as books, articles and conversations.",
+      "id": 11,
+      "ocr_text": "01 Ea? Business Arce RGE 0 S_ Busiess Busiess How Business"
+    },
+    {
+      "start": 78.5,
+      "end": 87.5,
+      "text": "And look, when we say large, these models can be tens of gigabytes in size and trained on enormous amounts of text data.",
+      "id": 12,
+      "ocr_text": "How 05 Haw Business Hiow Business G"
+    },
+    {
+      "start": 87.5,
+      "end": 90.5,
+      "text": "We're talking potentially petabytes of data here.",
+      "id": 13,
+      "ocr_text": "RGE Business Usiness"
+    },
+    {
+      "start": 90.5,
+      "end": 97.5,
+      "text": "So to put that into perspective, a text file that is, let's say, one gigabyte in size,",
+      "id": 14,
+      "ocr_text": "JCUACe Business Business 5 0647 Warce MZDers USIess"
+    },
+    {
+      "start": 97.5,
+      "end": 104.5,
+      "text": "that can store about 178 million words.",
+      "id": 15,
+      "ocr_text": "S Business Warce Business RGE MODe 69 0 Business RGe Kusiness How= 7 Busijess"
+    },
+    {
+      "start": 104.5,
+      "end": 107.5,
+      "text": "A lot of words just in one GB.",
+      "id": 16,
+      "ocr_text": "Busies Busiess 7"
+    },
+    {
+      "start": 107.5,
+      "end": 111.5,
+      "text": "And how many gigabytes are in a petabyte?",
+      "id": 17,
+      "ocr_text": "S1 La? 0 5"
+    },
+    {
+      "start": 111.5,
+      "end": 116.5,
+      "text": "Well, it's about one million.",
+      "id": 18,
+      "ocr_text": "05 0 Business busijess Busizs_ 05 USiness"
+    },
+    {
+      "start": 116.5,
+      "end": 119.5,
+      "text": "Yeah, that's truly a lot of tech.",
+      "id": 19,
+      "ocr_text": "5 BuSiness"
+    },
+    {
+      "start": 119.5,
+      "end": 124.5,
+      "text": "Now, LLMs are also among the biggest models when it comes to parameter count.",
+      "id": 20,
+      "ocr_text": "0 $ BuSiness [Larce: 5 Busies? Lauquac Kusines_"
+    },
+    {
+      "start": 124.5,
+      "end": 128.5,
+      "text": "A parameter is a value the model can change independently as it learns.",
+      "id": 21,
+      "ocr_text": "Busies_ MIODecs Busiess 0"
+    },
+    {
+      "start": 128.5,
+      "end": 131.5,
+      "text": "And the more parameters the model has, the more complex it can be.",
+      "id": 22,
+      "ocr_text": "69 Ja Busies_ RGG I"
+    },
+    {
+      "start": 131.5,
+      "end": 140.5,
+      "text": "GTP3, for example, is pre-trained on a corpus of actually 45 terabytes of data.",
+      "id": 23,
+      "ocr_text": "Busies_ 69 GE\" 6J 7 Business 'Ma Bosiass I Mrce @cd IGR lee"
+    },
+    {
+      "start": 140.5,
+      "end": 145.5,
+      "text": "And it uses 175 billion ML parameters.",
+      "id": 24,
+      "ocr_text": "ZGe 6 Ho LANcace arce 7 Business Ce 5 05 Business 724"
+    },
+    {
+      "start": 145.5,
+      "end": 148.5,
+      "text": "All right, so how do they work?",
+      "id": 25,
+      "ocr_text": "Gn2 RGE ( Ge Woe"
+    },
+    {
+      "start": 148.5,
+      "end": 150.5,
+      "text": "Well, we can think of it like this.",
+      "id": 26,
+      "ocr_text": "CG 1683 J"
+    },
+    {
+      "start": 150.5,
+      "end": 164.5,
+      "text": "LLM equals three things, data, architecture, and lastly, we can think of it as training.",
+      "id": 27,
+      "ocr_text": "Ge 03 BuSiness Kow ULa ? TSdezs 5 405 Business 05 0 05 Lm IHe Lirce U = Business ("
+    },
+    {
+      "start": 164.5,
+      "end": 167.5,
+      "text": "Those three things are really the components of an LLM.",
+      "id": 28,
+      "ocr_text": "USat 0$ '90"
+    },
+    {
+      "start": 167.5,
+      "end": 173.5,
+      "text": "Now, we've already discussed the enormous amounts of text data that goes into these things.",
+      "id": 29,
+      "ocr_text": "MODeus Business Work? BuSiness ELa 2 Busiess rGe"
+    },
+    {
+      "start": 173.5,
+      "end": 176.5,
+      "text": "As for the architecture, this is a neural network.",
+      "id": 30,
+      "ocr_text": "Lancuace 0 $ 7 How Busiass"
+    },
+    {
+      "start": 176.5,
+      "end": 183.5,
+      "text": "And for GPP, that is a transformer.",
+      "id": 31,
+      "ocr_text": "Busives_ M 85 The RCe MZDecs 0 53 Busiess"
+    },
+    {
+      "start": 183.5,
+      "end": 189.5,
+      "text": "And the transformer architecture enables the model to handle sequences of data like sentences or lines of code.",
+      "id": 32,
+      "ocr_text": "5 16 Busines_ 6 MSDegs 5 Business Irge: Za? 0 $ Lq 2 business Business"
+    },
+    {
+      "start": 189.5,
+      "end": 197.5,
+      "text": "And transformers have designed to understand the context of each word and a sentence by considering it in relation to every other word.",
+      "id": 33,
+      "ocr_text": "IGe How Bosiwvess 5 Business IGr Business Arce 69 BuSiness Business Hov"
+    },
+    {
+      "start": 197.5,
+      "end": 202.5,
+      "text": "This allows the model to build a comprehensive understanding of the sentence structure and the meaning of the words within it.",
+      "id": 34,
+      "ocr_text": "70 US ( 7 = Arce D S"
+    },
+    {
+      "start": 202.5,
+      "end": 208.5,
+      "text": "And then this architecture is trained on all of this large amount of data.",
+      "id": 35,
+      "ocr_text": "Tarce Business 5 7 Wo THe Cuacg ( BuSies_ Loi MODers}"
+    },
+    {
+      "start": 208.5,
+      "end": 213.5,
+      "text": "Now, during training, the model learns to predict the next word in a sentence.",
+      "id": 36,
+      "ocr_text": "Busivess Jv Hol) Buzijess How"
+    },
+    {
+      "start": 213.5,
+      "end": 218.5,
+      "text": "So the sky is, it starts off with a random guess.",
+      "id": 37,
+      "ocr_text": "LarcG Business"
+    },
+    {
+      "start": 218.5,
+      "end": 221.5,
+      "text": "The sky is bugged.",
+      "id": 38,
+      "ocr_text": "Businass LLN Business USiness"
+    },
+    {
+      "start": 221.5,
+      "end": 229.5,
+      "text": "But with each iteration, the model adjusts its internal parameters to reduce the difference between its predictions and the actual outcomes.",
+      "id": 39,
+      "ocr_text": "50 5' 05 USiess Gc [Larce Business 4 Ce M BuSines"
+    },
+    {
+      "start": 229.5,
+      "end": 237.5,
+      "text": "And the model keeps doing this gradually improving its word predictions until it can reliably generate coherent sentences.",
+      "id": 40,
+      "ocr_text": "DezS $' J @ MSDEs} How La 2 1G"
+    },
+    {
+      "start": 237.5,
+      "end": 239.5,
+      "text": "Forget about bug.",
+      "id": 41,
+      "ocr_text": "05"
+    },
+    {
+      "start": 239.5,
+      "end": 242.5,
+      "text": "You can figure out it's blue.",
+      "id": 42,
+      "ocr_text": "E 5 Acd Zia? Kusiness 7 USiness"
+    },
+    {
+      "start": 242.5,
+      "end": 247.5,
+      "text": "Now, the model can be fine tuned on a smaller, more specific data set.",
+      "id": 43,
+      "ocr_text": "GG Ig Business Hzw How"
+    },
+    {
+      "start": 247.5,
+      "end": 252.5,
+      "text": "Here, the model refines its understanding to be able to perform this specific task more accurately.",
+      "id": 44,
+      "ocr_text": ""
+    },
+    {
+      "start": 252.5,
+      "end": 258.5,
+      "text": "Fine tuning is what allows a general language model to become an expert at a specific task.",
+      "id": 45,
+      "ocr_text": "EErce JCua"
+    },
+    {
+      "start": 258.5,
+      "end": 263.5,
+      "text": "Okay, so how does this all fit into number three business applications?",
+      "id": 46,
+      "ocr_text": "8 BUSiess Lacuace USNess 05 @A63 Business"
+    },
+    {
+      "start": 263.5,
+      "end": 276.5,
+      "text": "Well, for customer service applications, businesses can use LLMs to create intelligent chat bots that can handle a variety of customer queries, freeing up human agents for more complex issues.",
+      "id": 47,
+      "ocr_text": "05 Wociz? RGE Acuacg Busess MMSDecs 03 rCe MODeSh 70 Rusiness J {Wo Buziness Howv"
+    },
+    {
+      "start": 276.5,
+      "end": 280.5,
+      "text": "Another good field, content creation.",
+      "id": 48,
+      "ocr_text": "IHow Wor v Business"
+    },
+    {
+      "start": 280.5,
+      "end": 289.5,
+      "text": "That can benefit from LLMs, which can help generate articles, emails, social media posts and even YouTube video scripts.",
+      "id": 49,
+      "ocr_text": "IG Rusiness MMSDees MOD Qi  7 BuSess"
+    },
+    {
+      "start": 289.5,
+      "end": 291.5,
+      "text": "Hmm, there's an idea.",
+      "id": 50,
+      "ocr_text": "IGe Busiess"
+    },
+    {
+      "start": 291.5,
+      "end": 296.5,
+      "text": "Now, LLMs can even contribute to software development.",
+      "id": 51,
+      "ocr_text": "@LJ} Business"
+    },
+    {
+      "start": 296.5,
+      "end": 300.5,
+      "text": "And they can do that by helping to generate and review code.",
+      "id": 52,
+      "ocr_text": "BuSies_"
+    },
+    {
+      "start": 300.5,
+      "end": 303.5,
+      "text": "And look, that's just scratching the surface.",
+      "id": 53,
+      "ocr_text": "Hold 5 Business Business je"
+    },
+    {
+      "start": 303.5,
+      "end": 308.5,
+      "text": "Large language models continue to evolve with bound to discover more innovative applications.",
+      "id": 54,
+      "ocr_text": "40 $ Business Ei MDers GE Fo Ua"
+    },
+    {
+      "start": 308.5,
+      "end": 314.5,
+      "text": "And that's what I'm so enamored with large language models.",
+      "id": 55,
+      "ocr_text": "How= Busiess Woiz;?"
+    },
+    {
+      "start": 314.5,
+      "end": 317.5,
+      "text": "If you have any questions, please drop us a line below.",
+      "id": 56,
+      "ocr_text": ""
+    },
+    {
+      "start": 317.5,
+      "end": 322.5,
+      "text": "And if you want to see more videos like this in the future, please like and subscribe.",
+      "id": 57,
+      "ocr_text": ""
+    },
+    {
+      "start": 322.5,
+      "end": 323.5,
+      "text": "Thanks for watching.",
+      "id": 58,
+      "ocr_text": ""
+    }
+  ]
+}
