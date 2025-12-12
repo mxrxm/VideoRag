@@ -10,10 +10,10 @@ class HuggingFaceLLM(BaseLLM):
         model_name: str,
         device: str = "cpu",
         torch_dtype="auto",
-        max_new_tokens: int = 256,
+        max_new_tokens: int = 1000,
         temperature: float = 0.7,
-        top_p: float = 0.9,
-        is_chat_model: bool = False,
+        top_p: float = 0.95,
+        is_chat_model: bool = True,
         system_prompt: str = "You are a helpful assistant.",
     ):
         self.model_name = model_name

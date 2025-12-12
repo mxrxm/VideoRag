@@ -48,7 +48,7 @@ class FaissVectorStore(BaseVectorStore):
 
         embs = np.vstack(embs).astype(np.float32)
     #    add normalization for INNER PRODUCT
-        embs = embs / np.linalg.norm(embs, axis=1, keepdims=True)
+    # embs = embs / np.linalg.norm(embs, axis=1, keepdims=True)
 
         self.index.add(embs)
         self._chunks.extend(chunks)

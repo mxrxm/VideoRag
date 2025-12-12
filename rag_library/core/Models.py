@@ -34,14 +34,6 @@ class QueryWithResults:
 
 @dataclass
 class ASRSegment:
-    """
-    Represents a single ASR segment from a video/audio transcript.
-
-    Example:
-        start: 1.2
-        end:   4.7
-        text: "The heart pumps blood to the lungs..."
-    """
     start: float
     end: float
     text: str
