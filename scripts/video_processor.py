@@ -4,11 +4,11 @@ from pathlib import Path
 import json
 from typing import List, Dict
 import subprocess
-from audio_extractor import AudioExtractor
-from ocr_extractor import OCRExtractor
-from frame_extractor import FrameExtractor
-from transcriber import AudioTranscriber
-from video_downloader import VideoDownloader
+from .audio_extractor import AudioExtractor
+from .ocr_extractor import OCRExtractor
+from .frame_extractor import FrameExtractor
+from .transcriber import AudioTranscriber
+from .video_downloader import VideoDownloader
 
 class VideoProcessor:
     def __init__(self, whisper_model="base", project_root=".", delete_original=False, use_ocr=True, ocr_languages=['en']):

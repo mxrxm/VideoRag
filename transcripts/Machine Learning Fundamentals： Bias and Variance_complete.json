@@ -1,0 +1,456 @@
+{
+  "video_name": "Machine Learning Fundamentals： Bias and Variance",
+  "video_source": "https://www.youtube.com/watch?v=EuBBz3bI-aA",
+  "language": "en",
+  "full_transcript": " Hurricane Florence came by while I was working on StatQuest. Dark clouds filled the sky but that didn't stop StatQuest. StatQuest. Hello, I'm Josh Starmer and welcome to StatQuest. Today we're going to be talking about some machine learning fundamentals, bias and variance and they're going to be clearly explained. Imagine we measured the weight and height of a bunch of mice and plotted the data on a graph. Light mice tend to be short and heavier mice tend to be taller. But after a certain weight, mice don't get any taller, just more obese. Given this data, we would like to predict mouse height given its weight. For example, if you told me your mouse weighed this much, then we might predict that the mouse is this tall. Ideally, we would know the exact mathematical formula that describes the relationship between weight and height. But, in this case, we don't know the formula, so we're going to use two machine learning methods to approximate this relationship. However, I'll leave the true relationship curve in the figure for reference. The first thing we do is split the data into two sets, one for training the machine learning algorithms and one for testing them. The blue dots are the training set, and the green dots are the testing set. Here's just the training set. The first machine learning algorithm that we will use is linear regression, aka least squares. Linear regression fits a straight line to the training set. Note, the straight line doesn't have the flexibility to accurately replicate the arc in the true relationship. No matter how we try to fit the line, it will never curve. Thus, the straight line will never capture the true relationship between weight and height, no matter how well we fit it to the training set. The inability for a machine learning method, like linear regression, to capture the true relationship is called bias. Because the straight line can't be curved like the true relationship, it has a relatively large amount of bias. Another machine learning method might fit a squiggly line to the training set. The squiggly line is super flexible and hugs the training set along the arc of the true relationship. Because the squiggly line can handle the arc in the true relationship between weight and height, it has very little bias. We can compare how well the straight line and the squiggly line fit the training set by calculating their sums of squares. In other words, we measure the distances from the fit lines to the data, square them, and add them up. They are squared so that negative distances do not cancel out positive distances. Notice how the squiggly line fits the data so well that the distances between the line and the data are all zero. In the contest to see whether the straight line fits the training set better than the squiggly line, the squiggly line wins. But remember, so far we've only calculated the sums of squares for the training set. We also have a testing set. Now let's calculate the sums of squares for the testing set. In the contest to see whether the straight line fits the testing set better than the squiggly line, the straight line wins. Even though the squiggly line did a great job fitting the training set, it did a terrible job fitting the testing set. In machine learning lingo, the difference in fits between data sets is called variance. The squiggly line has low bias since it is flexible and can adapt to the curve in the relationship between weight and height. But the squiggly line has high variability because it results in vastly different sums of squares for different data sets. In other words, it's hard to predict how well the squiggly line will perform with future data sets. It might do well sometimes and other times it might do terribly. In contrast, the straight line has relatively high bias since it cannot capture the curve in the relationship between weight and height. But the straight line has relatively low variance because the sums of squares are very similar for different data sets. In other words, the straight line might only give good predictions and not great predictions. But they will be consistently good predictions. Bam! Oh no! Terminology alert! Because the squiggly line fits the training set really well, but not the testing set, we say that the squiggly line is overfit. In machine learning, the ideal algorithm has low bias and can accurately model the true relationship. And it has low variability by producing consistent predictions across different data sets. This is done by finding the sweet spot between a simple model and a complex model. Oh no! Another terminology alert! Three commonly used methods for finding the sweet spot between simple and complicated models are regularization, boosting and bagging. The stat quest on random forest show an example of bagging in action. And we'll talk about regularization and boosting in future stat quests. Double Bam! Hooray! We've made it to the end of another exciting stat quest. If you like this stat quest and want to see more, please subscribe. And if you want to support stat quest, well, please consider buying one or two of my original songs. Alright, until next time, quest on!",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.68,
+      "text": "Hurricane Florence came by while I was working on StatQuest.",
+      "id": 0,
+      "ocr_text": ""
+    },
+    {
+      "start": 8.68,
+      "end": 15.040000000000001,
+      "text": "Dark clouds filled the sky but that didn't stop StatQuest.",
+      "id": 1,
+      "ocr_text": ""
+    },
+    {
+      "start": 15.040000000000001,
+      "end": 18.240000000000002,
+      "text": "StatQuest.",
+      "id": 2,
+      "ocr_text": ""
+    },
+    {
+      "start": 18.240000000000002,
+      "end": 21.72,
+      "text": "Hello, I'm Josh Starmer and welcome to StatQuest.",
+      "id": 3,
+      "ocr_text": ""
+    },
+    {
+      "start": 21.72,
+      "end": 26.6,
+      "text": "Today we're going to be talking about some machine learning fundamentals, bias and variance",
+      "id": 4,
+      "ocr_text": ""
+    },
+    {
+      "start": 26.6,
+      "end": 29.6,
+      "text": "and they're going to be clearly explained.",
+      "id": 5,
+      "ocr_text": ""
+    },
+    {
+      "start": 29.6,
+      "end": 36.2,
+      "text": "Imagine we measured the weight and height of a bunch of mice and plotted the data on a graph.",
+      "id": 6,
+      "ocr_text": ""
+    },
+    {
+      "start": 36.2,
+      "end": 42.92,
+      "text": "Light mice tend to be short and heavier mice tend to be taller.",
+      "id": 7,
+      "ocr_text": ""
+    },
+    {
+      "start": 42.92,
+      "end": 48.44,
+      "text": "But after a certain weight, mice don't get any taller, just more obese.",
+      "id": 8,
+      "ocr_text": ""
+    },
+    {
+      "start": 48.44,
+      "end": 53.44,
+      "text": "Given this data, we would like to predict mouse height given its weight.",
+      "id": 9,
+      "ocr_text": ""
+    },
+    {
+      "start": 53.44,
+      "end": 57.96,
+      "text": "For example, if you told me your mouse weighed this much,",
+      "id": 10,
+      "ocr_text": ""
+    },
+    {
+      "start": 57.96,
+      "end": 62.04,
+      "text": "then we might predict that the mouse is this tall.",
+      "id": 11,
+      "ocr_text": ""
+    },
+    {
+      "start": 62.04,
+      "end": 69.32,
+      "text": "Ideally, we would know the exact mathematical formula that describes the relationship between weight and height.",
+      "id": 12,
+      "ocr_text": ""
+    },
+    {
+      "start": 69.32,
+      "end": 74.8,
+      "text": "But, in this case, we don't know the formula, so we're going to use two machine learning methods",
+      "id": 13,
+      "ocr_text": ""
+    },
+    {
+      "start": 74.8,
+      "end": 78.08,
+      "text": "to approximate this relationship.",
+      "id": 14,
+      "ocr_text": ""
+    },
+    {
+      "start": 78.08,
+      "end": 83.92,
+      "text": "However, I'll leave the true relationship curve in the figure for reference.",
+      "id": 15,
+      "ocr_text": ""
+    },
+    {
+      "start": 83.92,
+      "end": 91.96000000000001,
+      "text": "The first thing we do is split the data into two sets, one for training the machine learning algorithms and one for testing them.",
+      "id": 16,
+      "ocr_text": ""
+    },
+    {
+      "start": 91.96000000000001,
+      "end": 98.24000000000001,
+      "text": "The blue dots are the training set, and the green dots are the testing set.",
+      "id": 17,
+      "ocr_text": ""
+    },
+    {
+      "start": 98.24000000000001,
+      "end": 101.28,
+      "text": "Here's just the training set.",
+      "id": 18,
+      "ocr_text": ""
+    },
+    {
+      "start": 101.28,
+      "end": 108.88,
+      "text": "The first machine learning algorithm that we will use is linear regression, aka least squares.",
+      "id": 19,
+      "ocr_text": ""
+    },
+    {
+      "start": 108.88,
+      "end": 113.6,
+      "text": "Linear regression fits a straight line to the training set.",
+      "id": 20,
+      "ocr_text": ""
+    },
+    {
+      "start": 113.6,
+      "end": 121.55999999999999,
+      "text": "Note, the straight line doesn't have the flexibility to accurately replicate the arc in the true relationship.",
+      "id": 21,
+      "ocr_text": ""
+    },
+    {
+      "start": 121.55999999999999,
+      "end": 127.56,
+      "text": "No matter how we try to fit the line, it will never curve.",
+      "id": 22,
+      "ocr_text": ""
+    },
+    {
+      "start": 127.56,
+      "end": 132.76,
+      "text": "Thus, the straight line will never capture the true relationship between weight and height,",
+      "id": 23,
+      "ocr_text": ""
+    },
+    {
+      "start": 132.76,
+      "end": 136.6,
+      "text": "no matter how well we fit it to the training set.",
+      "id": 24,
+      "ocr_text": ""
+    },
+    {
+      "start": 136.6,
+      "end": 145.32,
+      "text": "The inability for a machine learning method, like linear regression, to capture the true relationship is called bias.",
+      "id": 25,
+      "ocr_text": ""
+    },
+    {
+      "start": 145.32,
+      "end": 153.56,
+      "text": "Because the straight line can't be curved like the true relationship, it has a relatively large amount of bias.",
+      "id": 26,
+      "ocr_text": ""
+    },
+    {
+      "start": 153.56,
+      "end": 158.79999999999998,
+      "text": "Another machine learning method might fit a squiggly line to the training set.",
+      "id": 27,
+      "ocr_text": ""
+    },
+    {
+      "start": 158.79999999999998,
+      "end": 165.68,
+      "text": "The squiggly line is super flexible and hugs the training set along the arc of the true relationship.",
+      "id": 28,
+      "ocr_text": ""
+    },
+    {
+      "start": 165.68,
+      "end": 173.72,
+      "text": "Because the squiggly line can handle the arc in the true relationship between weight and height, it has very little bias.",
+      "id": 29,
+      "ocr_text": ""
+    },
+    {
+      "start": 173.72,
+      "end": 181.96,
+      "text": "We can compare how well the straight line and the squiggly line fit the training set by calculating their sums of squares.",
+      "id": 30,
+      "ocr_text": ""
+    },
+    {
+      "start": 181.96,
+      "end": 190.24,
+      "text": "In other words, we measure the distances from the fit lines to the data, square them, and add them up.",
+      "id": 31,
+      "ocr_text": ""
+    },
+    {
+      "start": 190.28,
+      "end": 196.76000000000002,
+      "text": "They are squared so that negative distances do not cancel out positive distances.",
+      "id": 32,
+      "ocr_text": ""
+    },
+    {
+      "start": 196.76000000000002,
+      "end": 205.36,
+      "text": "Notice how the squiggly line fits the data so well that the distances between the line and the data are all zero.",
+      "id": 33,
+      "ocr_text": ""
+    },
+    {
+      "start": 205.36,
+      "end": 214.64000000000001,
+      "text": "In the contest to see whether the straight line fits the training set better than the squiggly line, the squiggly line wins.",
+      "id": 34,
+      "ocr_text": ""
+    },
+    {
+      "start": 214.64,
+      "end": 220.88,
+      "text": "But remember, so far we've only calculated the sums of squares for the training set.",
+      "id": 35,
+      "ocr_text": ""
+    },
+    {
+      "start": 220.88,
+      "end": 223.76,
+      "text": "We also have a testing set.",
+      "id": 36,
+      "ocr_text": ""
+    },
+    {
+      "start": 223.76,
+      "end": 228.48,
+      "text": "Now let's calculate the sums of squares for the testing set.",
+      "id": 37,
+      "ocr_text": ""
+    },
+    {
+      "start": 228.48,
+      "end": 238.27999999999997,
+      "text": "In the contest to see whether the straight line fits the testing set better than the squiggly line, the straight line wins.",
+      "id": 38,
+      "ocr_text": ""
+    },
+    {
+      "start": 238.32,
+      "end": 246.76,
+      "text": "Even though the squiggly line did a great job fitting the training set, it did a terrible job fitting the testing set.",
+      "id": 39,
+      "ocr_text": ""
+    },
+    {
+      "start": 246.76,
+      "end": 253.72,
+      "text": "In machine learning lingo, the difference in fits between data sets is called variance.",
+      "id": 40,
+      "ocr_text": ""
+    },
+    {
+      "start": 253.72,
+      "end": 261.92,
+      "text": "The squiggly line has low bias since it is flexible and can adapt to the curve in the relationship between weight and height.",
+      "id": 41,
+      "ocr_text": ""
+    },
+    {
+      "start": 261.92,
+      "end": 270.40000000000003,
+      "text": "But the squiggly line has high variability because it results in vastly different sums of squares for different data sets.",
+      "id": 42,
+      "ocr_text": ""
+    },
+    {
+      "start": 270.40000000000003,
+      "end": 276.28000000000003,
+      "text": "In other words, it's hard to predict how well the squiggly line will perform with future data sets.",
+      "id": 43,
+      "ocr_text": ""
+    },
+    {
+      "start": 276.28000000000003,
+      "end": 281.88,
+      "text": "It might do well sometimes and other times it might do terribly.",
+      "id": 44,
+      "ocr_text": ""
+    },
+    {
+      "start": 281.88,
+      "end": 291.20000000000005,
+      "text": "In contrast, the straight line has relatively high bias since it cannot capture the curve in the relationship between weight and height.",
+      "id": 45,
+      "ocr_text": ""
+    },
+    {
+      "start": 291.2,
+      "end": 299.36,
+      "text": "But the straight line has relatively low variance because the sums of squares are very similar for different data sets.",
+      "id": 46,
+      "ocr_text": ""
+    },
+    {
+      "start": 299.36,
+      "end": 305.15999999999997,
+      "text": "In other words, the straight line might only give good predictions and not great predictions.",
+      "id": 47,
+      "ocr_text": ""
+    },
+    {
+      "start": 305.15999999999997,
+      "end": 308.4,
+      "text": "But they will be consistently good predictions.",
+      "id": 48,
+      "ocr_text": ""
+    },
+    {
+      "start": 308.4,
+      "end": 310.44,
+      "text": "Bam!",
+      "id": 49,
+      "ocr_text": ""
+    },
+    {
+      "start": 310.44,
+      "end": 313.76,
+      "text": "Oh no! Terminology alert!",
+      "id": 50,
+      "ocr_text": ""
+    },
+    {
+      "start": 313.8,
+      "end": 322.84,
+      "text": "Because the squiggly line fits the training set really well, but not the testing set, we say that the squiggly line is overfit.",
+      "id": 51,
+      "ocr_text": ""
+    },
+    {
+      "start": 322.84,
+      "end": 330.4,
+      "text": "In machine learning, the ideal algorithm has low bias and can accurately model the true relationship.",
+      "id": 52,
+      "ocr_text": ""
+    },
+    {
+      "start": 330.4,
+      "end": 337.52,
+      "text": "And it has low variability by producing consistent predictions across different data sets.",
+      "id": 53,
+      "ocr_text": ""
+    },
+    {
+      "start": 337.56,
+      "end": 344.76,
+      "text": "This is done by finding the sweet spot between a simple model and a complex model.",
+      "id": 54,
+      "ocr_text": ""
+    },
+    {
+      "start": 344.76,
+      "end": 348.08,
+      "text": "Oh no! Another terminology alert!",
+      "id": 55,
+      "ocr_text": ""
+    },
+    {
+      "start": 348.08,
+      "end": 358.84,
+      "text": "Three commonly used methods for finding the sweet spot between simple and complicated models are regularization, boosting and bagging.",
+      "id": 56,
+      "ocr_text": ""
+    },
+    {
+      "start": 358.84,
+      "end": 364.0,
+      "text": "The stat quest on random forest show an example of bagging in action.",
+      "id": 57,
+      "ocr_text": ""
+    },
+    {
+      "start": 364.0,
+      "end": 369.36,
+      "text": "And we'll talk about regularization and boosting in future stat quests.",
+      "id": 58,
+      "ocr_text": ""
+    },
+    {
+      "start": 369.36,
+      "end": 371.76,
+      "text": "Double Bam!",
+      "id": 59,
+      "ocr_text": ""
+    },
+    {
+      "start": 371.76,
+      "end": 376.08,
+      "text": "Hooray! We've made it to the end of another exciting stat quest.",
+      "id": 60,
+      "ocr_text": ""
+    },
+    {
+      "start": 376.08,
+      "end": 379.64,
+      "text": "If you like this stat quest and want to see more, please subscribe.",
+      "id": 61,
+      "ocr_text": ""
+    },
+    {
+      "start": 379.64,
+      "end": 385.52,
+      "text": "And if you want to support stat quest, well, please consider buying one or two of my original songs.",
+      "id": 62,
+      "ocr_text": ""
+    },
+    {
+      "start": 385.52,
+      "end": 388.36,
+      "text": "Alright, until next time, quest on!",
+      "id": 63,
+      "ocr_text": ""
+    }
+  ]
+}

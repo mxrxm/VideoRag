@@ -96,7 +96,7 @@ class VideoDownloader:
                 downloaded_file = self.videos_dir / output_filename
             else:
                 # Parse yt-dlp output to find filename
-                output = result.stdout.decode() + result.stderr.decode()
+               # output = result.stdout.decode() + result.stderr.decode()
                 # Look for the downloaded file in the videos directory
                 video_files = sorted(
                     self.videos_dir.iterdir(),

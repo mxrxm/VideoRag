@@ -1,0 +1,3574 @@
+{
+  "video_name": "Machine Learning Fundamentals： Bias and Variance",
+  "total_frames": 396,
+  "languages": [
+    "en"
+  ],
+  "confidence_threshold": 0.5,
+  "results": [
+    {
+      "frame_id": 0,
+      "frame_number": 1,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0001.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0001.jpg"
+    },
+    {
+      "frame_id": 1,
+      "frame_number": 2,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0002.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0002.jpg"
+    },
+    {
+      "frame_id": 2,
+      "frame_number": 3,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0003.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0003.jpg"
+    },
+    {
+      "frame_id": 3,
+      "frame_number": 4,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0004.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0004.jpg"
+    },
+    {
+      "frame_id": 4,
+      "frame_number": 5,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0005.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0005.jpg"
+    },
+    {
+      "frame_id": 5,
+      "frame_number": 6,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0006.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0006.jpg"
+    },
+    {
+      "frame_id": 6,
+      "frame_number": 7,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0007.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0007.jpg"
+    },
+    {
+      "frame_id": 7,
+      "frame_number": 8,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0008.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0008.jpg"
+    },
+    {
+      "frame_id": 8,
+      "frame_number": 9,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0009.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0009.jpg"
+    },
+    {
+      "frame_id": 9,
+      "frame_number": 10,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0010.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0010.jpg"
+    },
+    {
+      "frame_id": 10,
+      "frame_number": 11,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0011.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0011.jpg"
+    },
+    {
+      "frame_id": 11,
+      "frame_number": 12,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0012.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0012.jpg"
+    },
+    {
+      "frame_id": 12,
+      "frame_number": 13,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0013.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0013.jpg"
+    },
+    {
+      "frame_id": 13,
+      "frame_number": 14,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0014.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0014.jpg"
+    },
+    {
+      "frame_id": 14,
+      "frame_number": 15,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0015.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0015.jpg"
+    },
+    {
+      "frame_id": 15,
+      "frame_number": 16,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0016.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0016.jpg"
+    },
+    {
+      "frame_id": 16,
+      "frame_number": 17,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0017.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0017.jpg"
+    },
+    {
+      "frame_id": 17,
+      "frame_number": 18,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0018.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0018.jpg"
+    },
+    {
+      "frame_id": 18,
+      "frame_number": 19,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0019.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0019.jpg"
+    },
+    {
+      "frame_id": 19,
+      "frame_number": 20,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0020.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0020.jpg"
+    },
+    {
+      "frame_id": 20,
+      "frame_number": 21,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0021.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0021.jpg"
+    },
+    {
+      "frame_id": 21,
+      "frame_number": 22,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0022.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0022.jpg"
+    },
+    {
+      "frame_id": 22,
+      "frame_number": 23,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0023.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0023.jpg"
+    },
+    {
+      "frame_id": 23,
+      "frame_number": 24,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0024.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0024.jpg"
+    },
+    {
+      "frame_id": 24,
+      "frame_number": 25,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0025.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0025.jpg"
+    },
+    {
+      "frame_id": 25,
+      "frame_number": 26,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0026.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0026.jpg"
+    },
+    {
+      "frame_id": 26,
+      "frame_number": 27,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0027.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0027.jpg"
+    },
+    {
+      "frame_id": 27,
+      "frame_number": 28,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0028.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0028.jpg"
+    },
+    {
+      "frame_id": 28,
+      "frame_number": 29,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0029.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0029.jpg"
+    },
+    {
+      "frame_id": 29,
+      "frame_number": 30,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0030.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0030.jpg"
+    },
+    {
+      "frame_id": 30,
+      "frame_number": 31,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0031.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0031.jpg"
+    },
+    {
+      "frame_id": 31,
+      "frame_number": 32,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0032.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0032.jpg"
+    },
+    {
+      "frame_id": 32,
+      "frame_number": 33,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0033.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0033.jpg"
+    },
+    {
+      "frame_id": 33,
+      "frame_number": 34,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0034.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0034.jpg"
+    },
+    {
+      "frame_id": 34,
+      "frame_number": 35,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0035.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0035.jpg"
+    },
+    {
+      "frame_id": 35,
+      "frame_number": 36,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0036.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0036.jpg"
+    },
+    {
+      "frame_id": 36,
+      "frame_number": 37,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0037.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0037.jpg"
+    },
+    {
+      "frame_id": 37,
+      "frame_number": 38,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0038.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0038.jpg"
+    },
+    {
+      "frame_id": 38,
+      "frame_number": 39,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0039.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0039.jpg"
+    },
+    {
+      "frame_id": 39,
+      "frame_number": 40,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0040.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0040.jpg"
+    },
+    {
+      "frame_id": 40,
+      "frame_number": 41,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0041.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0041.jpg"
+    },
+    {
+      "frame_id": 41,
+      "frame_number": 42,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0042.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0042.jpg"
+    },
+    {
+      "frame_id": 42,
+      "frame_number": 43,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0043.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0043.jpg"
+    },
+    {
+      "frame_id": 43,
+      "frame_number": 44,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0044.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0044.jpg"
+    },
+    {
+      "frame_id": 44,
+      "frame_number": 45,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0045.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0045.jpg"
+    },
+    {
+      "frame_id": 45,
+      "frame_number": 46,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0046.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0046.jpg"
+    },
+    {
+      "frame_id": 46,
+      "frame_number": 47,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0047.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0047.jpg"
+    },
+    {
+      "frame_id": 47,
+      "frame_number": 48,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0048.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0048.jpg"
+    },
+    {
+      "frame_id": 48,
+      "frame_number": 49,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0049.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0049.jpg"
+    },
+    {
+      "frame_id": 49,
+      "frame_number": 50,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0050.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0050.jpg"
+    },
+    {
+      "frame_id": 50,
+      "frame_number": 51,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0051.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0051.jpg"
+    },
+    {
+      "frame_id": 51,
+      "frame_number": 52,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0052.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0052.jpg"
+    },
+    {
+      "frame_id": 52,
+      "frame_number": 53,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0053.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0053.jpg"
+    },
+    {
+      "frame_id": 53,
+      "frame_number": 54,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0054.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0054.jpg"
+    },
+    {
+      "frame_id": 54,
+      "frame_number": 55,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0055.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0055.jpg"
+    },
+    {
+      "frame_id": 55,
+      "frame_number": 56,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0056.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0056.jpg"
+    },
+    {
+      "frame_id": 56,
+      "frame_number": 57,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0057.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0057.jpg"
+    },
+    {
+      "frame_id": 57,
+      "frame_number": 58,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0058.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0058.jpg"
+    },
+    {
+      "frame_id": 58,
+      "frame_number": 59,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0059.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0059.jpg"
+    },
+    {
+      "frame_id": 59,
+      "frame_number": 60,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0060.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0060.jpg"
+    },
+    {
+      "frame_id": 60,
+      "frame_number": 61,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0061.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0061.jpg"
+    },
+    {
+      "frame_id": 61,
+      "frame_number": 62,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0062.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0062.jpg"
+    },
+    {
+      "frame_id": 62,
+      "frame_number": 63,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0063.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0063.jpg"
+    },
+    {
+      "frame_id": 63,
+      "frame_number": 64,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0064.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0064.jpg"
+    },
+    {
+      "frame_id": 64,
+      "frame_number": 65,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0065.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0065.jpg"
+    },
+    {
+      "frame_id": 65,
+      "frame_number": 66,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0066.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0066.jpg"
+    },
+    {
+      "frame_id": 66,
+      "frame_number": 67,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0067.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0067.jpg"
+    },
+    {
+      "frame_id": 67,
+      "frame_number": 68,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0068.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0068.jpg"
+    },
+    {
+      "frame_id": 68,
+      "frame_number": 69,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0069.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0069.jpg"
+    },
+    {
+      "frame_id": 69,
+      "frame_number": 70,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0070.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0070.jpg"
+    },
+    {
+      "frame_id": 70,
+      "frame_number": 71,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0071.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0071.jpg"
+    },
+    {
+      "frame_id": 71,
+      "frame_number": 72,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0072.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0072.jpg"
+    },
+    {
+      "frame_id": 72,
+      "frame_number": 73,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0073.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0073.jpg"
+    },
+    {
+      "frame_id": 73,
+      "frame_number": 74,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0074.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0074.jpg"
+    },
+    {
+      "frame_id": 74,
+      "frame_number": 75,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0075.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0075.jpg"
+    },
+    {
+      "frame_id": 75,
+      "frame_number": 76,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0076.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0076.jpg"
+    },
+    {
+      "frame_id": 76,
+      "frame_number": 77,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0077.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0077.jpg"
+    },
+    {
+      "frame_id": 77,
+      "frame_number": 78,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0078.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0078.jpg"
+    },
+    {
+      "frame_id": 78,
+      "frame_number": 79,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0079.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0079.jpg"
+    },
+    {
+      "frame_id": 79,
+      "frame_number": 80,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0080.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0080.jpg"
+    },
+    {
+      "frame_id": 80,
+      "frame_number": 81,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0081.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0081.jpg"
+    },
+    {
+      "frame_id": 81,
+      "frame_number": 82,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0082.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0082.jpg"
+    },
+    {
+      "frame_id": 82,
+      "frame_number": 83,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0083.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0083.jpg"
+    },
+    {
+      "frame_id": 83,
+      "frame_number": 84,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0084.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0084.jpg"
+    },
+    {
+      "frame_id": 84,
+      "frame_number": 85,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0085.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0085.jpg"
+    },
+    {
+      "frame_id": 85,
+      "frame_number": 86,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0086.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0086.jpg"
+    },
+    {
+      "frame_id": 86,
+      "frame_number": 87,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0087.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0087.jpg"
+    },
+    {
+      "frame_id": 87,
+      "frame_number": 88,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0088.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0088.jpg"
+    },
+    {
+      "frame_id": 88,
+      "frame_number": 89,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0089.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0089.jpg"
+    },
+    {
+      "frame_id": 89,
+      "frame_number": 90,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0090.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0090.jpg"
+    },
+    {
+      "frame_id": 90,
+      "frame_number": 91,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0091.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0091.jpg"
+    },
+    {
+      "frame_id": 91,
+      "frame_number": 92,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0092.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0092.jpg"
+    },
+    {
+      "frame_id": 92,
+      "frame_number": 93,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0093.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0093.jpg"
+    },
+    {
+      "frame_id": 93,
+      "frame_number": 94,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0094.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0094.jpg"
+    },
+    {
+      "frame_id": 94,
+      "frame_number": 95,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0095.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0095.jpg"
+    },
+    {
+      "frame_id": 95,
+      "frame_number": 96,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0096.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0096.jpg"
+    },
+    {
+      "frame_id": 96,
+      "frame_number": 97,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0097.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0097.jpg"
+    },
+    {
+      "frame_id": 97,
+      "frame_number": 98,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0098.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0098.jpg"
+    },
+    {
+      "frame_id": 98,
+      "frame_number": 99,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0099.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0099.jpg"
+    },
+    {
+      "frame_id": 99,
+      "frame_number": 100,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0100.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0100.jpg"
+    },
+    {
+      "frame_id": 100,
+      "frame_number": 101,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0101.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0101.jpg"
+    },
+    {
+      "frame_id": 101,
+      "frame_number": 102,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0102.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0102.jpg"
+    },
+    {
+      "frame_id": 102,
+      "frame_number": 103,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0103.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0103.jpg"
+    },
+    {
+      "frame_id": 103,
+      "frame_number": 104,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0104.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0104.jpg"
+    },
+    {
+      "frame_id": 104,
+      "frame_number": 105,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0105.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0105.jpg"
+    },
+    {
+      "frame_id": 105,
+      "frame_number": 106,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0106.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0106.jpg"
+    },
+    {
+      "frame_id": 106,
+      "frame_number": 107,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0107.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0107.jpg"
+    },
+    {
+      "frame_id": 107,
+      "frame_number": 108,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0108.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0108.jpg"
+    },
+    {
+      "frame_id": 108,
+      "frame_number": 109,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0109.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0109.jpg"
+    },
+    {
+      "frame_id": 109,
+      "frame_number": 110,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0110.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0110.jpg"
+    },
+    {
+      "frame_id": 110,
+      "frame_number": 111,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0111.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0111.jpg"
+    },
+    {
+      "frame_id": 111,
+      "frame_number": 112,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0112.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0112.jpg"
+    },
+    {
+      "frame_id": 112,
+      "frame_number": 113,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0113.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0113.jpg"
+    },
+    {
+      "frame_id": 113,
+      "frame_number": 114,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0114.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0114.jpg"
+    },
+    {
+      "frame_id": 114,
+      "frame_number": 115,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0115.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0115.jpg"
+    },
+    {
+      "frame_id": 115,
+      "frame_number": 116,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0116.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0116.jpg"
+    },
+    {
+      "frame_id": 116,
+      "frame_number": 117,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0117.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0117.jpg"
+    },
+    {
+      "frame_id": 117,
+      "frame_number": 118,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0118.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0118.jpg"
+    },
+    {
+      "frame_id": 118,
+      "frame_number": 119,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0119.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0119.jpg"
+    },
+    {
+      "frame_id": 119,
+      "frame_number": 120,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0120.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0120.jpg"
+    },
+    {
+      "frame_id": 120,
+      "frame_number": 121,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0121.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0121.jpg"
+    },
+    {
+      "frame_id": 121,
+      "frame_number": 122,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0122.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0122.jpg"
+    },
+    {
+      "frame_id": 122,
+      "frame_number": 123,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0123.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0123.jpg"
+    },
+    {
+      "frame_id": 123,
+      "frame_number": 124,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0124.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0124.jpg"
+    },
+    {
+      "frame_id": 124,
+      "frame_number": 125,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0125.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0125.jpg"
+    },
+    {
+      "frame_id": 125,
+      "frame_number": 126,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0126.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0126.jpg"
+    },
+    {
+      "frame_id": 126,
+      "frame_number": 127,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0127.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0127.jpg"
+    },
+    {
+      "frame_id": 127,
+      "frame_number": 128,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0128.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0128.jpg"
+    },
+    {
+      "frame_id": 128,
+      "frame_number": 129,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0129.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0129.jpg"
+    },
+    {
+      "frame_id": 129,
+      "frame_number": 130,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0130.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0130.jpg"
+    },
+    {
+      "frame_id": 130,
+      "frame_number": 131,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0131.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0131.jpg"
+    },
+    {
+      "frame_id": 131,
+      "frame_number": 132,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0132.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0132.jpg"
+    },
+    {
+      "frame_id": 132,
+      "frame_number": 133,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0133.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0133.jpg"
+    },
+    {
+      "frame_id": 133,
+      "frame_number": 134,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0134.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0134.jpg"
+    },
+    {
+      "frame_id": 134,
+      "frame_number": 135,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0135.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0135.jpg"
+    },
+    {
+      "frame_id": 135,
+      "frame_number": 136,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0136.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0136.jpg"
+    },
+    {
+      "frame_id": 136,
+      "frame_number": 137,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0137.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0137.jpg"
+    },
+    {
+      "frame_id": 137,
+      "frame_number": 138,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0138.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0138.jpg"
+    },
+    {
+      "frame_id": 138,
+      "frame_number": 139,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0139.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0139.jpg"
+    },
+    {
+      "frame_id": 139,
+      "frame_number": 140,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0140.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0140.jpg"
+    },
+    {
+      "frame_id": 140,
+      "frame_number": 141,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0141.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0141.jpg"
+    },
+    {
+      "frame_id": 141,
+      "frame_number": 142,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0142.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0142.jpg"
+    },
+    {
+      "frame_id": 142,
+      "frame_number": 143,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0143.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0143.jpg"
+    },
+    {
+      "frame_id": 143,
+      "frame_number": 144,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0144.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0144.jpg"
+    },
+    {
+      "frame_id": 144,
+      "frame_number": 145,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0145.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0145.jpg"
+    },
+    {
+      "frame_id": 145,
+      "frame_number": 146,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0146.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0146.jpg"
+    },
+    {
+      "frame_id": 146,
+      "frame_number": 147,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0147.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0147.jpg"
+    },
+    {
+      "frame_id": 147,
+      "frame_number": 148,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0148.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0148.jpg"
+    },
+    {
+      "frame_id": 148,
+      "frame_number": 149,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0149.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0149.jpg"
+    },
+    {
+      "frame_id": 149,
+      "frame_number": 150,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0150.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0150.jpg"
+    },
+    {
+      "frame_id": 150,
+      "frame_number": 151,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0151.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0151.jpg"
+    },
+    {
+      "frame_id": 151,
+      "frame_number": 152,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0152.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0152.jpg"
+    },
+    {
+      "frame_id": 152,
+      "frame_number": 153,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0153.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0153.jpg"
+    },
+    {
+      "frame_id": 153,
+      "frame_number": 154,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0154.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0154.jpg"
+    },
+    {
+      "frame_id": 154,
+      "frame_number": 155,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0155.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0155.jpg"
+    },
+    {
+      "frame_id": 155,
+      "frame_number": 156,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0156.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0156.jpg"
+    },
+    {
+      "frame_id": 156,
+      "frame_number": 157,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0157.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0157.jpg"
+    },
+    {
+      "frame_id": 157,
+      "frame_number": 158,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0158.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0158.jpg"
+    },
+    {
+      "frame_id": 158,
+      "frame_number": 159,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0159.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0159.jpg"
+    },
+    {
+      "frame_id": 159,
+      "frame_number": 160,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0160.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0160.jpg"
+    },
+    {
+      "frame_id": 160,
+      "frame_number": 161,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0161.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0161.jpg"
+    },
+    {
+      "frame_id": 161,
+      "frame_number": 162,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0162.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0162.jpg"
+    },
+    {
+      "frame_id": 162,
+      "frame_number": 163,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0163.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0163.jpg"
+    },
+    {
+      "frame_id": 163,
+      "frame_number": 164,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0164.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0164.jpg"
+    },
+    {
+      "frame_id": 164,
+      "frame_number": 165,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0165.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0165.jpg"
+    },
+    {
+      "frame_id": 165,
+      "frame_number": 166,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0166.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0166.jpg"
+    },
+    {
+      "frame_id": 166,
+      "frame_number": 167,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0167.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0167.jpg"
+    },
+    {
+      "frame_id": 167,
+      "frame_number": 168,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0168.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0168.jpg"
+    },
+    {
+      "frame_id": 168,
+      "frame_number": 169,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0169.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0169.jpg"
+    },
+    {
+      "frame_id": 169,
+      "frame_number": 170,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0170.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0170.jpg"
+    },
+    {
+      "frame_id": 170,
+      "frame_number": 171,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0171.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0171.jpg"
+    },
+    {
+      "frame_id": 171,
+      "frame_number": 172,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0172.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0172.jpg"
+    },
+    {
+      "frame_id": 172,
+      "frame_number": 173,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0173.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0173.jpg"
+    },
+    {
+      "frame_id": 173,
+      "frame_number": 174,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0174.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0174.jpg"
+    },
+    {
+      "frame_id": 174,
+      "frame_number": 175,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0175.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0175.jpg"
+    },
+    {
+      "frame_id": 175,
+      "frame_number": 176,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0176.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0176.jpg"
+    },
+    {
+      "frame_id": 176,
+      "frame_number": 177,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0177.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0177.jpg"
+    },
+    {
+      "frame_id": 177,
+      "frame_number": 178,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0178.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0178.jpg"
+    },
+    {
+      "frame_id": 178,
+      "frame_number": 179,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0179.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0179.jpg"
+    },
+    {
+      "frame_id": 179,
+      "frame_number": 180,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0180.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0180.jpg"
+    },
+    {
+      "frame_id": 180,
+      "frame_number": 181,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0181.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0181.jpg"
+    },
+    {
+      "frame_id": 181,
+      "frame_number": 182,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0182.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0182.jpg"
+    },
+    {
+      "frame_id": 182,
+      "frame_number": 183,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0183.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0183.jpg"
+    },
+    {
+      "frame_id": 183,
+      "frame_number": 184,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0184.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0184.jpg"
+    },
+    {
+      "frame_id": 184,
+      "frame_number": 185,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0185.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0185.jpg"
+    },
+    {
+      "frame_id": 185,
+      "frame_number": 186,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0186.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0186.jpg"
+    },
+    {
+      "frame_id": 186,
+      "frame_number": 187,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0187.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0187.jpg"
+    },
+    {
+      "frame_id": 187,
+      "frame_number": 188,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0188.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0188.jpg"
+    },
+    {
+      "frame_id": 188,
+      "frame_number": 189,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0189.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0189.jpg"
+    },
+    {
+      "frame_id": 189,
+      "frame_number": 190,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0190.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0190.jpg"
+    },
+    {
+      "frame_id": 190,
+      "frame_number": 191,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0191.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0191.jpg"
+    },
+    {
+      "frame_id": 191,
+      "frame_number": 192,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0192.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0192.jpg"
+    },
+    {
+      "frame_id": 192,
+      "frame_number": 193,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0193.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0193.jpg"
+    },
+    {
+      "frame_id": 193,
+      "frame_number": 194,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0194.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0194.jpg"
+    },
+    {
+      "frame_id": 194,
+      "frame_number": 195,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0195.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0195.jpg"
+    },
+    {
+      "frame_id": 195,
+      "frame_number": 196,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0196.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0196.jpg"
+    },
+    {
+      "frame_id": 196,
+      "frame_number": 197,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0197.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0197.jpg"
+    },
+    {
+      "frame_id": 197,
+      "frame_number": 198,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0198.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0198.jpg"
+    },
+    {
+      "frame_id": 198,
+      "frame_number": 199,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0199.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0199.jpg"
+    },
+    {
+      "frame_id": 199,
+      "frame_number": 200,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0200.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0200.jpg"
+    },
+    {
+      "frame_id": 200,
+      "frame_number": 201,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0201.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0201.jpg"
+    },
+    {
+      "frame_id": 201,
+      "frame_number": 202,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0202.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0202.jpg"
+    },
+    {
+      "frame_id": 202,
+      "frame_number": 203,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0203.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0203.jpg"
+    },
+    {
+      "frame_id": 203,
+      "frame_number": 204,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0204.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0204.jpg"
+    },
+    {
+      "frame_id": 204,
+      "frame_number": 205,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0205.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0205.jpg"
+    },
+    {
+      "frame_id": 205,
+      "frame_number": 206,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0206.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0206.jpg"
+    },
+    {
+      "frame_id": 206,
+      "frame_number": 207,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0207.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0207.jpg"
+    },
+    {
+      "frame_id": 207,
+      "frame_number": 208,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0208.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0208.jpg"
+    },
+    {
+      "frame_id": 208,
+      "frame_number": 209,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0209.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0209.jpg"
+    },
+    {
+      "frame_id": 209,
+      "frame_number": 210,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0210.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0210.jpg"
+    },
+    {
+      "frame_id": 210,
+      "frame_number": 211,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0211.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0211.jpg"
+    },
+    {
+      "frame_id": 211,
+      "frame_number": 212,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0212.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0212.jpg"
+    },
+    {
+      "frame_id": 212,
+      "frame_number": 213,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0213.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0213.jpg"
+    },
+    {
+      "frame_id": 213,
+      "frame_number": 214,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0214.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0214.jpg"
+    },
+    {
+      "frame_id": 214,
+      "frame_number": 215,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0215.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0215.jpg"
+    },
+    {
+      "frame_id": 215,
+      "frame_number": 216,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0216.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0216.jpg"
+    },
+    {
+      "frame_id": 216,
+      "frame_number": 217,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0217.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0217.jpg"
+    },
+    {
+      "frame_id": 217,
+      "frame_number": 218,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0218.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0218.jpg"
+    },
+    {
+      "frame_id": 218,
+      "frame_number": 219,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0219.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0219.jpg"
+    },
+    {
+      "frame_id": 219,
+      "frame_number": 220,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0220.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0220.jpg"
+    },
+    {
+      "frame_id": 220,
+      "frame_number": 221,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0221.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0221.jpg"
+    },
+    {
+      "frame_id": 221,
+      "frame_number": 222,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0222.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0222.jpg"
+    },
+    {
+      "frame_id": 222,
+      "frame_number": 223,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0223.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0223.jpg"
+    },
+    {
+      "frame_id": 223,
+      "frame_number": 224,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0224.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0224.jpg"
+    },
+    {
+      "frame_id": 224,
+      "frame_number": 225,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0225.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0225.jpg"
+    },
+    {
+      "frame_id": 225,
+      "frame_number": 226,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0226.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0226.jpg"
+    },
+    {
+      "frame_id": 226,
+      "frame_number": 227,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0227.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0227.jpg"
+    },
+    {
+      "frame_id": 227,
+      "frame_number": 228,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0228.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0228.jpg"
+    },
+    {
+      "frame_id": 228,
+      "frame_number": 229,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0229.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0229.jpg"
+    },
+    {
+      "frame_id": 229,
+      "frame_number": 230,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0230.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0230.jpg"
+    },
+    {
+      "frame_id": 230,
+      "frame_number": 231,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0231.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0231.jpg"
+    },
+    {
+      "frame_id": 231,
+      "frame_number": 232,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0232.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0232.jpg"
+    },
+    {
+      "frame_id": 232,
+      "frame_number": 233,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0233.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0233.jpg"
+    },
+    {
+      "frame_id": 233,
+      "frame_number": 234,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0234.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0234.jpg"
+    },
+    {
+      "frame_id": 234,
+      "frame_number": 235,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0235.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0235.jpg"
+    },
+    {
+      "frame_id": 235,
+      "frame_number": 236,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0236.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0236.jpg"
+    },
+    {
+      "frame_id": 236,
+      "frame_number": 237,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0237.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0237.jpg"
+    },
+    {
+      "frame_id": 237,
+      "frame_number": 238,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0238.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0238.jpg"
+    },
+    {
+      "frame_id": 238,
+      "frame_number": 239,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0239.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0239.jpg"
+    },
+    {
+      "frame_id": 239,
+      "frame_number": 240,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0240.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0240.jpg"
+    },
+    {
+      "frame_id": 240,
+      "frame_number": 241,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0241.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0241.jpg"
+    },
+    {
+      "frame_id": 241,
+      "frame_number": 242,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0242.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0242.jpg"
+    },
+    {
+      "frame_id": 242,
+      "frame_number": 243,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0243.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0243.jpg"
+    },
+    {
+      "frame_id": 243,
+      "frame_number": 244,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0244.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0244.jpg"
+    },
+    {
+      "frame_id": 244,
+      "frame_number": 245,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0245.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0245.jpg"
+    },
+    {
+      "frame_id": 245,
+      "frame_number": 246,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0246.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0246.jpg"
+    },
+    {
+      "frame_id": 246,
+      "frame_number": 247,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0247.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0247.jpg"
+    },
+    {
+      "frame_id": 247,
+      "frame_number": 248,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0248.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0248.jpg"
+    },
+    {
+      "frame_id": 248,
+      "frame_number": 249,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0249.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0249.jpg"
+    },
+    {
+      "frame_id": 249,
+      "frame_number": 250,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0250.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0250.jpg"
+    },
+    {
+      "frame_id": 250,
+      "frame_number": 251,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0251.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0251.jpg"
+    },
+    {
+      "frame_id": 251,
+      "frame_number": 252,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0252.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0252.jpg"
+    },
+    {
+      "frame_id": 252,
+      "frame_number": 253,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0253.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0253.jpg"
+    },
+    {
+      "frame_id": 253,
+      "frame_number": 254,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0254.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0254.jpg"
+    },
+    {
+      "frame_id": 254,
+      "frame_number": 255,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0255.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0255.jpg"
+    },
+    {
+      "frame_id": 255,
+      "frame_number": 256,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0256.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0256.jpg"
+    },
+    {
+      "frame_id": 256,
+      "frame_number": 257,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0257.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0257.jpg"
+    },
+    {
+      "frame_id": 257,
+      "frame_number": 258,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0258.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0258.jpg"
+    },
+    {
+      "frame_id": 258,
+      "frame_number": 259,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0259.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0259.jpg"
+    },
+    {
+      "frame_id": 259,
+      "frame_number": 260,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0260.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0260.jpg"
+    },
+    {
+      "frame_id": 260,
+      "frame_number": 261,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0261.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0261.jpg"
+    },
+    {
+      "frame_id": 261,
+      "frame_number": 262,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0262.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0262.jpg"
+    },
+    {
+      "frame_id": 262,
+      "frame_number": 263,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0263.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0263.jpg"
+    },
+    {
+      "frame_id": 263,
+      "frame_number": 264,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0264.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0264.jpg"
+    },
+    {
+      "frame_id": 264,
+      "frame_number": 265,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0265.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0265.jpg"
+    },
+    {
+      "frame_id": 265,
+      "frame_number": 266,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0266.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0266.jpg"
+    },
+    {
+      "frame_id": 266,
+      "frame_number": 267,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0267.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0267.jpg"
+    },
+    {
+      "frame_id": 267,
+      "frame_number": 268,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0268.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0268.jpg"
+    },
+    {
+      "frame_id": 268,
+      "frame_number": 269,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0269.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0269.jpg"
+    },
+    {
+      "frame_id": 269,
+      "frame_number": 270,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0270.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0270.jpg"
+    },
+    {
+      "frame_id": 270,
+      "frame_number": 271,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0271.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0271.jpg"
+    },
+    {
+      "frame_id": 271,
+      "frame_number": 272,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0272.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0272.jpg"
+    },
+    {
+      "frame_id": 272,
+      "frame_number": 273,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0273.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0273.jpg"
+    },
+    {
+      "frame_id": 273,
+      "frame_number": 274,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0274.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0274.jpg"
+    },
+    {
+      "frame_id": 274,
+      "frame_number": 275,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0275.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0275.jpg"
+    },
+    {
+      "frame_id": 275,
+      "frame_number": 276,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0276.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0276.jpg"
+    },
+    {
+      "frame_id": 276,
+      "frame_number": 277,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0277.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0277.jpg"
+    },
+    {
+      "frame_id": 277,
+      "frame_number": 278,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0278.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0278.jpg"
+    },
+    {
+      "frame_id": 278,
+      "frame_number": 279,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0279.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0279.jpg"
+    },
+    {
+      "frame_id": 279,
+      "frame_number": 280,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0280.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0280.jpg"
+    },
+    {
+      "frame_id": 280,
+      "frame_number": 281,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0281.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0281.jpg"
+    },
+    {
+      "frame_id": 281,
+      "frame_number": 282,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0282.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0282.jpg"
+    },
+    {
+      "frame_id": 282,
+      "frame_number": 283,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0283.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0283.jpg"
+    },
+    {
+      "frame_id": 283,
+      "frame_number": 284,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0284.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0284.jpg"
+    },
+    {
+      "frame_id": 284,
+      "frame_number": 285,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0285.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0285.jpg"
+    },
+    {
+      "frame_id": 285,
+      "frame_number": 286,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0286.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0286.jpg"
+    },
+    {
+      "frame_id": 286,
+      "frame_number": 287,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0287.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0287.jpg"
+    },
+    {
+      "frame_id": 287,
+      "frame_number": 288,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0288.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0288.jpg"
+    },
+    {
+      "frame_id": 288,
+      "frame_number": 289,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0289.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0289.jpg"
+    },
+    {
+      "frame_id": 289,
+      "frame_number": 290,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0290.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0290.jpg"
+    },
+    {
+      "frame_id": 290,
+      "frame_number": 291,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0291.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0291.jpg"
+    },
+    {
+      "frame_id": 291,
+      "frame_number": 292,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0292.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0292.jpg"
+    },
+    {
+      "frame_id": 292,
+      "frame_number": 293,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0293.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0293.jpg"
+    },
+    {
+      "frame_id": 293,
+      "frame_number": 294,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0294.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0294.jpg"
+    },
+    {
+      "frame_id": 294,
+      "frame_number": 295,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0295.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0295.jpg"
+    },
+    {
+      "frame_id": 295,
+      "frame_number": 296,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0296.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0296.jpg"
+    },
+    {
+      "frame_id": 296,
+      "frame_number": 297,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0297.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0297.jpg"
+    },
+    {
+      "frame_id": 297,
+      "frame_number": 298,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0298.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0298.jpg"
+    },
+    {
+      "frame_id": 298,
+      "frame_number": 299,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0299.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0299.jpg"
+    },
+    {
+      "frame_id": 299,
+      "frame_number": 300,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0300.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0300.jpg"
+    },
+    {
+      "frame_id": 300,
+      "frame_number": 301,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0301.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0301.jpg"
+    },
+    {
+      "frame_id": 301,
+      "frame_number": 302,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0302.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0302.jpg"
+    },
+    {
+      "frame_id": 302,
+      "frame_number": 303,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0303.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0303.jpg"
+    },
+    {
+      "frame_id": 303,
+      "frame_number": 304,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0304.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0304.jpg"
+    },
+    {
+      "frame_id": 304,
+      "frame_number": 305,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0305.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0305.jpg"
+    },
+    {
+      "frame_id": 305,
+      "frame_number": 306,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0306.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0306.jpg"
+    },
+    {
+      "frame_id": 306,
+      "frame_number": 307,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0307.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0307.jpg"
+    },
+    {
+      "frame_id": 307,
+      "frame_number": 308,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0308.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0308.jpg"
+    },
+    {
+      "frame_id": 308,
+      "frame_number": 309,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0309.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0309.jpg"
+    },
+    {
+      "frame_id": 309,
+      "frame_number": 310,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0310.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0310.jpg"
+    },
+    {
+      "frame_id": 310,
+      "frame_number": 311,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0311.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0311.jpg"
+    },
+    {
+      "frame_id": 311,
+      "frame_number": 312,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0312.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0312.jpg"
+    },
+    {
+      "frame_id": 312,
+      "frame_number": 313,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0313.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0313.jpg"
+    },
+    {
+      "frame_id": 313,
+      "frame_number": 314,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0314.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0314.jpg"
+    },
+    {
+      "frame_id": 314,
+      "frame_number": 315,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0315.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0315.jpg"
+    },
+    {
+      "frame_id": 315,
+      "frame_number": 316,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0316.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0316.jpg"
+    },
+    {
+      "frame_id": 316,
+      "frame_number": 317,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0317.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0317.jpg"
+    },
+    {
+      "frame_id": 317,
+      "frame_number": 318,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0318.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0318.jpg"
+    },
+    {
+      "frame_id": 318,
+      "frame_number": 319,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0319.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0319.jpg"
+    },
+    {
+      "frame_id": 319,
+      "frame_number": 320,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0320.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0320.jpg"
+    },
+    {
+      "frame_id": 320,
+      "frame_number": 321,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0321.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0321.jpg"
+    },
+    {
+      "frame_id": 321,
+      "frame_number": 322,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0322.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0322.jpg"
+    },
+    {
+      "frame_id": 322,
+      "frame_number": 323,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0323.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0323.jpg"
+    },
+    {
+      "frame_id": 323,
+      "frame_number": 324,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0324.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0324.jpg"
+    },
+    {
+      "frame_id": 324,
+      "frame_number": 325,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0325.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0325.jpg"
+    },
+    {
+      "frame_id": 325,
+      "frame_number": 326,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0326.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0326.jpg"
+    },
+    {
+      "frame_id": 326,
+      "frame_number": 327,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0327.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0327.jpg"
+    },
+    {
+      "frame_id": 327,
+      "frame_number": 328,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0328.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0328.jpg"
+    },
+    {
+      "frame_id": 328,
+      "frame_number": 329,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0329.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0329.jpg"
+    },
+    {
+      "frame_id": 329,
+      "frame_number": 330,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0330.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0330.jpg"
+    },
+    {
+      "frame_id": 330,
+      "frame_number": 331,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0331.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0331.jpg"
+    },
+    {
+      "frame_id": 331,
+      "frame_number": 332,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0332.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0332.jpg"
+    },
+    {
+      "frame_id": 332,
+      "frame_number": 333,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0333.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0333.jpg"
+    },
+    {
+      "frame_id": 333,
+      "frame_number": 334,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0334.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0334.jpg"
+    },
+    {
+      "frame_id": 334,
+      "frame_number": 335,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0335.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0335.jpg"
+    },
+    {
+      "frame_id": 335,
+      "frame_number": 336,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0336.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0336.jpg"
+    },
+    {
+      "frame_id": 336,
+      "frame_number": 337,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0337.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0337.jpg"
+    },
+    {
+      "frame_id": 337,
+      "frame_number": 338,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0338.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0338.jpg"
+    },
+    {
+      "frame_id": 338,
+      "frame_number": 339,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0339.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0339.jpg"
+    },
+    {
+      "frame_id": 339,
+      "frame_number": 340,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0340.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0340.jpg"
+    },
+    {
+      "frame_id": 340,
+      "frame_number": 341,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0341.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0341.jpg"
+    },
+    {
+      "frame_id": 341,
+      "frame_number": 342,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0342.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0342.jpg"
+    },
+    {
+      "frame_id": 342,
+      "frame_number": 343,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0343.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0343.jpg"
+    },
+    {
+      "frame_id": 343,
+      "frame_number": 344,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0344.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0344.jpg"
+    },
+    {
+      "frame_id": 344,
+      "frame_number": 345,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0345.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0345.jpg"
+    },
+    {
+      "frame_id": 345,
+      "frame_number": 346,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0346.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0346.jpg"
+    },
+    {
+      "frame_id": 346,
+      "frame_number": 347,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0347.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0347.jpg"
+    },
+    {
+      "frame_id": 347,
+      "frame_number": 348,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0348.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0348.jpg"
+    },
+    {
+      "frame_id": 348,
+      "frame_number": 349,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0349.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0349.jpg"
+    },
+    {
+      "frame_id": 349,
+      "frame_number": 350,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0350.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0350.jpg"
+    },
+    {
+      "frame_id": 350,
+      "frame_number": 351,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0351.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0351.jpg"
+    },
+    {
+      "frame_id": 351,
+      "frame_number": 352,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0352.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0352.jpg"
+    },
+    {
+      "frame_id": 352,
+      "frame_number": 353,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0353.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0353.jpg"
+    },
+    {
+      "frame_id": 353,
+      "frame_number": 354,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0354.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0354.jpg"
+    },
+    {
+      "frame_id": 354,
+      "frame_number": 355,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0355.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0355.jpg"
+    },
+    {
+      "frame_id": 355,
+      "frame_number": 356,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0356.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0356.jpg"
+    },
+    {
+      "frame_id": 356,
+      "frame_number": 357,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0357.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0357.jpg"
+    },
+    {
+      "frame_id": 357,
+      "frame_number": 358,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0358.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0358.jpg"
+    },
+    {
+      "frame_id": 358,
+      "frame_number": 359,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0359.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0359.jpg"
+    },
+    {
+      "frame_id": 359,
+      "frame_number": 360,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0360.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0360.jpg"
+    },
+    {
+      "frame_id": 360,
+      "frame_number": 361,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0361.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0361.jpg"
+    },
+    {
+      "frame_id": 361,
+      "frame_number": 362,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0362.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0362.jpg"
+    },
+    {
+      "frame_id": 362,
+      "frame_number": 363,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0363.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0363.jpg"
+    },
+    {
+      "frame_id": 363,
+      "frame_number": 364,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0364.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0364.jpg"
+    },
+    {
+      "frame_id": 364,
+      "frame_number": 365,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0365.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0365.jpg"
+    },
+    {
+      "frame_id": 365,
+      "frame_number": 366,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0366.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0366.jpg"
+    },
+    {
+      "frame_id": 366,
+      "frame_number": 367,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0367.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0367.jpg"
+    },
+    {
+      "frame_id": 367,
+      "frame_number": 368,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0368.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0368.jpg"
+    },
+    {
+      "frame_id": 368,
+      "frame_number": 369,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0369.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0369.jpg"
+    },
+    {
+      "frame_id": 369,
+      "frame_number": 370,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0370.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0370.jpg"
+    },
+    {
+      "frame_id": 370,
+      "frame_number": 371,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0371.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0371.jpg"
+    },
+    {
+      "frame_id": 371,
+      "frame_number": 372,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0372.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0372.jpg"
+    },
+    {
+      "frame_id": 372,
+      "frame_number": 373,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0373.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0373.jpg"
+    },
+    {
+      "frame_id": 373,
+      "frame_number": 374,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0374.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0374.jpg"
+    },
+    {
+      "frame_id": 374,
+      "frame_number": 375,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0375.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0375.jpg"
+    },
+    {
+      "frame_id": 375,
+      "frame_number": 376,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0376.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0376.jpg"
+    },
+    {
+      "frame_id": 376,
+      "frame_number": 377,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0377.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0377.jpg"
+    },
+    {
+      "frame_id": 377,
+      "frame_number": 378,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0378.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0378.jpg"
+    },
+    {
+      "frame_id": 378,
+      "frame_number": 379,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0379.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0379.jpg"
+    },
+    {
+      "frame_id": 379,
+      "frame_number": 380,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0380.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0380.jpg"
+    },
+    {
+      "frame_id": 380,
+      "frame_number": 381,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0381.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0381.jpg"
+    },
+    {
+      "frame_id": 381,
+      "frame_number": 382,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0382.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0382.jpg"
+    },
+    {
+      "frame_id": 382,
+      "frame_number": 383,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0383.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0383.jpg"
+    },
+    {
+      "frame_id": 383,
+      "frame_number": 384,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0384.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0384.jpg"
+    },
+    {
+      "frame_id": 384,
+      "frame_number": 385,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0385.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0385.jpg"
+    },
+    {
+      "frame_id": 385,
+      "frame_number": 386,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0386.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0386.jpg"
+    },
+    {
+      "frame_id": 386,
+      "frame_number": 387,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0387.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0387.jpg"
+    },
+    {
+      "frame_id": 387,
+      "frame_number": 388,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0388.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0388.jpg"
+    },
+    {
+      "frame_id": 388,
+      "frame_number": 389,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0389.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0389.jpg"
+    },
+    {
+      "frame_id": 389,
+      "frame_number": 390,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0390.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0390.jpg"
+    },
+    {
+      "frame_id": 390,
+      "frame_number": 391,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0391.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0391.jpg"
+    },
+    {
+      "frame_id": 391,
+      "frame_number": 392,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0392.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0392.jpg"
+    },
+    {
+      "frame_id": 392,
+      "frame_number": 393,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0393.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0393.jpg"
+    },
+    {
+      "frame_id": 393,
+      "frame_number": 394,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0394.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0394.jpg"
+    },
+    {
+      "frame_id": 394,
+      "frame_number": 395,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0395.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0395.jpg"
+    },
+    {
+      "frame_id": 395,
+      "frame_number": 396,
+      "image_path": "extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0396.jpg",
+      "full_text": "",
+      "text_blocks": [],
+      "num_blocks": 0,
+      "error": "Failed to load image: extracted\\frames\\Machine Learning Fundamentals： Bias and Variance\\Machine Learning Fundamentals： Bias and Variance_frame_0396.jpg"
+    }
+  ]
+}
