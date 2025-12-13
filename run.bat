@@ -1,14 +1,4 @@
 @echo off
-REM ============================================
-REM Video RAG - Quick Run Script
-REM ============================================
-
-echo.
-echo ============================================
-echo VIDEO RAG - STARTING APPLICATION
-echo ============================================
-echo.
-
 REM Check if virtual environment exists
 if not exist "venv\" (
     echo ERROR: Virtual environment not found!

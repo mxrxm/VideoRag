@@ -4,17 +4,17 @@
 
 VideoRAG is a powerful system that extracts content from videos (audio transcription + on-screen text OCR) and documents (PDF/PowerPoint) to enable semantic question-answering through advanced RAG technology.
 
-## ✨ Features
+##  Features
 
-- 🎥 **Multi-Modal Video Processing**: Extract both audio (Whisper ASR) and visual text (EasyOCR)
-- 📄 **Document Support**: Process PDF and PowerPoint files
-- 🌐 **Web Interface**: User-friendly Streamlit UI with drag-and-drop uploads
-- 🔧 **Configurable Components**: Choose your embedding models, LLMs, vector databases, and chunking strategies
-- 💬 **Interactive Q&A**: Ask questions about your content with chat history
-- 🎯 **Timestamp-Aware**: Answers reference specific time ranges in videos
-- 🚀 **Easy Setup**: One-click installation scripts for Windows
+-  **Multi-Modal Video Processing**: Extract both audio (Whisper ASR) and visual text (EasyOCR)
+-  **Document Support**: Process PDF and PowerPoint files
+-  **Web Interface**: User-friendly Streamlit UI with drag-and-drop uploads
+-  **Configurable Components**: Choose your embedding models, LLMs, vector databases, and chunking strategies
+-  **Interactive Q&A**: Ask questions about your content with chat history
+-  **Timestamp-Aware**: Answers reference specific time ranges in videos
+-  **Easy Setup**: One-click installation scripts for Windows
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Setup Environment
 
@@ -51,18 +51,16 @@ The app will open automatically in your browser at `http://localhost:8501`
    - Click "Ask"
    - Get AI-powered answers based on your content!
 
-## 🖥️ Alternative: Command Line Interface
+##  Alternative: Command Line Interface
 
 ```bash
 # Interactive CLI mode
 run.bat
 # Or: python main.py
 
-# Test different chunking strategies
-python rag_library/test_chunkers.py
 ```
 
-## 📋 Requirements
+##  Requirements
 
 ### System Requirements
 - **Python**: 3.8 or higher
@@ -81,7 +79,7 @@ All dependencies are installed automatically via `setup.bat`. Key packages inclu
 - `streamlit` - Web interface
 - `chromadb` - Alternative vector store
 
-## 🎯 Supported File Types
+##  Supported File Types
 
 | Type | Extensions | Processing |
 |------|-----------|------------|
@@ -89,7 +87,7 @@ All dependencies are installed automatically via `setup.bat`. Key packages inclu
 | **PDF** | `.pdf` | PyMuPDF text extraction |
 | **PowerPoint** | `.pptx`, `.ppt` | python-pptx extraction |
 
-## 🔧 Configuration Options
+##  Configuration Options
 
 ### Embedding Models
 - **BGE Base** (Recommended) - Balanced performance
@@ -115,7 +113,7 @@ All dependencies are installed automatically via `setup.bat`. Key packages inclu
 - **Semantic Chunker** - Similarity-based chunking
 - **ASR Timestamp Chunker** - Time-windowed (for videos)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 VideoRag/
@@ -147,7 +145,7 @@ VideoRag/
 └── transcripts/              # Final JSON outputs
 ```
 
-## 🎬 How It Works
+##  How It Works
 
 ### For Videos:
 1. **Extract Audio** → Convert to WAV via FFmpeg
@@ -167,7 +165,28 @@ VideoRag/
 4. **Index** → Store in vector database
 5. **Query** → Retrieve → Generate answer
 
-## 🐛 Troubleshooting
+##  Troubleshooting
+
+### GPU Support (Optional)
+
+For faster inference with NVIDIA GPUs:
+
+1. **Install CUDA Toolkit** (11.8 or 12.1) from [NVIDIA](https://developer.nvidia.com/cuda-downloads)
+
+2. **Install PyTorch with CUDA:**
+```bash
+# For CUDA 11.8
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+# For CUDA 12.1
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+```
+
+3. **Install FAISS-GPU:**
+```bash
+pip uninstall faiss-cpu
+pip install faiss-gpu
+```
 
 ### FFmpeg Not Found
 ```bash
@@ -193,11 +212,7 @@ choco install ffmpeg
 pip install --upgrade yt-dlp
 ```
 
-## 📖 Documentation
-
-For detailed architecture and development guidelines, see [CLAUDE.md](CLAUDE.md)
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 Built with:
 - [Whisper](https://github.com/openai/whisper) - OpenAI's speech recognition
@@ -206,10 +221,8 @@ Built with:
 - [HuggingFace Transformers](https://huggingface.co/transformers) - NLP models
 - [Streamlit](https://streamlit.io/) - Web framework
 
-## 📄 License
+##  License
 
 This project is for educational purposes.
 
 ---
-
-**Made with ❤️ for intelligent document and video understanding**

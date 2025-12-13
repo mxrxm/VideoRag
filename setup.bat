@@ -82,15 +82,4 @@ echo.
 echo Environment is ready. You can now run the application.
 echo.
 
-REM Ask if user wants to run the application now
-set /p run_now="Do you want to run the application now? (y/n): "
-if /i "%run_now%"=="y" (
-    echo.
-    echo ============================================
-    echo RUNNING APPLICATION
-    echo ============================================
-    echo.
-    python main.py
-)
-
 pause

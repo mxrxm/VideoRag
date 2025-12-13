@@ -127,7 +127,7 @@ def process_from_url():
     video_url = input("\nEnter video URL: ").strip()
     
     if not video_url:
-        print("❌ No URL provided!")
+        print(" No URL provided!")
         return
     
     # Ask for custom filename (optional)
@@ -302,8 +302,7 @@ def interactive_qa(rag: RAGPipeline):
 
         print("\nAnswer:\n", result["answer"])
 
-def main():
-    results_path=init()
+def main(path):
    # 1) choose input type
     input_type = choose_input_type()
 
@@ -343,7 +342,7 @@ def main():
         run_pptx_flow(rag, path)
 
     else:  # video_json
-        path = input("\nEnter Video JSON path: ").strip().strip('"')
+        # path = input("\nEnter Video JSON path: ").strip().strip('"')
         doc_id = input("Enter document_id (default=video): ").strip() or "video"
         run_video_json_flow(rag, path, document_id=doc_id)
 
@@ -352,7 +351,8 @@ def main():
 
 if __name__ == "__main__":
     # Run interactive mode (default)
-    main()
+    path=init()
+    main(path)
     
     # Or run direct mode with a specific video (comment main() above and uncomment below)
     # result = process_single_video_direct("video.mp4")  # Local file
