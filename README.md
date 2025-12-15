@@ -221,8 +221,14 @@ Built with:
 - [HuggingFace Transformers](https://huggingface.co/transformers) - NLP models
 - [Streamlit](https://streamlit.io/) - Web framework
 
+##  Demo
+- [Video Upload](https://drive.google.com/file/d/1LrROCzn42SJSt8-1jT_GaoW3afJXG7PM/view)
+- [PDF/PPTX Upload](https://drive.google.com/file/d/112HwkJXNsJaPfF8lXfaoGiq09GayaCYx/view?usp=sharing)
+- [Video URL Upload](https://drive.google.com/file/d/1EYnp_FoI5jZ3EwkP8TbNjlC9ioxmJCfM/view?usp=sharing)
+
 ##  License
 
 This project is for educational purposes.
+
 
 ---
