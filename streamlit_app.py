@@ -20,7 +20,7 @@ from rag_library.chuncking import (
     SemanticChunker,
     ASRTimestampChunker
 )
-from rag_library.loaders import load_pdf_as_documents, load_pptx_as_documents,load_asr_ocr_segments_from_json
+from rag_library.loaders import load_pdf_as_documents, load_pptx_as_documents, load_asr_ocr_segments_from_json
 from scripts.video_processor import VideoProcessor
 
 # Page config
@@ -51,10 +51,11 @@ EMBEDDING_MODELS = {
 }
 
 LLM_MODELS = {
-    "Qwen 0.6B (Fast)": "Qwen/Qwen3-0.6B",
+    "Qwen 0.6B (Fast)": "Qwen/Qwen2.5-0.5B-Instruct",
     "Qwen 1.8B": "Qwen/Qwen2.5-1.5B-Instruct",
     "Phi-2 (2.7B)": "microsoft/phi-2",
     "TinyLlama (1.1B)": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+    "Llama 8b": "meta-llama/Llama-3.1-8B",
 }
 
 VECTOR_STORES = {
@@ -114,11 +115,13 @@ def create_llm(model_name):
             top_p=0.95,
             is_chat_model=True,
             system_prompt="You are a helpful assistant that uses ONLY the provided context to answer questions accurately."
+            
         )
 
 
-def build_rag_pipeline(embed_model, llm_model, vector_store_type, chunker_type):
-    """Build complete RAG pipeline"""
+def build_rag_pipeline(embed_model, llm_model, vector_store_type, chunker_type,
+                       summary_llm_model=None, gen_llm_model=None):
+    """Build complete RAG pipeline with optional specialized models"""
     try:
         # Create embedder
         embedder = create_embedder(embed_model)
@@ -129,8 +132,17 @@ def build_rag_pipeline(embed_model, llm_model, vector_store_type, chunker_type):
         # Create chunker (for semantic chunker, pass embedder)
         chunker = create_chunker(chunker_type, embedder if chunker_type == "semantic" else None)
 
-        # Create LLM
+        # Create main LLM
         llm = create_llm(llm_model)
+        
+        # Create optional specialized LLMs
+        summary_llm = None
+        if summary_llm_model:
+            summary_llm = create_llm(summary_llm_model)
+        
+        generation_llm = None
+        if gen_llm_model:
+            generation_llm = create_llm(gen_llm_model)
 
         # Build pipeline
         rag = RAGPipeline(
@@ -138,12 +150,16 @@ def build_rag_pipeline(embed_model, llm_model, vector_store_type, chunker_type):
             vector_store=vector_store,
             llm=llm,
             chunker=chunker,
-            default_top_k=5
+            default_top_k=5,
+            summary_llm=summary_llm,
+            generation_llm=generation_llm
         )
 
         return rag, True
     except Exception as e:
         st.error(f"Error building RAG pipeline: {str(e)}")
+        import traceback
+        st.error(traceback.format_exc())
         return None, False
 
 
@@ -297,11 +313,55 @@ with st.sidebar:
 
     st.subheader("Language Model (LLM)")
     selected_llm = st.selectbox(
-        "Choose LLM",
+        "Choose LLM for Q&A",
         options=list(LLM_MODELS.keys()),
-        help="LLM generates answers based on retrieved context"
+        help="Main LLM for answering questions"
     )
     llm_model = LLM_MODELS[selected_llm]
+
+    # NEW: Advanced Model Settings
+    with st.expander("🎯 Advanced: Specialized Models", expanded=False):
+        st.markdown("""
+        Use different models for specific tasks:
+        - **Summarization**: Use a faster/cheaper model for summaries
+        - **Question Generation**: Use a creative model for generating questions
+        """)
+        
+        # Summarization model
+        use_summary_model = st.checkbox(
+            "Use separate model for summarization",
+            value=False,
+            help="Enable to use a different model for summaries"
+        )
+        
+        if use_summary_model:
+            selected_summary_llm = st.selectbox(
+                "Summary Model",
+                options=list(LLM_MODELS.keys()),
+                key="summary_llm",
+                help="Model for generating summaries"
+            )
+            summary_llm_model = LLM_MODELS[selected_summary_llm]
+        else:
+            summary_llm_model = None
+        
+        # Question generation model
+        use_gen_model = st.checkbox(
+            "Use separate model for question generation",
+            value=False,
+            help="Enable to use a different model for generating questions"
+        )
+        
+        if use_gen_model:
+            selected_gen_llm = st.selectbox(
+                "Generation Model",
+                options=list(LLM_MODELS.keys()),
+                key="gen_llm",
+                help="Model for generating questions"
+            )
+            gen_llm_model = LLM_MODELS[selected_gen_llm]
+        else:
+            gen_llm_model = None
 
     st.subheader("Vector Database")
     selected_vector_store = st.selectbox(
@@ -382,10 +442,24 @@ with st.sidebar:
     # Build/Rebuild pipeline button
     if st.button("🔧 Initialize/Rebuild RAG Pipeline", use_container_width=True):
         st.session_state.rag_pipeline, success = build_rag_pipeline(
-            embed_model, llm_model, vector_store_type, chunker_type
+            embed_model,
+            llm_model,
+            vector_store_type,
+            chunker_type,
+            summary_llm_model,
+            gen_llm_model
         )
         if success:
             st.success("✅ RAG Pipeline initialized!")
+            
+            # Show which models are active
+            if st.session_state.rag_pipeline:
+                models_info = st.session_state.rag_pipeline.get_active_models()
+                with st.expander("ℹ️ Active Models"):
+                    st.write(f"**Q&A Model:** {models_info['qa_model']}")
+                    st.write(f"**Summary Model:** {models_info['summary_model']}")
+                    st.write(f"**Generation Model:** {models_info['generation_model']}")
+            
             st.session_state.processing_complete = False
             st.session_state.indexed_content = None
             st.session_state.chat_history = []
@@ -500,67 +574,277 @@ with col1:
                         st.session_state.indexed_content = video_name if video_name else video_url
                         st.balloons()
 
+# RIGHT COLUMN - INTERACTION
 with col2:
-    st.header("💬 Ask Questions")
+    st.header("💬 Interact with Content")
 
     if not st.session_state.processing_complete:
-        st.info("📋 Process a document first to start asking questions")
+        st.info("📋 Process a document first to start interacting")
     else:
-        st.success(f"✅ Ready to answer questions about: **{st.session_state.indexed_content}**")
+        st.success(f"✅ Ready to interact with: **{st.session_state.indexed_content}**")
 
-        # Display vector store size
+        # Display vector store stats
         if st.session_state.rag_pipeline:
-            vector_store = st.session_state.rag_pipeline.vector_store
-            st.caption(f"Vector store contains {len(vector_store)} chunks")
+            try:
+                stats = st.session_state.rag_pipeline.get_stats()
+                st.caption(f"📊 {stats['total_chunks']} chunks | {stats['unique_documents']} documents | {stats['video_chunks']} video segments")
+            except:
+                vector_store = st.session_state.rag_pipeline.vector_store
+                st.caption(f"Vector store contains {len(vector_store)} chunks")
 
-        # Chat interface
         st.divider()
 
-        # Display chat history
-        for i, (question, answer) in enumerate(st.session_state.chat_history):
-            with st.container():
-                st.markdown(f"**Q{i+1}:** {question}")
-                st.markdown(f"**A{i+1}:** {answer}")
-                st.divider()
+        # CREATE TABS FOR DIFFERENT FEATURES
+        tab_qa, tab_summary, tab_gen_q = st.tabs([
+            "💬 Q&A",
+            "📝 Summarize",
+            "🎲 Generate Questions"
+        ])
 
-        # Question input
-        question = st.text_input(
-            "Enter your question:",
-            key="question_input",
-            placeholder="What is this document about?"
-        )
+        # TAB 1: Q&A
+        with tab_qa:
+            st.subheader("Ask Questions")
+            
+            # Display chat history
+            for i, (question, answer) in enumerate(st.session_state.chat_history):
+                with st.container():
+                    st.markdown(f"**Q{i+1}:** {question}")
+                    st.markdown(f"**A{i+1}:** {answer}")
+                    st.divider()
 
-        col_ask, col_clear = st.columns([3, 1])
+            # Question input
+            question = st.text_input(
+                "Enter your question:",
+                key="question_input",
+                placeholder="What is this document about?"
+            )
 
-        with col_ask:
-            ask_button = st.button("🔍 Ask", use_container_width=True)
+            col_ask, col_clear = st.columns([3, 1])
 
-        with col_clear:
-            if st.button("🗑️ Clear Chat", use_container_width=True):
-                st.session_state.chat_history = []
-                st.rerun()
+            with col_ask:
+                ask_button = st.button("🔍 Ask", use_container_width=True)
 
-        if ask_button and question:
+            with col_clear:
+                if st.button("🗑️ Clear Chat", use_container_width=True):
+                    st.session_state.chat_history = []
+                    st.rerun()
+
+            if ask_button and question:
+                if st.session_state.rag_pipeline:
+                    with st.spinner("Thinking..."):
+                        try:
+                            result = st.session_state.rag_pipeline.answer_question(
+                                question,
+                                top_k=5,
+                                return_sources=True
+                            )
+
+                            answer = result["answer"]
+                            st.session_state.chat_history.append((question, answer))
+                            st.rerun()
+                        except Exception as e:
+                            st.error(f"Error: {str(e)}")
+                            import traceback
+                            st.error(traceback.format_exc())
+
+        # TAB 2: SUMMARIZATION
+        with tab_summary:
+            st.subheader("📝 Summarize Content")
+            
+            # Show which model is being used
             if st.session_state.rag_pipeline:
-                with st.spinner("Thinking..."):
+                models_info = st.session_state.rag_pipeline.get_active_models()
+                st.caption(f"🤖 Using: {models_info['summary_model']}")
+            
+            st.markdown("Generate different types of summaries from your indexed content.")
+            
+            col_sum1, col_sum2 = st.columns(2)
+            
+            with col_sum1:
+                summary_type = st.selectbox(
+                    "Summary Type",
+                    options=["Comprehensive", "Brief", "Key Points", "Main Topics"],
+                    help="Choose the type of summary"
+                )
+            
+            with col_sum2:
+                max_chunks = st.slider(
+                    "Max Chunks",
+                    min_value=5,
+                    max_value=50,
+                    value=20,
+                    help="More chunks = more comprehensive"
+                )
+            
+            st.markdown("---")
+            
+            if st.button("✨ Generate Summary", use_container_width=True, key="gen_summary"):
+                if st.session_state.rag_pipeline:
+                    with st.spinner("Generating summary..."):
+                        try:
+                            type_map = {
+                                "Comprehensive": "comprehensive",
+                                "Brief": "brief",
+                                "Key Points": "keypoints",
+                                "Main Topics": "topics"
+                            }
+                            
+                            summary = st.session_state.rag_pipeline.summarize_content(
+                                max_chunks=max_chunks,
+                                summary_type=type_map[summary_type],
+                                max_tokens=1024
+                            )
+                            
+                            st.success("✅ Summary Generated!")
+                            st.markdown("### Summary:")
+                            st.info(summary)
+                            
+                            st.download_button(
+                                label="📥 Download Summary",
+                                data=summary,
+                                file_name=f"summary_{st.session_state.indexed_content}.txt",
+                                mime="text/plain",
+                                use_container_width=True
+                            )
+                            
+                        except Exception as e:
+                            st.error(f"Error: {str(e)}")
+                            import traceback
+                            st.error(traceback.format_exc())
+
+        # TAB 3: GENERATE QUESTIONS (Fixed auto-answer)
+        with tab_gen_q:
+            st.subheader("🎲 Generate Questions")
+            
+            # Show which model is being used
+            if st.session_state.rag_pipeline:
+                models_info = st.session_state.rag_pipeline.get_active_models()
+                st.caption(f"🤖 Using: {models_info['generation_model']}")
+            
+            st.markdown("Let AI generate questions based on your content!")
+            
+            col_gq1, col_gq2 = st.columns(2)
+            
+            with col_gq1:
+                num_questions = st.slider(
+                    "Number of questions",
+                    min_value=3,
+                    max_value=10,
+                    value=5,
+                    key="num_gen_questions"
+                )
+            
+            with col_gq2:
+                question_type = st.selectbox(
+                    "Question Type",
+                    options=["Comprehension", "Factual", "Analytical"],
+                    key="gen_question_type"
+                )
+            
+            with st.expander("ℹ️ Question Type Descriptions"):
+                st.markdown("""
+                - **Comprehension**: Test understanding of main ideas
+                - **Factual**: Test recall of specific facts
+                - **Analytical**: Require critical thinking
+                """)
+            
+            st.markdown("---")
+            
+            # Initialize session state for generated questions
+            if 'generated_questions' not in st.session_state:
+                st.session_state.generated_questions = []
+            
+            if st.button("🎲 Generate Questions", use_container_width=True, key="gen_questions"):
+                with st.spinner("Generating questions..."):
                     try:
-                        result = st.session_state.rag_pipeline.answer_question(
-                            question,
-                            top_k=5,
-                            return_sources=True
+                        type_map = {
+                            "Comprehension": "comprehension",
+                            "Factual": "factual",
+                            "Analytical": "analytical"
+                        }
+                        
+                        questions = st.session_state.rag_pipeline.generate_questions(
+                            num_questions=num_questions,
+                            question_type=type_map[question_type]
                         )
-
-                        answer = result["answer"]
-
-                        # Add to chat history
-                        st.session_state.chat_history.append((question, answer))
-
-                        # Rerun to update display
-                        st.rerun()
+                        
+                        # Store in session state
+                        st.session_state.generated_questions = questions
+                        
+                        if questions:
+                            st.success(f"✅ Generated {len(questions)} questions!")
+                        else:
+                            st.warning("⚠️ Could not generate questions.")
+                            
                     except Exception as e:
-                        st.error(f"Error generating answer: {str(e)}")
-            else:
-                st.error("RAG pipeline not initialized!")
+                        st.error(f"Error: {str(e)}")
+                        import traceback
+                        st.error(traceback.format_exc())
+            
+            # Display generated questions if they exist
+            if st.session_state.generated_questions:
+                st.markdown("### Generated Questions:")
+                for i, q in enumerate(st.session_state.generated_questions, 1):
+                    st.markdown(f"**{i}.** {q}")
+                
+                st.markdown("---")
+                
+                # Two columns for buttons
+                col_answer, col_download = st.columns(2)
+                
+                with col_answer:
+                    if st.button("📝 Answer All Questions", use_container_width=True, key="answer_all_btn"):
+                        with st.spinner("Generating answers for all questions..."):
+                            try:
+                                results = st.session_state.rag_pipeline.answer_multiple_questions(
+                                    st.session_state.generated_questions,
+                                    top_k=3
+                                )
+                                
+                                st.success("✅ All questions answered!")
+                                
+                                # Display results
+                                st.markdown("### Answers:")
+                                for i, result in enumerate(results, 1):
+                                    with st.expander(f"Q{i}: {result['question']}", expanded=True):
+                                        st.markdown("**Answer:**")
+                                        st.info(result['answer'])
+                                
+                                # Prepare download text
+                                qa_text = "\n\n".join([
+                                    f"Q{i}: {r['question']}\n\nA: {r['answer']}\n{'-'*60}"
+                                    for i, r in enumerate(results, 1)
+                                ])
+                                
+                                # Download button for Q&A
+                                st.download_button(
+                                    label="📥 Download Questions & Answers",
+                                    data=qa_text,
+                                    file_name=f"generated_qa_{st.session_state.indexed_content}.txt",
+                                    mime="text/plain",
+                                    use_container_width=True,
+                                    key="download_qa_btn"
+                                )
+                                
+                            except Exception as e:
+                                st.error(f"Error answering questions: {str(e)}")
+                                import traceback
+                                st.error(traceback.format_exc())
+                
+                with col_download:
+                    # Download just questions
+                    questions_text = "\n".join([
+                        f"{i}. {q}" 
+                        for i, q in enumerate(st.session_state.generated_questions, 1)
+                    ])
+                    st.download_button(
+                        label="📥 Download Questions Only",
+                        data=questions_text,
+                        file_name=f"generated_questions_{st.session_state.indexed_content}.txt",
+                        mime="text/plain",
+                        use_container_width=True,
+                        key="download_q_only_btn"
+                    )
 
 # Footer
 st.divider()

@@ -20,7 +20,7 @@
       "text_blocks": [
         {
           "text": "Leng Short-Term",
-          "confidence": 0.8243123945941434,
+          "confidence": 0.8675244681895504,
           "bbox": [
             [
               190.0,
@@ -51,7 +51,7 @@
       "text_blocks": [
         {
           "text": "Long Short-Term Memory",
-          "confidence": 0.83141607533506,
+          "confidence": 0.7578008108456742,
           "bbox": [
             [
               188.0,
@@ -73,7 +73,7 @@
         },
         {
           "text": "Recurrent neurgli",
-          "confidence": 0.8637052797605089,
+          "confidence": 0.8558706031189942,
           "bbox": [
             [
               187.0,
@@ -104,7 +104,7 @@
       "text_blocks": [
         {
           "text": "Long Short-Term Memory",
-          "confidence": 0.80028710658307,
+          "confidence": 0.7600695501720672,
           "bbox": [
             [
               188.0,
@@ -126,7 +126,7 @@
         },
         {
           "text": "Recurrentneurallnetwork",
-          "confidence": 0.9610226448996932,
+          "confidence": 0.9577836808930487,
           "bbox": [
             [
               189.0,
@@ -148,7 +148,7 @@
         },
         {
           "text": "(RNN)",
-          "confidence": 0.9442176499763009,
+          "confidence": 0.9321313529001822,
           "bbox": [
             [
               463.0,
@@ -179,7 +179,7 @@
       "text_blocks": [
         {
           "text": "Long Short-Term Memory",
-          "confidence": 0.7595624114059594,
+          "confidence": 0.7496282633391399,
           "bbox": [
             [
               188.0,
@@ -201,7 +201,7 @@
         },
         {
           "text": "Recurrentneurallnetwork",
-          "confidence": 0.9532236125281961,
+          "confidence": 0.9588253356901437,
           "bbox": [
             [
               189.0,
@@ -223,7 +223,7 @@
         },
         {
           "text": "(RNN)",
-          "confidence": 0.7125562246360844,
+          "confidence": 0.7105016109468346,
           "bbox": [
             [
               462.0,
@@ -254,7 +254,7 @@
       "text_blocks": [
         {
           "text": "Leng Shont-Term Memory",
-          "confidence": 0.7551776550990899,
+          "confidence": 0.6165161864103391,
           "bbox": [
             [
               199.0,
@@ -276,7 +276,7 @@
         },
         {
           "text": "Recurrent neurallinetwork;",
-          "confidence": 0.6259851219280631,
+          "confidence": 0.6202869313227823,
           "bbox": [
             [
               187.0,
@@ -298,7 +298,7 @@
         },
         {
           "text": "(RNNJ",
-          "confidence": 0.5563928702894383,
+          "confidence": 0.5873994171439197,
           "bbox": [
             [
               457.0,
@@ -325,11 +325,11 @@
     },
     {
       "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0007.jpg",
-      "full_text": "Leng Shont-Term Memory Recurrent neurallinetwork; ( Em",
+      "full_text": "Leng Shont-Term Memory Recurrent neurallnetwork ( Em",
       "text_blocks": [
         {
           "text": "Leng Shont-Term Memory",
-          "confidence": 0.7551776550990899,
+          "confidence": 0.6165161864103391,
           "bbox": [
             [
               199.0,
@@ -350,8 +350,8 @@
           ]
         },
         {
-          "text": "Recurrent neurallinetwork;",
-          "confidence": 0.5008592352639726,
+          "text": "Recurrent neurallnetwork",
+          "confidence": 0.7873484570448447,
           "bbox": [
             [
               187.0,
@@ -363,17 +363,17 @@
             ],
             [
               916.0,
-              876.0
+              878.0
             ],
             [
               187.0,
-              876.0
+              878.0
             ]
           ]
         },
         {
           "text": "(",
-          "confidence": 0.91478266466153,
+          "confidence": 0.9131806317246607,
           "bbox": [
             [
               708.0,
@@ -395,7 +395,7 @@
         },
         {
           "text": "Em",
-          "confidence": 0.6201875407710665,
+          "confidence": 0.5382209278018645,
           "bbox": [
             [
               790.0,
@@ -426,7 +426,7 @@
       "text_blocks": [
         {
           "text": "Leng Shont-Term Memory",
-          "confidence": 0.7551776550990899,
+          "confidence": 0.6165161864103391,
           "bbox": [
             [
               199.0,
@@ -448,7 +448,7 @@
         },
         {
           "text": "Recurrent neurallinetwork;",
-          "confidence": 0.5008592352639726,
+          "confidence": 0.6101115679131637,
           "bbox": [
             [
               187.0,
@@ -479,7 +479,7 @@
       "text_blocks": [
         {
           "text": "Leng Shont-Term Memory",
-          "confidence": 0.7551776550990899,
+          "confidence": 0.6165161864103391,
           "bbox": [
             [
               199.0,
@@ -501,7 +501,7 @@
         },
         {
           "text": "Recurrent neurallinetwork;",
-          "confidence": 0.5550337879694661,
+          "confidence": 0.5421820242475721,
           "bbox": [
             [
               187.0,
@@ -523,7 +523,7 @@
         },
         {
           "text": "(RNN)",
-          "confidence": 0.892028119123913,
+          "confidence": 0.9053706542645898,
           "bbox": [
             [
               457.0,
@@ -554,7 +554,7 @@
       "text_blocks": [
         {
           "text": "Leng Shont-Term Memory",
-          "confidence": 0.7551776550990899,
+          "confidence": 0.6165161864103391,
           "bbox": [
             [
               199.0,
@@ -576,7 +576,7 @@
         },
         {
           "text": "Recurrent neurallinetwork;",
-          "confidence": 0.5963377494518253,
+          "confidence": 0.5056975084670701,
           "bbox": [
             [
               187.0,
@@ -598,7 +598,7 @@
         },
         {
           "text": "(RNN)",
-          "confidence": 0.5704374507283996,
+          "confidence": 0.8676290323714116,
           "bbox": [
             [
               457.0,
@@ -625,11 +625,11 @@
     },
     {
       "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0011.jpg",
-      "full_text": "Short-Term Memory Recurrent neuranetwork 24 Long",
+      "full_text": "Short-Term Memory Recurrent neuranetwork (RNN) 24 Long",
       "text_blocks": [
         {
           "text": "Short-Term Memory",
-          "confidence": 0.7887948842392012,
+          "confidence": 0.8273641542221541,
           "bbox": [
             [
               338.0,
@@ -651,104 +651,7 @@
         },
         {
           "text": "Recurrent neuranetwork",
-          "confidence": 0.783439034978052,
-          "bbox": [
-            [
-              189.0,
-              806.0
-            ],
-            [
-              916.0,
-              806.0
-            ],
-            [
-              916.0,
-              880.0
-            ],
-            [
-              189.0,
-              880.0
-            ]
-          ]
-        },
-        {
-          "text": "24",
-          "confidence": 0.5747381450126566,
-          "bbox": [
-            [
-              574.0,
-              1342.0
-            ],
-            [
-              632.0,
-              1342.0
-            ],
-            [
-              632.0,
-              1396.0
-            ],
-            [
-              574.0,
-              1396.0
-            ]
-          ]
-        },
-        {
-          "text": "Long",
-          "confidence": 0.9928456544876099,
-          "bbox": [
-            [
-              198.02372034707875,
-              470.06841446425915
-            ],
-            [
-              348.7718707063859,
-              491.227496929201
-            ],
-            [
-              336.9762796529212,
-              554.9315855357409
-            ],
-            [
-              186.22812929361405,
-              533.772503070799
-            ]
-          ]
-        }
-      ],
-      "num_blocks": 4,
-      "frame_id": 10,
-      "frame_number": 11
-    },
-    {
-      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0012.jpg",
-      "full_text": "Short-Verm Memory Recurrent neuranetwork (RNN) 24 Long",
-      "text_blocks": [
-        {
-          "text": "Short-Verm Memory",
-          "confidence": 0.6053661290321789,
-          "bbox": [
-            [
-              338.0,
-              471.0
-            ],
-            [
-              919.0,
-              471.0
-            ],
-            [
-              919.0,
-              551.0
-            ],
-            [
-              338.0,
-              551.0
-            ]
-          ]
-        },
-        {
-          "text": "Recurrent neuranetwork",
-          "confidence": 0.7886420109981198,
+          "confidence": 0.7764607708595456,
           "bbox": [
             [
               189.0,
@@ -770,7 +673,7 @@
         },
         {
           "text": "(RNN)",
-          "confidence": 0.5757464104335639,
+          "confidence": 0.5088014991968386,
           "bbox": [
             [
               460.0,
@@ -792,7 +695,7 @@
         },
         {
           "text": "24",
-          "confidence": 0.5747381450126566,
+          "confidence": 0.5000198982547659,
           "bbox": [
             [
               574.0,
@@ -814,7 +717,7 @@
         },
         {
           "text": "Long",
-          "confidence": 0.9928456544876099,
+          "confidence": 0.6724882148774597,
           "bbox": [
             [
               198.02372034707875,
@@ -836,6 +739,103 @@
         }
       ],
       "num_blocks": 5,
+      "frame_id": 10,
+      "frame_number": 11
+    },
+    {
+      "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0012.jpg",
+      "full_text": "Short-Verm Memory Recurrent neuranetwork 24 Long",
+      "text_blocks": [
+        {
+          "text": "Short-Verm Memory",
+          "confidence": 0.6107308658312204,
+          "bbox": [
+            [
+              338.0,
+              471.0
+            ],
+            [
+              919.0,
+              471.0
+            ],
+            [
+              919.0,
+              551.0
+            ],
+            [
+              338.0,
+              551.0
+            ]
+          ]
+        },
+        {
+          "text": "Recurrent neuranetwork",
+          "confidence": 0.8026062891001217,
+          "bbox": [
+            [
+              189.0,
+              806.0
+            ],
+            [
+              916.0,
+              806.0
+            ],
+            [
+              916.0,
+              880.0
+            ],
+            [
+              189.0,
+              880.0
+            ]
+          ]
+        },
+        {
+          "text": "24",
+          "confidence": 0.5000198982547659,
+          "bbox": [
+            [
+              574.0,
+              1342.0
+            ],
+            [
+              632.0,
+              1342.0
+            ],
+            [
+              632.0,
+              1396.0
+            ],
+            [
+              574.0,
+              1396.0
+            ]
+          ]
+        },
+        {
+          "text": "Long",
+          "confidence": 0.6724882148774597,
+          "bbox": [
+            [
+              198.02372034707875,
+              470.06841446425915
+            ],
+            [
+              348.7718707063859,
+              491.227496929201
+            ],
+            [
+              336.9762796529212,
+              554.9315855357409
+            ],
+            [
+              186.22812929361405,
+              533.772503070799
+            ]
+          ]
+        }
+      ],
+      "num_blocks": 4,
       "frame_id": 11,
       "frame_number": 12
     },
@@ -853,7 +853,7 @@
       "text_blocks": [
         {
           "text": "Short-Term Memory",
-          "confidence": 0.8747239793107214,
+          "confidence": 0.8413087647930314,
           "bbox": [
             [
               327.0,
@@ -875,7 +875,7 @@
         },
         {
           "text": "Long",
-          "confidence": 0.5240590572357178,
+          "confidence": 0.5137529969215393,
           "bbox": [
             [
               182.98154206653618,
@@ -906,7 +906,7 @@
       "text_blocks": [
         {
           "text": "Long Short-TermMemory",
-          "confidence": 0.6043458391410597,
+          "confidence": 0.7672437935002236,
           "bbox": [
             [
               171.0,
@@ -937,7 +937,7 @@
       "text_blocks": [
         {
           "text": "#Forget Gate",
-          "confidence": 0.8853408648881976,
+          "confidence": 0.885574392250543,
           "bbox": [
             [
               362.0,
@@ -964,11 +964,33 @@
     },
     {
       "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0017.jpg",
-      "full_text": "2 Input Gate 3 Ouput Gate",
+      "full_text": "#Forget Gate 2 Input Gate 3 Ouput Gate",
       "text_blocks": [
         {
+          "text": "#Forget Gate",
+          "confidence": 0.535293338786781,
+          "bbox": [
+            [
+              360.0,
+              402.0
+            ],
+            [
+              764.0,
+              402.0
+            ],
+            [
+              764.0,
+              478.0
+            ],
+            [
+              360.0,
+              478.0
+            ]
+          ]
+        },
+        {
           "text": "2 Input Gate",
-          "confidence": 0.6765463177594132,
+          "confidence": 0.7201300811452326,
           "bbox": [
             [
               344.0,
@@ -990,7 +1012,7 @@
         },
         {
           "text": "3 Ouput Gate",
-          "confidence": 0.7573903657713615,
+          "confidence": 0.7358366724333052,
           "bbox": [
             [
               350.0,
@@ -1011,7 +1033,7 @@
           ]
         }
       ],
-      "num_blocks": 2,
+      "num_blocks": 3,
       "frame_id": 16,
       "frame_number": 17
     },
@@ -1021,7 +1043,7 @@
       "text_blocks": [
         {
           "text": "#Forget Gate",
-          "confidence": 0.7046463847180915,
+          "confidence": 0.7078829067135248,
           "bbox": [
             [
               360.0,
@@ -1043,7 +1065,7 @@
         },
         {
           "text": "2 Input Gate",
-          "confidence": 0.6707446252434979,
+          "confidence": 0.7218105959406281,
           "bbox": [
             [
               344.0,
@@ -1065,7 +1087,7 @@
         },
         {
           "text": "3 Output Gate",
-          "confidence": 0.8017869713861393,
+          "confidence": 0.7871834124089601,
           "bbox": [
             [
               350.0,
@@ -1096,7 +1118,7 @@
       "text_blocks": [
         {
           "text": "Forget Gete",
-          "confidence": 0.691567242111142,
+          "confidence": 0.6998141940742528,
           "bbox": [
             [
               408.0,
@@ -1118,7 +1140,7 @@
         },
         {
           "text": "2 Input Gate",
-          "confidence": 0.8607571183698983,
+          "confidence": 0.8521356141549438,
           "bbox": [
             [
               345.0,
@@ -1140,7 +1162,7 @@
         },
         {
           "text": "3 Output Gate",
-          "confidence": 0.6655210215728999,
+          "confidence": 0.6261846166346534,
           "bbox": [
             [
               350.0,
@@ -1162,7 +1184,7 @@
         },
         {
           "text": "Forget gate",
-          "confidence": 0.8867107553573691,
+          "confidence": 0.902543883626148,
           "bbox": [
             [
               176.0,
@@ -1184,7 +1206,7 @@
         },
         {
           "text": "Quiputigate:",
-          "confidence": 0.5338064869477177,
+          "confidence": 0.5284269974865045,
           "bbox": [
             [
               535.0,
@@ -1215,7 +1237,7 @@
       "text_blocks": [
         {
           "text": "Forget Gete",
-          "confidence": 0.691567242111142,
+          "confidence": 0.6998141940742528,
           "bbox": [
             [
               408.0,
@@ -1237,7 +1259,7 @@
         },
         {
           "text": "2 Input Gate",
-          "confidence": 0.8607571183698983,
+          "confidence": 0.8521356141549438,
           "bbox": [
             [
               345.0,
@@ -1259,7 +1281,7 @@
         },
         {
           "text": "Forget gate",
-          "confidence": 0.8942870648291235,
+          "confidence": 0.9230532693782176,
           "bbox": [
             [
               176.0,
@@ -1281,7 +1303,7 @@
         },
         {
           "text": "Quiputigate:",
-          "confidence": 0.5499199618249294,
+          "confidence": 0.5521151843415614,
           "bbox": [
             [
               535.0,
@@ -1312,7 +1334,7 @@
       "text_blocks": [
         {
           "text": "1Forgef Gate",
-          "confidence": 0.86620551568449,
+          "confidence": 0.8402701414340886,
           "bbox": [
             [
               359.0,
@@ -1334,7 +1356,7 @@
         },
         {
           "text": "2input Gate;",
-          "confidence": 0.5177357647826275,
+          "confidence": 0.7169419869263115,
           "bbox": [
             [
               341.0,
@@ -1356,7 +1378,7 @@
         },
         {
           "text": "3 Output Gate",
-          "confidence": 0.5516379707293099,
+          "confidence": 0.7105138812264368,
           "bbox": [
             [
               345.0,
@@ -1378,7 +1400,7 @@
         },
         {
           "text": "Forgetigate",
-          "confidence": 0.7872328421859279,
+          "confidence": 0.7701551200473032,
           "bbox": [
             [
               170.0,
@@ -1400,7 +1422,7 @@
         },
         {
           "text": "be",
-          "confidence": 0.639685499436859,
+          "confidence": 0.664133824743295,
           "bbox": [
             [
               860.0,
@@ -1431,7 +1453,7 @@
       "text_blocks": [
         {
           "text": "1Forgef Gate",
-          "confidence": 0.86620551568449,
+          "confidence": 0.8402701414340886,
           "bbox": [
             [
               359.0,
@@ -1453,7 +1475,7 @@
         },
         {
           "text": "2input Gate;",
-          "confidence": 0.5561268321527542,
+          "confidence": 0.5549243015787695,
           "bbox": [
             [
               341.0,
@@ -1475,7 +1497,7 @@
         },
         {
           "text": "3 Output Gate",
-          "confidence": 0.5516379707293099,
+          "confidence": 0.7105138812264368,
           "bbox": [
             [
               345.0,
@@ -1497,7 +1519,7 @@
         },
         {
           "text": "Fongetigate",
-          "confidence": 0.731874966297326,
+          "confidence": 0.7179248838997002,
           "bbox": [
             [
               172.0,
@@ -1519,7 +1541,7 @@
         },
         {
           "text": "be",
-          "confidence": 0.639685499436859,
+          "confidence": 0.664133824743295,
           "bbox": [
             [
               860.0,
@@ -1541,7 +1563,7 @@
         },
         {
           "text": "tanh",
-          "confidence": 0.7415235042572021,
+          "confidence": 0.731992244720459,
           "bbox": [
             [
               451.0,
@@ -1572,7 +1594,7 @@
       "text_blocks": [
         {
           "text": "1Forgef Gate",
-          "confidence": 0.86620551568449,
+          "confidence": 0.8402701414340886,
           "bbox": [
             [
               359.0,
@@ -1594,7 +1616,7 @@
         },
         {
           "text": "2input Gate;",
-          "confidence": 0.5561268321527542,
+          "confidence": 0.5549243015787695,
           "bbox": [
             [
               341.0,
@@ -1616,7 +1638,7 @@
         },
         {
           "text": "3 Output Gate",
-          "confidence": 0.5516379707293099,
+          "confidence": 0.7105138812264368,
           "bbox": [
             [
               345.0,
@@ -1638,7 +1660,7 @@
         },
         {
           "text": "Fongetigate",
-          "confidence": 0.7290481951604656,
+          "confidence": 0.7290493457916721,
           "bbox": [
             [
               172.0,
@@ -1660,7 +1682,7 @@
         },
         {
           "text": "be",
-          "confidence": 0.639685499436859,
+          "confidence": 0.664133824743295,
           "bbox": [
             [
               860.0,
@@ -1691,7 +1713,7 @@
       "text_blocks": [
         {
           "text": "1Forgef Gate",
-          "confidence": 0.86620551568449,
+          "confidence": 0.8402701414340886,
           "bbox": [
             [
               359.0,
@@ -1713,7 +1735,7 @@
         },
         {
           "text": "2input Gate;",
-          "confidence": 0.5561268321527542,
+          "confidence": 0.5549243015787695,
           "bbox": [
             [
               341.0,
@@ -1735,7 +1757,7 @@
         },
         {
           "text": "3 Output Gate",
-          "confidence": 0.5516379707293099,
+          "confidence": 0.7105138812264368,
           "bbox": [
             [
               345.0,
@@ -1757,7 +1779,7 @@
         },
         {
           "text": "Forgetigate",
-          "confidence": 0.8108257357463349,
+          "confidence": 0.7912873852290646,
           "bbox": [
             [
               172.0,
@@ -1779,7 +1801,7 @@
         },
         {
           "text": "be",
-          "confidence": 0.639685499436859,
+          "confidence": 0.664133824743295,
           "bbox": [
             [
               860.0,
@@ -1801,7 +1823,7 @@
         },
         {
           "text": "iputgate",
-          "confidence": 0.5488777561171218,
+          "confidence": 0.5928266006343935,
           "bbox": [
             [
               270.0,
@@ -1823,7 +1845,7 @@
         },
         {
           "text": "\"@utput gate",
-          "confidence": 0.6604496726863228,
+          "confidence": 0.6612978704395631,
           "bbox": [
             [
               536.0,
@@ -1854,7 +1876,7 @@
       "text_blocks": [
         {
           "text": "1Forgef Gate",
-          "confidence": 0.86620551568449,
+          "confidence": 0.8402701414340886,
           "bbox": [
             [
               359.0,
@@ -1876,7 +1898,7 @@
         },
         {
           "text": "2input Gate;",
-          "confidence": 0.5561268321527542,
+          "confidence": 0.5549243015787695,
           "bbox": [
             [
               341.0,
@@ -1898,7 +1920,7 @@
         },
         {
           "text": "3 Output Gate",
-          "confidence": 0.5516379707293099,
+          "confidence": 0.7105138812264368,
           "bbox": [
             [
               345.0,
@@ -1920,7 +1942,7 @@
         },
         {
           "text": "Folgetigate",
-          "confidence": 0.5524120412940008,
+          "confidence": 0.5482943023968463,
           "bbox": [
             [
               180.0,
@@ -1942,7 +1964,7 @@
         },
         {
           "text": "be",
-          "confidence": 0.639685499436859,
+          "confidence": 0.664133824743295,
           "bbox": [
             [
               860.0,
@@ -1964,7 +1986,7 @@
         },
         {
           "text": "iputgate",
-          "confidence": 0.5488777561171218,
+          "confidence": 0.5928266006343935,
           "bbox": [
             [
               270.0,
@@ -1991,11 +2013,11 @@
     },
     {
       "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0026.jpg",
-      "full_text": "Long Short-TermMemory 2 Input Gate 3 Output Gate Forgetigate lputigate: bscribe",
+      "full_text": "Long Short-TermMemory 1Forget Gate 2 Input Gate 3 Output Gate Forgetigate lputigate: bscribe",
       "text_blocks": [
         {
           "text": "Long Short-TermMemory",
-          "confidence": 0.7166165960735871,
+          "confidence": 0.7107239344049523,
           "bbox": [
             [
               176.0,
@@ -2016,8 +2038,30 @@
           ]
         },
         {
+          "text": "1Forget Gate",
+          "confidence": 0.5468781715561248,
+          "bbox": [
+            [
+              359.0,
+              396.0
+            ],
+            [
+              767.0,
+              396.0
+            ],
+            [
+              767.0,
+              482.0
+            ],
+            [
+              359.0,
+              482.0
+            ]
+          ]
+        },
+        {
           "text": "2 Input Gate",
-          "confidence": 0.7704933928903233,
+          "confidence": 0.7392709324334313,
           "bbox": [
             [
               343.0,
@@ -2039,7 +2083,7 @@
         },
         {
           "text": "3 Output Gate",
-          "confidence": 0.748859316874472,
+          "confidence": 0.696912938249131,
           "bbox": [
             [
               349.0,
@@ -2061,7 +2105,7 @@
         },
         {
           "text": "Forgetigate",
-          "confidence": 0.9945960995376714,
+          "confidence": 0.9952730800901669,
           "bbox": [
             [
               177.0,
@@ -2083,7 +2127,7 @@
         },
         {
           "text": "lputigate:",
-          "confidence": 0.7934215312772601,
+          "confidence": 0.7888383613625236,
           "bbox": [
             [
               264.0,
@@ -2105,7 +2149,7 @@
         },
         {
           "text": "bscribe",
-          "confidence": 0.9178816113745096,
+          "confidence": 0.9227538205750525,
           "bbox": [
             [
               548.0,
@@ -2126,7 +2170,7 @@
           ]
         }
       ],
-      "num_blocks": 6,
+      "num_blocks": 7,
       "frame_id": 25,
       "frame_number": 26
     },
@@ -2136,7 +2180,7 @@
       "text_blocks": [
         {
           "text": "Long Short-TermMemory",
-          "confidence": 0.6439644338670921,
+          "confidence": 0.6447143251940463,
           "bbox": [
             [
               176.0,
@@ -2158,7 +2202,7 @@
         },
         {
           "text": "2 Input Gate",
-          "confidence": 0.7612989182422936,
+          "confidence": 0.7390305043785798,
           "bbox": [
             [
               343.0,
@@ -2180,7 +2224,7 @@
         },
         {
           "text": "3 Output Gate",
-          "confidence": 0.6023809683612704,
+          "confidence": 0.6968404473280523,
           "bbox": [
             [
               350.0,
@@ -2202,7 +2246,7 @@
         },
         {
           "text": "Forgetigate",
-          "confidence": 0.995212758469729,
+          "confidence": 0.9949054882804975,
           "bbox": [
             [
               176.0,
@@ -2224,7 +2268,7 @@
         },
         {
           "text": "Output gatel",
-          "confidence": 0.7259071569762171,
+          "confidence": 0.6878415257076184,
           "bbox": [
             [
               536.0,
@@ -2255,7 +2299,7 @@
       "text_blocks": [
         {
           "text": "Long Short-TermMemory",
-          "confidence": 0.6439644338670921,
+          "confidence": 0.6447143251940463,
           "bbox": [
             [
               176.0,
@@ -2277,7 +2321,7 @@
         },
         {
           "text": "2 Input Gate",
-          "confidence": 0.7612989182422936,
+          "confidence": 0.7390305043785798,
           "bbox": [
             [
               343.0,
@@ -2299,7 +2343,7 @@
         },
         {
           "text": "3 Output Gate",
-          "confidence": 0.6023809683612704,
+          "confidence": 0.6968404473280523,
           "bbox": [
             [
               350.0,
@@ -2321,7 +2365,7 @@
         },
         {
           "text": "Forgetigate",
-          "confidence": 0.995212758469729,
+          "confidence": 0.9949054882804975,
           "bbox": [
             [
               176.0,
@@ -2348,11 +2392,11 @@
     },
     {
       "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0029.jpg",
-      "full_text": "Long Short-TermMemory 2 Input Gate 3 Output Gate Forgetigate iput gate: (Qutputigatel",
+      "full_text": "Long Short-TermMemory 2 Input Gate 3 Output Gate Forgetigate (Qutputigatel",
       "text_blocks": [
         {
           "text": "Long Short-TermMemory",
-          "confidence": 0.6439644338670921,
+          "confidence": 0.6447143251940463,
           "bbox": [
             [
               176.0,
@@ -2374,7 +2418,7 @@
         },
         {
           "text": "2 Input Gate",
-          "confidence": 0.7612989182422936,
+          "confidence": 0.7390305043785798,
           "bbox": [
             [
               343.0,
@@ -2396,7 +2440,7 @@
         },
         {
           "text": "3 Output Gate",
-          "confidence": 0.6023809683612704,
+          "confidence": 0.6968404473280523,
           "bbox": [
             [
               350.0,
@@ -2418,7 +2462,7 @@
         },
         {
           "text": "Forgetigate",
-          "confidence": 0.995212758469729,
+          "confidence": 0.9949054882804975,
           "bbox": [
             [
               176.0,
@@ -2435,34 +2479,12 @@
             [
               176.0,
               798.0
-            ]
-          ]
-        },
-        {
-          "text": "iput gate:",
-          "confidence": 0.5393352449789689,
-          "bbox": [
-            [
-              261.0,
-              1452.0
-            ],
-            [
-              475.0,
-              1452.0
-            ],
-            [
-              475.0,
-              1513.0
-            ],
-            [
-              261.0,
-              1513.0
             ]
           ]
         },
         {
           "text": "(Qutputigatel",
-          "confidence": 0.7180893544137724,
+          "confidence": 0.722923033008605,
           "bbox": [
             [
               534.0,
@@ -2483,7 +2505,7 @@
           ]
         }
       ],
-      "num_blocks": 6,
+      "num_blocks": 5,
       "frame_id": 28,
       "frame_number": 29
     },
@@ -2493,7 +2515,7 @@
       "text_blocks": [
         {
           "text": "Long Short-TermMemory",
-          "confidence": 0.6439644338670921,
+          "confidence": 0.6447143251940463,
           "bbox": [
             [
               176.0,
@@ -2515,7 +2537,7 @@
         },
         {
           "text": "2 Input Gate",
-          "confidence": 0.7612989182422936,
+          "confidence": 0.7390305043785798,
           "bbox": [
             [
               343.0,
@@ -2537,7 +2559,7 @@
         },
         {
           "text": "3 Output Gate",
-          "confidence": 0.6023809683612704,
+          "confidence": 0.6968404473280523,
           "bbox": [
             [
               350.0,
@@ -2559,7 +2581,7 @@
         },
         {
           "text": "Forgetigate",
-          "confidence": 0.995212758469729,
+          "confidence": 0.9949054882804975,
           "bbox": [
             [
               176.0,
@@ -2581,7 +2603,7 @@
         },
         {
           "text": "(Qutputigatel",
-          "confidence": 0.7180893544137724,
+          "confidence": 0.722923033008605,
           "bbox": [
             [
               534.0,
@@ -2603,7 +2625,7 @@
         },
         {
           "text": "bscribe",
-          "confidence": 0.7479113458645898,
+          "confidence": 0.7237934802490098,
           "bbox": [
             [
               548.0,
@@ -2634,7 +2656,7 @@
       "text_blocks": [
         {
           "text": "1Ferget Gate",
-          "confidence": 0.7080121797174903,
+          "confidence": 0.5134136502720986,
           "bbox": [
             [
               360.0,
@@ -2656,7 +2678,7 @@
         },
         {
           "text": "2 Input Gate",
-          "confidence": 0.8622315513938307,
+          "confidence": 0.8629119843729081,
           "bbox": [
             [
               346.0,
@@ -2678,7 +2700,7 @@
         },
         {
           "text": "utput Gate",
-          "confidence": 0.7620310112100592,
+          "confidence": 0.7738818667509683,
           "bbox": [
             [
               460.0,
@@ -2700,7 +2722,7 @@
         },
         {
           "text": "Forget-gate",
-          "confidence": 0.5789904722563975,
+          "confidence": 0.5257220737795903,
           "bbox": [
             [
               174.0,
@@ -2722,7 +2744,7 @@
         },
         {
           "text": "Stbscribe)",
-          "confidence": 0.6620144900339118,
+          "confidence": 0.5604013871884279,
           "bbox": [
             [
               509.0,
@@ -2749,33 +2771,11 @@
     },
     {
       "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0032.jpg",
-      "full_text": "Long Short TermMemery 1Ferget Gate 2 Input Gate utput Gate Forget-gate Illmput gate @uiputigate,",
+      "full_text": "1Ferget Gate 2 Input Gate utput Gate Forget-gate Illmput gate @uiputigate, Subscribet",
       "text_blocks": [
         {
-          "text": "Long Short TermMemery",
-          "confidence": 0.5515715212045398,
-          "bbox": [
-            [
-              173.0,
-              262.0
-            ],
-            [
-              908.0,
-              262.0
-            ],
-            [
-              908.0,
-              349.0
-            ],
-            [
-              173.0,
-              349.0
-            ]
-          ]
-        },
-        {
           "text": "1Ferget Gate",
-          "confidence": 0.7080121797174903,
+          "confidence": 0.5134136502720986,
           "bbox": [
             [
               360.0,
@@ -2797,7 +2797,7 @@
         },
         {
           "text": "2 Input Gate",
-          "confidence": 0.8622315513938307,
+          "confidence": 0.8629119843729081,
           "bbox": [
             [
               346.0,
@@ -2819,7 +2819,7 @@
         },
         {
           "text": "utput Gate",
-          "confidence": 0.7620310112100592,
+          "confidence": 0.7738818667509683,
           "bbox": [
             [
               460.0,
@@ -2841,7 +2841,7 @@
         },
         {
           "text": "Forget-gate",
-          "confidence": 0.5789904722563975,
+          "confidence": 0.5257220737795903,
           "bbox": [
             [
               174.0,
@@ -2863,7 +2863,7 @@
         },
         {
           "text": "Illmput gate",
-          "confidence": 0.5362326037780143,
+          "confidence": 0.5831620377143764,
           "bbox": [
             [
               267.0,
@@ -2885,7 +2885,7 @@
         },
         {
           "text": "@uiputigate,",
-          "confidence": 0.5865960375954173,
+          "confidence": 0.6240269162882602,
           "bbox": [
             [
               535.0,
@@ -2904,6 +2904,28 @@
               1512.0
             ]
           ]
+        },
+        {
+          "text": "Subscribet",
+          "confidence": 0.5340812416070234,
+          "bbox": [
+            [
+              510.0,
+              1769.0
+            ],
+            [
+              665.0,
+              1769.0
+            ],
+            [
+              665.0,
+              1822.0
+            ],
+            [
+              510.0,
+              1822.0
+            ]
+          ]
         }
       ],
       "num_blocks": 7,
@@ -2916,7 +2938,7 @@
       "text_blocks": [
         {
           "text": "Long Short-TermMemory",
-          "confidence": 0.7646231652334061,
+          "confidence": 0.7527254660190215,
           "bbox": [
             [
               172.0,
@@ -2938,7 +2960,7 @@
         },
         {
           "text": "1Ferget Gate",
-          "confidence": 0.7080121797174903,
+          "confidence": 0.5134136502720986,
           "bbox": [
             [
               360.0,
@@ -2960,7 +2982,7 @@
         },
         {
           "text": "2 Input Gate",
-          "confidence": 0.8622315513938307,
+          "confidence": 0.8629119843729081,
           "bbox": [
             [
               346.0,
@@ -2982,7 +3004,7 @@
         },
         {
           "text": "utput Gate",
-          "confidence": 0.7620310112100592,
+          "confidence": 0.7738818667509683,
           "bbox": [
             [
               460.0,
@@ -3004,7 +3026,7 @@
         },
         {
           "text": "Forget-gate",
-          "confidence": 0.5789904722563975,
+          "confidence": 0.5257220737795903,
           "bbox": [
             [
               174.0,
@@ -3035,7 +3057,7 @@
       "text_blocks": [
         {
           "text": "Long Short-TermMemory",
-          "confidence": 0.7567139822791735,
+          "confidence": 0.7679360283095754,
           "bbox": [
             [
               172.0,
@@ -3057,7 +3079,7 @@
         },
         {
           "text": "1Ferget Gate",
-          "confidence": 0.7080121797174903,
+          "confidence": 0.5134136502720986,
           "bbox": [
             [
               360.0,
@@ -3079,7 +3101,7 @@
         },
         {
           "text": "2 Input Gate",
-          "confidence": 0.8622315513938307,
+          "confidence": 0.8629119843729081,
           "bbox": [
             [
               346.0,
@@ -3101,7 +3123,7 @@
         },
         {
           "text": "utput Gate",
-          "confidence": 0.7620310112100592,
+          "confidence": 0.7738818667509683,
           "bbox": [
             [
               460.0,
@@ -3123,7 +3145,7 @@
         },
         {
           "text": "Forget-gate",
-          "confidence": 0.5789904722563975,
+          "confidence": 0.5257220737795903,
           "bbox": [
             [
               174.0,
@@ -3145,7 +3167,7 @@
         },
         {
           "text": "@uipuiigate",
-          "confidence": 0.7386571848785107,
+          "confidence": 0.7305012424349893,
           "bbox": [
             [
               535.0,
@@ -3172,11 +3194,11 @@
     },
     {
       "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0035.jpg",
-      "full_text": "Long Short-TermMemory 1Ferget Gate 2 Input Gate utput Gate ipubgate: @uipuiigate",
+      "full_text": "Long Short-TermMemory 1Ferget Gate 2 Input Gate utput Gate Forget-gate ipubgate: @uipuiigate",
       "text_blocks": [
         {
           "text": "Long Short-TermMemory",
-          "confidence": 0.7383000428110846,
+          "confidence": 0.7435867757201595,
           "bbox": [
             [
               172.0,
@@ -3198,7 +3220,7 @@
         },
         {
           "text": "1Ferget Gate",
-          "confidence": 0.7080121797174903,
+          "confidence": 0.5134136502720986,
           "bbox": [
             [
               360.0,
@@ -3220,7 +3242,7 @@
         },
         {
           "text": "2 Input Gate",
-          "confidence": 0.8622315513938307,
+          "confidence": 0.8629119843729081,
           "bbox": [
             [
               346.0,
@@ -3242,7 +3264,7 @@
         },
         {
           "text": "utput Gate",
-          "confidence": 0.7620310112100592,
+          "confidence": 0.7738818667509683,
           "bbox": [
             [
               460.0,
@@ -3263,8 +3285,30 @@
           ]
         },
         {
+          "text": "Forget-gate",
+          "confidence": 0.5732681355741881,
+          "bbox": [
+            [
+              174.0,
+              736.0
+            ],
+            [
+              393.0,
+              736.0
+            ],
+            [
+              393.0,
+              796.0
+            ],
+            [
+              174.0,
+              796.0
+            ]
+          ]
+        },
+        {
           "text": "ipubgate:",
-          "confidence": 0.5354287716717718,
+          "confidence": 0.5209371698785824,
           "bbox": [
             [
               269.0,
@@ -3286,7 +3330,7 @@
         },
         {
           "text": "@uipuiigate",
-          "confidence": 0.6886394307852817,
+          "confidence": 0.668137611499449,
           "bbox": [
             [
               535.0,
@@ -3307,7 +3351,7 @@
           ]
         }
       ],
-      "num_blocks": 6,
+      "num_blocks": 7,
       "frame_id": 34,
       "frame_number": 35
     },
@@ -3317,7 +3361,7 @@
       "text_blocks": [
         {
           "text": "1 Forget Gate",
-          "confidence": 0.6634772290832827,
+          "confidence": 0.691850671677909,
           "bbox": [
             [
               359.0,
@@ -3339,7 +3383,7 @@
         },
         {
           "text": "3",
-          "confidence": 0.9998490867335619,
+          "confidence": 0.9998557619611717,
           "bbox": [
             [
               357.0,
@@ -3361,7 +3405,7 @@
         },
         {
           "text": "Output Gate",
-          "confidence": 0.9815280408845781,
+          "confidence": 0.9833226878077205,
           "bbox": [
             [
               407.0,
@@ -3383,7 +3427,7 @@
         },
         {
           "text": "Forget gate",
-          "confidence": 0.7351902457038927,
+          "confidence": 0.7285908130712058,
           "bbox": [
             [
               177.0,
@@ -3405,7 +3449,7 @@
         },
         {
           "text": "(@utputgate",
-          "confidence": 0.8367952377407138,
+          "confidence": 0.8413312939330276,
           "bbox": [
             [
               534.0,
@@ -3436,7 +3480,7 @@
       "text_blocks": [
         {
           "text": "1 Forget Gate",
-          "confidence": 0.6633342616371304,
+          "confidence": 0.6919345362140699,
           "bbox": [
             [
               359.0,
@@ -3458,7 +3502,7 @@
         },
         {
           "text": "2 lnput Gate",
-          "confidence": 0.6217826566500722,
+          "confidence": 0.6089317741838792,
           "bbox": [
             [
               346.0,
@@ -3480,7 +3524,7 @@
         },
         {
           "text": "3",
-          "confidence": 0.9998490867335619,
+          "confidence": 0.9998557619611717,
           "bbox": [
             [
               357.0,
@@ -3502,7 +3546,7 @@
         },
         {
           "text": "Output Gate",
-          "confidence": 0.9830668104297732,
+          "confidence": 0.9828917417830942,
           "bbox": [
             [
               407.0,
@@ -3524,7 +3568,7 @@
         },
         {
           "text": "Forget gate",
-          "confidence": 0.7351902457038927,
+          "confidence": 0.7285908130712058,
           "bbox": [
             [
               177.0,
@@ -3546,7 +3590,7 @@
         },
         {
           "text": "ilnpiitigate:",
-          "confidence": 0.6184620767439603,
+          "confidence": 0.523082369376369,
           "bbox": [
             [
               272.0,
@@ -3568,7 +3612,7 @@
         },
         {
           "text": "(@utputgate",
-          "confidence": 0.8367952377407138,
+          "confidence": 0.8413312939330276,
           "bbox": [
             [
               534.0,
@@ -3599,7 +3643,7 @@
       "text_blocks": [
         {
           "text": "1 Forget Gate",
-          "confidence": 0.6584327912156747,
+          "confidence": 0.6882488519444897,
           "bbox": [
             [
               359.0,
@@ -3621,7 +3665,7 @@
         },
         {
           "text": "2 lnput Gate",
-          "confidence": 0.617908149919956,
+          "confidence": 0.6056346166683501,
           "bbox": [
             [
               346.0,
@@ -3643,7 +3687,7 @@
         },
         {
           "text": "3",
-          "confidence": 0.9998490867335619,
+          "confidence": 0.9998557619611717,
           "bbox": [
             [
               357.0,
@@ -3665,7 +3709,7 @@
         },
         {
           "text": "Output Gate",
-          "confidence": 0.9830668104297732,
+          "confidence": 0.9828917417830942,
           "bbox": [
             [
               407.0,
@@ -3687,7 +3731,7 @@
         },
         {
           "text": "Forget gate",
-          "confidence": 0.7351902457038927,
+          "confidence": 0.7285908130712058,
           "bbox": [
             [
               177.0,
@@ -3709,7 +3753,7 @@
         },
         {
           "text": "inpiitigate:",
-          "confidence": 0.7253679555863269,
+          "confidence": 0.7303723948101253,
           "bbox": [
             [
               268.0,
@@ -3731,7 +3775,7 @@
         },
         {
           "text": "(@utputgate",
-          "confidence": 0.8367952377407138,
+          "confidence": 0.8413312939330276,
           "bbox": [
             [
               534.0,
@@ -3762,7 +3806,7 @@
       "text_blocks": [
         {
           "text": "1 Forget Gate",
-          "confidence": 0.6584327912156747,
+          "confidence": 0.6882488519444897,
           "bbox": [
             [
               359.0,
@@ -3784,7 +3828,7 @@
         },
         {
           "text": "2 lnput Gate",
-          "confidence": 0.617908149919956,
+          "confidence": 0.6056346166683501,
           "bbox": [
             [
               346.0,
@@ -3806,7 +3850,7 @@
         },
         {
           "text": "3",
-          "confidence": 0.9998490867335619,
+          "confidence": 0.9998557619611717,
           "bbox": [
             [
               357.0,
@@ -3828,7 +3872,7 @@
         },
         {
           "text": "Output Gate",
-          "confidence": 0.9830668104297732,
+          "confidence": 0.9828917417830942,
           "bbox": [
             [
               407.0,
@@ -3850,7 +3894,7 @@
         },
         {
           "text": "Forget gate",
-          "confidence": 0.7351902457038927,
+          "confidence": 0.7285908130712058,
           "bbox": [
             [
               177.0,
@@ -3872,7 +3916,7 @@
         },
         {
           "text": "ilnputigate:",
-          "confidence": 0.5740081850059083,
+          "confidence": 0.6014555004643011,
           "bbox": [
             [
               272.0,
@@ -3894,7 +3938,7 @@
         },
         {
           "text": "(@utputgate",
-          "confidence": 0.8367952377407138,
+          "confidence": 0.8413312939330276,
           "bbox": [
             [
               534.0,
@@ -3925,7 +3969,7 @@
       "text_blocks": [
         {
           "text": "1 Forget Gate",
-          "confidence": 0.6584327912156747,
+          "confidence": 0.6882488519444897,
           "bbox": [
             [
               359.0,
@@ -3947,7 +3991,7 @@
         },
         {
           "text": "2 lnput Gate",
-          "confidence": 0.617908149919956,
+          "confidence": 0.6056346166683501,
           "bbox": [
             [
               346.0,
@@ -3969,7 +4013,7 @@
         },
         {
           "text": "3",
-          "confidence": 0.9998490867335619,
+          "confidence": 0.9998557619611717,
           "bbox": [
             [
               357.0,
@@ -3991,7 +4035,7 @@
         },
         {
           "text": "Output Gate",
-          "confidence": 0.9830668104297732,
+          "confidence": 0.9828917417830942,
           "bbox": [
             [
               407.0,
@@ -4013,7 +4057,7 @@
         },
         {
           "text": "Forget gate",
-          "confidence": 0.7157078858002813,
+          "confidence": 0.7298535658908305,
           "bbox": [
             [
               177.0,
@@ -4035,7 +4079,7 @@
         },
         {
           "text": "(@utputgate'",
-          "confidence": 0.8653135826342313,
+          "confidence": 0.8624675022987669,
           "bbox": [
             [
               534.0,
@@ -4062,11 +4106,11 @@
     },
     {
       "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0041.jpg",
-      "full_text": "Long Short-Term Memory 1Forget Gate Eorget gatel inputigate (@utputgatea",
+      "full_text": "Long Short-Term Memory 1Forget Gate Eorget gatel inputgate (@utputgatea",
       "text_blocks": [
         {
           "text": "Long Short-Term Memory",
-          "confidence": 0.6705816522839332,
+          "confidence": 0.8614714627589152,
           "bbox": [
             [
               178.0,
@@ -4088,7 +4132,7 @@
         },
         {
           "text": "1Forget Gate",
-          "confidence": 0.9267847029833252,
+          "confidence": 0.9287655273647308,
           "bbox": [
             [
               360.0,
@@ -4110,7 +4154,7 @@
         },
         {
           "text": "Eorget gatel",
-          "confidence": 0.6590262262114098,
+          "confidence": 0.6731057810292491,
           "bbox": [
             [
               172.0,
@@ -4131,8 +4175,8 @@
           ]
         },
         {
-          "text": "inputigate",
-          "confidence": 0.5074892999169692,
+          "text": "inputgate",
+          "confidence": 0.7330607145322895,
           "bbox": [
             [
               265.0,
@@ -4154,7 +4198,7 @@
         },
         {
           "text": "(@utputgatea",
-          "confidence": 0.5243105308001538,
+          "confidence": 0.5659937299692696,
           "bbox": [
             [
               535.0,
@@ -4185,7 +4229,7 @@
       "text_blocks": [
         {
           "text": "Long Short-Term Memory",
-          "confidence": 0.786072445493131,
+          "confidence": 0.8087140505195014,
           "bbox": [
             [
               178.0,
@@ -4207,7 +4251,7 @@
         },
         {
           "text": "1Forget Gate",
-          "confidence": 0.9164769741585318,
+          "confidence": 0.9289849881924361,
           "bbox": [
             [
               360.0,
@@ -4229,7 +4273,7 @@
         },
         {
           "text": "2 lnput Gate",
-          "confidence": 0.528753389229397,
+          "confidence": 0.5033722983583807,
           "bbox": [
             [
               343.0,
@@ -4251,7 +4295,7 @@
         },
         {
           "text": "Eorget gatel",
-          "confidence": 0.6590262262114098,
+          "confidence": 0.6731057810292491,
           "bbox": [
             [
               172.0,
@@ -4273,7 +4317,7 @@
         },
         {
           "text": "inputigate",
-          "confidence": 0.648476899494858,
+          "confidence": 0.6724141081667189,
           "bbox": [
             [
               265.0,
@@ -4304,7 +4348,7 @@
       "text_blocks": [
         {
           "text": "Long Short-Term Memory",
-          "confidence": 0.786072445493131,
+          "confidence": 0.8087140505195014,
           "bbox": [
             [
               178.0,
@@ -4326,7 +4370,7 @@
         },
         {
           "text": "1Forget Gate",
-          "confidence": 0.9164769741585318,
+          "confidence": 0.9289849881924361,
           "bbox": [
             [
               360.0,
@@ -4348,7 +4392,7 @@
         },
         {
           "text": "2 lnput Gate",
-          "confidence": 0.542672928661311,
+          "confidence": 0.5042921911742575,
           "bbox": [
             [
               343.0,
@@ -4370,7 +4414,7 @@
         },
         {
           "text": "Eorget gatel",
-          "confidence": 0.6857034122176798,
+          "confidence": 0.6707017792055643,
           "bbox": [
             [
               172.0,
@@ -4392,7 +4436,7 @@
         },
         {
           "text": "inputigate",
-          "confidence": 0.6602070076500195,
+          "confidence": 0.6645107024961352,
           "bbox": [
             [
               265.0,
@@ -4423,7 +4467,7 @@
       "text_blocks": [
         {
           "text": "Long Short-Term Memory",
-          "confidence": 0.786072445493131,
+          "confidence": 0.8087140505195014,
           "bbox": [
             [
               178.0,
@@ -4445,7 +4489,7 @@
         },
         {
           "text": "1Forget Gate",
-          "confidence": 0.9164769741585318,
+          "confidence": 0.9289849881924361,
           "bbox": [
             [
               360.0,
@@ -4467,7 +4511,7 @@
         },
         {
           "text": "2 lnput Gate",
-          "confidence": 0.528753389229397,
+          "confidence": 0.5033722983583807,
           "bbox": [
             [
               343.0,
@@ -4489,7 +4533,7 @@
         },
         {
           "text": "Eorget gatel",
-          "confidence": 0.6590262262114098,
+          "confidence": 0.6731057810292491,
           "bbox": [
             [
               172.0,
@@ -4511,7 +4555,7 @@
         },
         {
           "text": "inputigate",
-          "confidence": 0.6439809900965461,
+          "confidence": 0.663080957167665,
           "bbox": [
             [
               265.0,
@@ -4533,7 +4577,7 @@
         },
         {
           "text": "(Outputgate]",
-          "confidence": 0.7561249493861664,
+          "confidence": 0.7017355859278744,
           "bbox": [
             [
               536.0,
@@ -4560,11 +4604,11 @@
     },
     {
       "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0045.jpg",
-      "full_text": "Long Short-Term Memory 1Forget Gate 3 Output Gate Eorget gatel inputigate",
+      "full_text": "Long Short-Term Memory 1Forget Gate Eorget gatel inputigate (@Outpuigatea",
       "text_blocks": [
         {
           "text": "Long Short-Term Memory",
-          "confidence": 0.7887235648743881,
+          "confidence": 0.8094722037602973,
           "bbox": [
             [
               178.0,
@@ -4586,7 +4630,7 @@
         },
         {
           "text": "1Forget Gate",
-          "confidence": 0.9164769741585318,
+          "confidence": 0.9289849881924361,
           "bbox": [
             [
               360.0,
@@ -4603,34 +4647,12 @@
             [
               360.0,
               480.0
-            ]
-          ]
-        },
-        {
-          "text": "3 Output Gate",
-          "confidence": 0.549705591299855,
-          "bbox": [
-            [
-              350.0,
-              550.0
-            ],
-            [
-              781.0,
-              550.0
-            ],
-            [
-              781.0,
-              631.0
-            ],
-            [
-              350.0,
-              631.0
             ]
           ]
         },
         {
           "text": "Eorget gatel",
-          "confidence": 0.657200611058456,
+          "confidence": 0.6562141331126153,
           "bbox": [
             [
               172.0,
@@ -4652,7 +4674,7 @@
         },
         {
           "text": "inputigate",
-          "confidence": 0.6109895595587492,
+          "confidence": 0.5478306164939553,
           "bbox": [
             [
               265.0,
@@ -4671,6 +4693,28 @@
               1515.0
             ]
           ]
+        },
+        {
+          "text": "(@Outpuigatea",
+          "confidence": 0.6101586996181129,
+          "bbox": [
+            [
+              538.0,
+              1456.0
+            ],
+            [
+              776.0,
+              1456.0
+            ],
+            [
+              776.0,
+              1512.0
+            ],
+            [
+              538.0,
+              1512.0
+            ]
+          ]
         }
       ],
       "num_blocks": 5,
@@ -4683,7 +4727,7 @@
       "text_blocks": [
         {
           "text": "1Forget Gate",
-          "confidence": 0.6957757844968822,
+          "confidence": 0.6842587550999968,
           "bbox": [
             [
               360.0,
@@ -4705,7 +4749,7 @@
         },
         {
           "text": "2 lnput Gate",
-          "confidence": 0.7851541514599282,
+          "confidence": 0.808232229357815,
           "bbox": [
             [
               343.0,
@@ -4727,7 +4771,7 @@
         },
         {
           "text": "3 Output Gate",
-          "confidence": 0.5067556681492428,
+          "confidence": 0.5391993694420588,
           "bbox": [
             [
               353.0,
@@ -4749,7 +4793,7 @@
         },
         {
           "text": "Forgetgate",
-          "confidence": 0.7973747917789784,
+          "confidence": 0.8017598745989963,
           "bbox": [
             [
               170.0,
@@ -4771,7 +4815,7 @@
         },
         {
           "text": "Input gate;",
-          "confidence": 0.6946166523063124,
+          "confidence": 0.6501876407524017,
           "bbox": [
             [
               271.0,
@@ -4793,7 +4837,7 @@
         },
         {
           "text": "(@utputgaten",
-          "confidence": 0.5911487221533952,
+          "confidence": 0.6486737119082474,
           "bbox": [
             [
               536.0,
@@ -4824,7 +4868,7 @@
       "text_blocks": [
         {
           "text": "Long Short-Term Memory",
-          "confidence": 0.543766074793169,
+          "confidence": 0.5561241976044867,
           "bbox": [
             [
               174.0,
@@ -4846,18 +4890,18 @@
         },
         {
           "text": "1Forget Gate",
-          "confidence": 0.7198442509440501,
+          "confidence": 0.6842587550999968,
           "bbox": [
             [
               360.0,
               402.0
             ],
             [
-              765.0,
+              764.0,
               402.0
             ],
             [
-              765.0,
+              764.0,
               480.0
             ],
             [
@@ -4868,7 +4912,7 @@
         },
         {
           "text": "2 lnput Gate",
-          "confidence": 0.7851541514599282,
+          "confidence": 0.808232229357815,
           "bbox": [
             [
               343.0,
@@ -4890,7 +4934,7 @@
         },
         {
           "text": "3 Output Gate",
-          "confidence": 0.5067556681492428,
+          "confidence": 0.5391993694420588,
           "bbox": [
             [
               353.0,
@@ -4912,7 +4956,7 @@
         },
         {
           "text": "Forgetgate",
-          "confidence": 0.7973747917789784,
+          "confidence": 0.8017598745989963,
           "bbox": [
             [
               170.0,
@@ -4934,7 +4978,7 @@
         },
         {
           "text": "Input gate;",
-          "confidence": 0.6946166523063124,
+          "confidence": 0.6501876407524017,
           "bbox": [
             [
               271.0,
@@ -4965,7 +5009,7 @@
       "text_blocks": [
         {
           "text": "Long Short-Term Memory",
-          "confidence": 0.5439017065662691,
+          "confidence": 0.5588249748466221,
           "bbox": [
             [
               174.0,
@@ -4987,7 +5031,7 @@
         },
         {
           "text": "1Forget Gate",
-          "confidence": 0.7198442509440501,
+          "confidence": 0.8016689743783577,
           "bbox": [
             [
               360.0,
@@ -5009,7 +5053,7 @@
         },
         {
           "text": "2 lnput Gate",
-          "confidence": 0.7851541514599282,
+          "confidence": 0.808232229357815,
           "bbox": [
             [
               343.0,
@@ -5031,7 +5075,7 @@
         },
         {
           "text": "3 Output Gate",
-          "confidence": 0.5067556681492428,
+          "confidence": 0.5391993694420588,
           "bbox": [
             [
               353.0,
@@ -5053,7 +5097,7 @@
         },
         {
           "text": "Forgetgate",
-          "confidence": 0.7973747917789784,
+          "confidence": 0.8017598745989963,
           "bbox": [
             [
               170.0,
@@ -5075,7 +5119,7 @@
         },
         {
           "text": "Input gate;",
-          "confidence": 0.6946166523063124,
+          "confidence": 0.6501876407524017,
           "bbox": [
             [
               271.0,
@@ -5106,7 +5150,7 @@
       "text_blocks": [
         {
           "text": "Long Short-Term Memory",
-          "confidence": 0.543766074793169,
+          "confidence": 0.5561241976044867,
           "bbox": [
             [
               174.0,
@@ -5128,18 +5172,18 @@
         },
         {
           "text": "1Forget Gate",
-          "confidence": 0.7198442509440501,
+          "confidence": 0.6842587550999968,
           "bbox": [
             [
               360.0,
               402.0
             ],
             [
-              765.0,
+              764.0,
               402.0
             ],
             [
-              765.0,
+              764.0,
               480.0
             ],
             [
@@ -5150,7 +5194,7 @@
         },
         {
           "text": "2 lnput Gate",
-          "confidence": 0.7851541514599282,
+          "confidence": 0.808232229357815,
           "bbox": [
             [
               343.0,
@@ -5172,7 +5216,7 @@
         },
         {
           "text": "3 Output Gate",
-          "confidence": 0.5067556681492428,
+          "confidence": 0.5391993694420588,
           "bbox": [
             [
               353.0,
@@ -5194,7 +5238,7 @@
         },
         {
           "text": "Forgetgate",
-          "confidence": 0.7973747917789784,
+          "confidence": 0.8017598745989963,
           "bbox": [
             [
               170.0,
@@ -5216,7 +5260,7 @@
         },
         {
           "text": "Input gate;",
-          "confidence": 0.6946166523063124,
+          "confidence": 0.6501876407524017,
           "bbox": [
             [
               271.0,
@@ -5243,22 +5287,44 @@
     },
     {
       "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0050.jpg",
-      "full_text": "1Forget Gate 2 lnput Gate 3 Output Gate Forgetgate nW Input gate;",
+      "full_text": "Long Short-Term Memory 1Forget Gate 2 lnput Gate 3 Output Gate Forgetgate Input gate;",
       "text_blocks": [
         {
+          "text": "Long Short-Term Memory",
+          "confidence": 0.5662475487632822,
+          "bbox": [
+            [
+              174.0,
+              262.0
+            ],
+            [
+              907.0,
+              262.0
+            ],
+            [
+              907.0,
+              350.0
+            ],
+            [
+              174.0,
+              350.0
+            ]
+          ]
+        },
+        {
           "text": "1Forget Gate",
-          "confidence": 0.7198442509440501,
+          "confidence": 0.6842587550999968,
           "bbox": [
             [
               360.0,
               402.0
             ],
             [
-              765.0,
+              764.0,
               402.0
             ],
             [
-              765.0,
+              764.0,
               480.0
             ],
             [
@@ -5269,7 +5335,7 @@
         },
         {
           "text": "2 lnput Gate",
-          "confidence": 0.7851541514599282,
+          "confidence": 0.808232229357815,
           "bbox": [
             [
               343.0,
@@ -5291,7 +5357,7 @@
         },
         {
           "text": "3 Output Gate",
-          "confidence": 0.5067556681492428,
+          "confidence": 0.5391993694420588,
           "bbox": [
             [
               353.0,
@@ -5313,7 +5379,7 @@
         },
         {
           "text": "Forgetgate",
-          "confidence": 0.7973747917789784,
+          "confidence": 0.8017598745989963,
           "bbox": [
             [
               170.0,
@@ -5330,34 +5396,12 @@
             [
               170.0,
               800.0
-            ]
-          ]
-        },
-        {
-          "text": "nW",
-          "confidence": 0.5488161695112441,
-          "bbox": [
-            [
-              450.0,
-              1196.0
-            ],
-            [
-              572.0,
-              1196.0
-            ],
-            [
-              572.0,
-              1252.0
-            ],
-            [
-              450.0,
-              1252.0
             ]
           ]
         },
         {
           "text": "Input gate;",
-          "confidence": 0.6946166523063124,
+          "confidence": 0.6501876407524017,
           "bbox": [
             [
               271.0,
@@ -5384,11 +5428,11 @@
     },
     {
       "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0051.jpg",
-      "full_text": "Shert-Term Memory Forget Gate 2 Input Gete 3.Output Gate Forget gate long",
+      "full_text": "Shert-Term Memory Forget Gate 3.Output Gate Forget gate long",
       "text_blocks": [
         {
           "text": "Shert-Term Memory",
-          "confidence": 0.6668256056838308,
+          "confidence": 0.6557384901990051,
           "bbox": [
             [
               328.0,
@@ -5410,7 +5454,7 @@
         },
         {
           "text": "Forget Gate",
-          "confidence": 0.7583920601436819,
+          "confidence": 0.7711882514836,
           "bbox": [
             [
               412.0,
@@ -5427,34 +5471,12 @@
             [
               412.0,
               480.0
-            ]
-          ]
-        },
-        {
-          "text": "2 Input Gete",
-          "confidence": 0.5482896059222776,
-          "bbox": [
-            [
-              345.0,
-              476.0
-            ],
-            [
-              724.0,
-              476.0
-            ],
-            [
-              724.0,
-              557.0
-            ],
-            [
-              345.0,
-              557.0
             ]
           ]
         },
         {
           "text": "3.Output Gate",
-          "confidence": 0.6736808726530377,
+          "confidence": 0.6259379501455424,
           "bbox": [
             [
               354.0,
@@ -5476,7 +5498,7 @@
         },
         {
           "text": "Forget gate",
-          "confidence": 0.9946454443992365,
+          "confidence": 0.9946539569462824,
           "bbox": [
             [
               176.0,
@@ -5498,7 +5520,7 @@
         },
         {
           "text": "long",
-          "confidence": 0.9646744728088379,
+          "confidence": 0.9667678475379944,
           "bbox": [
             [
               181.99599649376776,
@@ -5519,17 +5541,17 @@
           ]
         }
       ],
-      "num_blocks": 6,
+      "num_blocks": 5,
       "frame_id": 50,
       "frame_number": 51
     },
     {
       "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0052.jpg",
-      "full_text": "Forget Gate 2 Input Gate 3.Output Gate Forget gate @@utput",
+      "full_text": "Forget Gate 2 Input Gate 3.Output Gate Forget gate",
       "text_blocks": [
         {
           "text": "Forget Gate",
-          "confidence": 0.7645980845644156,
+          "confidence": 0.7428588006274359,
           "bbox": [
             [
               412.0,
@@ -5551,7 +5573,7 @@
         },
         {
           "text": "2 Input Gate",
-          "confidence": 0.765497653410066,
+          "confidence": 0.7622373015995489,
           "bbox": [
             [
               345.0,
@@ -5573,7 +5595,7 @@
         },
         {
           "text": "3.Output Gate",
-          "confidence": 0.6800380316522887,
+          "confidence": 0.9016231385791723,
           "bbox": [
             [
               354.0,
@@ -5595,7 +5617,7 @@
         },
         {
           "text": "Forget gate",
-          "confidence": 0.9938478295772004,
+          "confidence": 0.9933816285717557,
           "bbox": [
             [
               176.0,
@@ -5612,33 +5634,11 @@
             [
               176.0,
               796.0
-            ]
-          ]
-        },
-        {
-          "text": "@@utput",
-          "confidence": 0.5010865802321264,
-          "bbox": [
-            [
-              534.0,
-              1454.0
-            ],
-            [
-              687.0,
-              1454.0
-            ],
-            [
-              687.0,
-              1516.0
-            ],
-            [
-              534.0,
-              1516.0
             ]
           ]
         }
       ],
-      "num_blocks": 5,
+      "num_blocks": 4,
       "frame_id": 51,
       "frame_number": 52
     },
@@ -5648,7 +5648,7 @@
       "text_blocks": [
         {
           "text": "Long Shert-Term Memory",
-          "confidence": 0.7275279091633413,
+          "confidence": 0.7500623483271046,
           "bbox": [
             [
               171.0,
@@ -5670,7 +5670,7 @@
         },
         {
           "text": "Forgef Gate",
-          "confidence": 0.7706686423940933,
+          "confidence": 0.6090760526393819,
           "bbox": [
             [
               412.0,
@@ -5692,7 +5692,7 @@
         },
         {
           "text": "2 Input Gate",
-          "confidence": 0.9588730678992031,
+          "confidence": 0.9560974076538322,
           "bbox": [
             [
               342.0,
@@ -5714,7 +5714,7 @@
         },
         {
           "text": "3.Output Gate",
-          "confidence": 0.6800380316522887,
+          "confidence": 0.9016231385791723,
           "bbox": [
             [
               354.0,
@@ -5736,7 +5736,7 @@
         },
         {
           "text": "Forget",
-          "confidence": 0.9960471155418599,
+          "confidence": 0.9964495420107139,
           "bbox": [
             [
               176.0,
@@ -5758,7 +5758,7 @@
         },
         {
           "text": "1",
-          "confidence": 0.5422703997473945,
+          "confidence": 0.5420381467221347,
           "bbox": [
             [
               884.0,
@@ -5780,7 +5780,7 @@
         },
         {
           "text": "gate'",
-          "confidence": 0.7481959997196916,
+          "confidence": 0.748593700981113,
           "bbox": [
             [
               299.25995562830275,
@@ -5811,7 +5811,7 @@
       "text_blocks": [
         {
           "text": "Long Shert-Term Memory",
-          "confidence": 0.732919850340136,
+          "confidence": 0.7514400280889593,
           "bbox": [
             [
               171.0,
@@ -5833,7 +5833,7 @@
         },
         {
           "text": "Forgef Gate",
-          "confidence": 0.7706686423940933,
+          "confidence": 0.6090760526393819,
           "bbox": [
             [
               412.0,
@@ -5855,7 +5855,7 @@
         },
         {
           "text": "2 Input Gate",
-          "confidence": 0.9588730678992031,
+          "confidence": 0.9560974076538322,
           "bbox": [
             [
               342.0,
@@ -5877,7 +5877,7 @@
         },
         {
           "text": "3.Output Gate",
-          "confidence": 0.6800380316522887,
+          "confidence": 0.9016231385791723,
           "bbox": [
             [
               354.0,
@@ -5899,7 +5899,7 @@
         },
         {
           "text": "Forget",
-          "confidence": 0.9958961109495719,
+          "confidence": 0.9950872232447769,
           "bbox": [
             [
               176.0,
@@ -5921,7 +5921,7 @@
         },
         {
           "text": "1",
-          "confidence": 0.5422703997473945,
+          "confidence": 0.5420381467221347,
           "bbox": [
             [
               884.0,
@@ -5943,7 +5943,7 @@
         },
         {
           "text": "'gate",
-          "confidence": 0.8957273748118794,
+          "confidence": 0.8779899570577238,
           "bbox": [
             [
               667.3941368172834,
@@ -5974,7 +5974,7 @@
       "text_blocks": [
         {
           "text": "Long Shert-Term Memory",
-          "confidence": 0.732919850340136,
+          "confidence": 0.7514400280889593,
           "bbox": [
             [
               171.0,
@@ -5996,7 +5996,7 @@
         },
         {
           "text": "Forgef Gate",
-          "confidence": 0.7706686423940933,
+          "confidence": 0.6090760526393819,
           "bbox": [
             [
               412.0,
@@ -6018,7 +6018,7 @@
         },
         {
           "text": "2 Input Gate",
-          "confidence": 0.9588730678992031,
+          "confidence": 0.9560974076538322,
           "bbox": [
             [
               342.0,
@@ -6040,7 +6040,7 @@
         },
         {
           "text": "3.Output Gate",
-          "confidence": 0.6800380316522887,
+          "confidence": 0.9016231385791723,
           "bbox": [
             [
               354.0,
@@ -6062,7 +6062,7 @@
         },
         {
           "text": "Forget",
-          "confidence": 0.9958961109495719,
+          "confidence": 0.9950872232447769,
           "bbox": [
             [
               176.0,
@@ -6084,7 +6084,7 @@
         },
         {
           "text": "1",
-          "confidence": 0.5422703997473945,
+          "confidence": 0.5420381467221347,
           "bbox": [
             [
               884.0,
@@ -6106,7 +6106,7 @@
         },
         {
           "text": "@@utputgatel",
-          "confidence": 0.5982829494620331,
+          "confidence": 0.5924363405712822,
           "bbox": [
             [
               534.0,
@@ -6133,11 +6133,11 @@
     },
     {
       "image_path": "extracted\\frames\\LSTM\\LSTM_frame_0056.jpg",
-      "full_text": "Long Shert TermMemory 1Forget- Gate 3.Output Gate: Forgetgate \"Oufputgate",
+      "full_text": "Long Shert TermMemory 1Forget- Gate 3.Output Gate: Forget gate \"Oufputgate",
       "text_blocks": [
         {
           "text": "Long Shert TermMemory",
-          "confidence": 0.7259741910336208,
+          "confidence": 0.7438616699806044,
           "bbox": [
             [
               176.0,
@@ -6159,7 +6159,7 @@
         },
         {
           "text": "1Forget- Gate",
-          "confidence": 0.6432666294708524,
+          "confidence": 0.6596451576740773,
           "bbox": [
             [
               362.0,
@@ -6181,7 +6181,7 @@
         },
         {
           "text": "3.Output Gate:",
-          "confidence": 0.6029491543755128,
+          "confidence": 0.5547807910534597,
           "bbox": [
             [
               352.0,
@@ -6202,8 +6202,8 @@
           ]
         },
         {
-          "text": "Forgetgate",
-          "confidence": 0.9197069788052528,
+          "text": "Forget gate",
+          "confidence": 0.5931622682286268,
           "bbox": [
             [
               175.0,
@@ -6225,7 +6225,7 @@
         },
         {
           "text": "\"Oufputgate",
-          "confidence": 0.5294034748330002,
+          "confidence": 0.5129924329369925,
           "bbox": [
             [
               534.0,
@@ -6256,7 +6256,7 @@
       "text_blocks": [
         {
           "text": "Long Short-Term Memory",
-          "confidence": 0.6736448180309264,
+          "confidence": 0.641205049806822,
           "bbox": [
             [
               174.0,
@@ -6278,7 +6278,7 @@
         },
         {
           "text": "iQutputgate!",
-          "confidence": 0.743426884933808,
+          "confidence": 0.5466690012264523,
           "bbox": [
             [
               521.0,
@@ -6309,7 +6309,7 @@
       "text_blocks": [
         {
           "text": "Long Shert- TermiMemory;",
-          "confidence": 0.6529324966511877,
+          "confidence": 0.6606815555547945,
           "bbox": [
             [
               173.0,
@@ -6331,7 +6331,7 @@
         },
         {
           "text": "Naturellanguage processing",
-          "confidence": 0.693499876307857,
+          "confidence": 0.7678324399646522,
           "bbox": [
             [
               185.0,
@@ -6362,7 +6362,7 @@
       "text_blocks": [
         {
           "text": "Naturd language processing",
-          "confidence": 0.6147432646364018,
+          "confidence": 0.6238108810305797,
           "bbox": [
             [
               183.0,
@@ -6384,7 +6384,7 @@
         },
         {
           "text": "Sequentid dataproblems",
-          "confidence": 0.8046118224492496,
+          "confidence": 0.7991281356522042,
           "bbox": [
             [
               182.0,
@@ -6415,7 +6415,7 @@
       "text_blocks": [
         {
           "text": "Naturdlanguage processing",
-          "confidence": 0.8870191245308229,
+          "confidence": 0.8728648977491169,
           "bbox": [
             [
               184.0,
@@ -6437,7 +6437,7 @@
         },
         {
           "text": "Sequentia dataproblems",
-          "confidence": 0.6544811537317011,
+          "confidence": 0.7083340631459504,
           "bbox": [
             [
               185.0,

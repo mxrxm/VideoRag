@@ -2,6 +2,7 @@ import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 from .base import BaseLLM
+from typing import List, Optional, Any, Iterable, Dict
 
 
 class HuggingFaceLLM(BaseLLM):
@@ -15,6 +16,7 @@ class HuggingFaceLLM(BaseLLM):
         top_p: float = 0.95,
         is_chat_model: bool = True,
         system_prompt: str = "You are a helpful assistant.",
+        token: Optional[str] = None,
     ):
         self.model_name = model_name
         self.max_new_tokens = max_new_tokens
@@ -22,8 +24,9 @@ class HuggingFaceLLM(BaseLLM):
         self.top_p = top_p
         self.is_chat_model = is_chat_model
         self.system_prompt = system_prompt
+        self.token=token
 
-        self.tokenizer = AutoTokenizer.from_pretrained(model_name)
+        self.tokenizer = AutoTokenizer.from_pretrained(model_name,token=token)
 
         # Some models don't have pad_token -> use eos_token
         if self.tokenizer.pad_token_id is None and self.tokenizer.eos_token_id is not None:
@@ -33,6 +36,7 @@ class HuggingFaceLLM(BaseLLM):
             model_name,
             torch_dtype=torch_dtype,
             device_map=device,  # "cpu", "auto", etc.
+            token=token
         )
 
     def _build_chat_prompt(self, user_prompt: str) -> str:
